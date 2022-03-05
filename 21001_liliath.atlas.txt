@@ -1,0 +1,251 @@
+
+21001_liliath.png
+size: 664,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin_1/Weapon
+  rotate: false
+  xy: 2, 2
+  size: 495, 1015
+  orig: 495, 1015
+  offset: 0, 0
+  index: -1
+skin_1/belt
+  rotate: false
+  xy: 103, 891
+  size: 129, 126
+  orig: 131, 128
+  offset: 1, 1
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 356, 717
+  size: 90, 163
+  orig: 90, 163
+  offset: 0, 0
+  index: -1
+skin_1/cloth
+  rotate: false
+  xy: 234, 763
+  size: 72, 203
+  orig: 72, 203
+  offset: 0, 0
+  index: -1
+skin_1/cloth_1
+  rotate: false
+  xy: 231, 487
+  size: 37, 263
+  orig: 37, 263
+  offset: 0, 0
+  index: -1
+skin_1/cloth_2
+  rotate: false
+  xy: 507, 678
+  size: 49, 264
+  orig: 57, 264
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 400, 923
+  size: 72, 94
+  orig: 74, 96
+  offset: 1, 1
+  index: -1
+skin_1/hair
+  rotate: false
+  xy: 2, 490
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+skin_1/hair_1
+  rotate: false
+  xy: 553, 198
+  size: 73, 117
+  orig: 74, 118
+  offset: 0, 0
+  index: -1
+skin_1/hair_2
+  rotate: false
+  xy: 103, 651
+  size: 43, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+skin_1/hair_3
+  rotate: false
+  xy: 412, 809
+  size: 50, 113
+  orig: 51, 117
+  offset: 0, 0
+  index: -1
+skin_1/horn_2
+  rotate: false
+  xy: 2, 379
+  size: 51, 109
+  orig: 53, 113
+  offset: 1, 3
+  index: -1
+skin_1/l_arm
+  rotate: false
+  xy: 499, 7
+  size: 65, 146
+  orig: 67, 148
+  offset: 1, 1
+  index: -1
+skin_1/l_eye
+  rotate: false
+  xy: 279, 973
+  size: 23, 16
+  orig: 25, 18
+  offset: 1, 1
+  index: -1
+skin_1/l_eye_brow
+  rotate: false
+  xy: 256, 750
+  size: 25, 10
+  orig: 27, 12
+  offset: 1, 1
+  index: -1
+skin_1/l_femoral
+  rotate: false
+  xy: 2, 646
+  size: 99, 183
+  orig: 105, 185
+  offset: 1, 1
+  index: -1
+skin_1/l_foot
+  rotate: false
+  xy: 187, 726
+  size: 45, 52
+  orig: 47, 54
+  offset: 1, 1
+  index: -1
+skin_1/l_hand_2
+  rotate: false
+  xy: 474, 949
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+skin_1/l_horn
+  rotate: false
+  xy: 187, 780
+  size: 30, 109
+  orig: 33, 111
+  offset: 2, 1
+  index: -1
+skin_1/l_leg
+  rotate: false
+  xy: 2, 831
+  size: 99, 186
+  orig: 101, 188
+  offset: 1, 1
+  index: -1
+skin_1/l_shoulder
+  rotate: false
+  xy: 541, 711
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+skin_1/l_skirt
+  rotate: false
+  xy: 327, 574
+  size: 188, 331
+  orig: 188, 333
+  offset: 0, 2
+  index: -1
+skin_1/mouth
+  rotate: false
+  xy: 219, 851
+  size: 16, 8
+  orig: 18, 10
+  offset: 1, 1
+  index: -1
+skin_1/r_arm
+  rotate: false
+  xy: 119, 474
+  size: 79, 57
+  orig: 89, 59
+  offset: 9, 1
+  index: -1
+skin_1/r_armor
+  rotate: false
+  xy: 279, 991
+  size: 30, 26
+  orig: 32, 28
+  offset: 1, 1
+  index: -1
+skin_1/r_eye
+  rotate: false
+  xy: 234, 951
+  size: 18, 15
+  orig: 20, 17
+  offset: 1, 1
+  index: -1
+skin_1/r_eye_brow
+  rotate: false
+  xy: 219, 809
+  size: 18, 12
+  orig: 20, 14
+  offset: 1, 1
+  index: -1
+skin_1/r_femoral
+  rotate: false
+  xy: 164, 533
+  size: 66, 189
+  orig: 66, 190
+  offset: 0, 0
+  index: -1
+skin_1/r_finger
+  rotate: false
+  xy: 345, 701
+  size: 34, 49
+  orig: 36, 51
+  offset: 1, 1
+  index: -1
+skin_1/r_foot
+  rotate: false
+  xy: 424, 646
+  size: 74, 54
+  orig: 76, 56
+  offset: 1, 1
+  index: -1
+skin_1/r_hand
+  rotate: false
+  xy: 234, 968
+  size: 43, 49
+  orig: 45, 51
+  offset: 1, 1
+  index: -1
+skin_1/r_leg
+  rotate: false
+  xy: 103, 724
+  size: 82, 165
+  orig: 84, 167
+  offset: 1, 1
+  index: -1
+skin_1/r_shoulder
+  rotate: false
+  xy: 499, 155
+  size: 71, 94
+  orig: 73, 96
+  offset: 1, 1
+  index: -1
+skin_1/r_skirt
+  rotate: false
+  xy: 493, 803
+  size: 130, 214
+  orig: 130, 214
+  offset: 0, 0
+  index: -1
+skin_1/skirt
+  rotate: true
+  xy: 316, 315
+  size: 403, 342
+  orig: 403, 342
+  offset: 0, 0
+  index: -1

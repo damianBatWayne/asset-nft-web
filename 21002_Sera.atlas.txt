@@ -1,0 +1,258 @@
+
+21002_Sera.png
+size: 1024,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin_1/armor
+  rotate: false
+  xy: 143, 37
+  size: 93, 72
+  orig: 95, 74
+  offset: 1, 1
+  index: -1
+skin_1/belt
+  rotate: 180
+  xy: 72, 103
+  size: 210, 104
+  orig: 211, 104
+  offset: 1, 0
+  index: -1
+skin_1/belt_1
+  rotate: false
+  xy: 960, 224
+  size: 59, 70
+  orig: 61, 72
+  offset: 1, 1
+  index: -1
+skin_1/belt_2
+  rotate: false
+  xy: 238, 27
+  size: 183, 47
+  orig: 183, 47
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 400, 211
+  size: 175, 326
+  orig: 176, 326
+  offset: 1, 0
+  index: -1
+skin_1/chest
+  rotate: true
+  xy: 926, 75
+  size: 132, 96
+  orig: 132, 96
+  offset: 0, 0
+  index: -1
+skin_1/cloth_1
+  rotate: false
+  xy: 935, 296
+  size: 77, 240
+  orig: 78, 240
+  offset: 0, 0
+  index: -1
+skin_1/cloth_2
+  rotate: true
+  xy: 240, 67
+  size: 56, 174
+  orig: 57, 174
+  offset: 0, 0
+  index: -1
+skin_1/hair_1
+  rotate: 270
+  xy: 820, 11
+  size: 124, 157
+  orig: 124, 157
+  offset: 0, 0
+  index: -1
+skin_1/hair_2
+  rotate: 180
+  xy: 681, 245
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+skin_1/hair_3
+  rotate: false
+  xy: 412, 30
+  size: 53, 93
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+skin_1/hair_4
+  rotate: true
+  xy: 659, 3
+  size: 96, 155
+  orig: 96, 155
+  offset: 0, 0
+  index: -1
+skin_1/head
+  rotate: 270
+  xy: 448, 34
+  size: 101, 123
+  orig: 101, 123
+  offset: 0, 0
+  index: -1
+skin_1/l_arm
+  rotate: true
+  xy: 283, 124
+  size: 107, 205
+  orig: 109, 207
+  offset: 1, 1
+  index: -1
+skin_1/l_eye
+  rotate: false
+  xy: 132, 521
+  size: 25, 15
+  orig: 29, 17
+  offset: 3, 1
+  index: -1
+skin_1/l_eye_ball
+  rotate: false
+  xy: 250, 519
+  size: 16, 17
+  orig: 18, 19
+  offset: 1, 1
+  index: -1
+skin_1/l_eye_brow
+  rotate: false
+  xy: 2, 519
+  size: 37, 17
+  orig: 39, 19
+  offset: 1, 1
+  index: -1
+skin_1/l_femoral
+  rotate: false
+  xy: 210, 223
+  size: 202, 313
+  orig: 202, 313
+  offset: 0, 0
+  index: -1
+skin_1/l_finger_1
+  rotate: false
+  xy: 157, 497
+  size: 15, 39
+  orig: 16, 40
+  offset: 1, 1
+  index: -1
+skin_1/l_finger_2
+  rotate: false
+  xy: 26, 502
+  size: 30, 34
+  orig: 32, 35
+  offset: 1, 1
+  index: -1
+skin_1/l_finger_3
+  rotate: false
+  xy: 69, 510
+  size: 31, 26
+  orig: 33, 29
+  offset: 2, 0
+  index: -1
+skin_1/l_finger_4
+  rotate: false
+  xy: 101, 513
+  size: 29, 24
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+skin_1/l_foot
+  rotate: false
+  xy: 2, 50
+  size: 58, 112
+  orig: 60, 114
+  offset: 1, 1
+  index: -1
+skin_1/l_hair
+  rotate: false
+  xy: 2, 164
+  size: 252, 373
+  orig: 252, 381
+  offset: 0, 8
+  index: -1
+skin_1/l_leg
+  rotate: true
+  xy: 529, 135
+  size: 89, 197
+  orig: 91, 199
+  offset: 1, 1
+  index: -1
+skin_1/l_shoulder
+  rotate: false
+  xy: 847, 188
+  size: 111, 159
+  orig: 113, 161
+  offset: 1, 1
+  index: -1
+skin_1/r_arm
+  rotate: 180
+  xy: 728, 93
+  size: 166, 93
+  orig: 166, 93
+  offset: 0, 0
+  index: -1
+skin_1/r_eye
+  rotate: false
+  xy: 197, 523
+  size: 22, 13
+  orig: 24, 15
+  offset: 1, 1
+  index: -1
+skin_1/r_eye_ball
+  rotate: false
+  xy: 268, 518
+  size: 14, 18
+  orig: 16, 20
+  offset: 1, 1
+  index: -1
+skin_1/r_eye_brow
+  rotate: false
+  xy: 221, 526
+  size: 27, 10
+  orig: 29, 12
+  offset: 1, 1
+  index: -1
+skin_1/r_femoral
+  rotate: false
+  xy: 574, 226
+  size: 133, 311
+  orig: 134, 312
+  offset: 1, 1
+  index: -1
+skin_1/r_foot
+  rotate: 180
+  xy: 371, 240
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+skin_1/r_hair
+  rotate: false
+  xy: 701, 200
+  size: 143, 336
+  orig: 143, 336
+  offset: 0, 0
+  index: -1
+skin_1/r_hand
+  rotate: false
+  xy: 159, 236
+  size: 50, 58
+  orig: 52, 60
+  offset: 1, 1
+  index: -1
+skin_1/r_leg
+  rotate: false
+  xy: 835, 349
+  size: 98, 187
+  orig: 101, 189
+  offset: 1, 1
+  index: -1
+skin_1/vertex
+  rotate: false
+  xy: 573, 80
+  size: 145, 53
+  orig: 147, 55
+  offset: 1, 1
+  index: -1

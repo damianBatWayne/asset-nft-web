@@ -1,101 +1,174 @@
+
 Silene.png
-	size: 1024, 512
-	filter: Linear, Linear
-	pma: true
-	scale: 0.5
-back-arm
-	bounds: 829, 88, 46, 25
-	rotate: 90
-back-bracer
-	bounds: 195, 238, 39, 28
-	rotate: 90
-back-hand
-	bounds: 724, 140, 36, 34
-	rotate: 90
-back-knee
-	bounds: 760, 131, 49, 67
-	rotate: 90
-back-thigh
-	bounds: 225, 238, 39, 24
-	rotate: 90
-eyes-open
-	bounds: 975, 204, 47, 45
-front-arm
-	bounds: 969, 112, 48, 26
-front-bracer
-	bounds: 724, 97, 41, 29
-	rotate: 90
-front-hand
-	bounds: 251, 239, 41, 38
-front-open-hand
-	bounds: 856, 76, 43, 44
-	rotate: 90
-front-thigh
-	bounds: 729, 178, 57, 29
-	rotate: 90
-gun
-	bounds: 894, 251, 107, 103
-gun-nohand
-	bounds: 764, 241, 105, 102
-head
-	bounds: 756, 345, 136, 149
-lower-leg
-	bounds: 475, 237, 73, 98
-	rotate: 90
-mouth-grind
-	bounds: 975, 172, 47, 30
-mouth-smile
-	bounds: 975, 140, 47, 30
-neck
-	bounds: 366, 282, 18, 21
-raptor-back-arm
-	bounds: 636, 97, 82, 86
-	rotate: 90
-raptor-body
-	bounds: 2, 2, 632, 233
-raptor-front-arm
-	bounds: 871, 168, 81, 102
-	rotate: 90
-raptor-front-leg
-	bounds: 2, 237, 191, 257
-raptor-hindleg-back
-	bounds: 195, 279, 169, 215
-raptor-horn
-	bounds: 431, 312, 182, 80
-	rotate: 90
-raptor-horn-back
-	bounds: 513, 318, 176, 77
-	rotate: 90
-raptor-jaw
-	bounds: 894, 356, 126, 138
-raptor-jaw-tooth
-	bounds: 294, 240, 37, 48
-	rotate: 90
-raptor-mouth-inside
-	bounds: 344, 241, 36, 41
-	rotate: 90
-raptor-saddle-strap-back
-	bounds: 575, 242, 54, 74
-raptor-saddle-strap-front
-	bounds: 764, 182, 57, 95
-	rotate: 90
-raptor-saddle-w-shadow
-	bounds: 592, 323, 162, 171
-raptor-tail-shadow
-	bounds: 366, 305, 189, 63
-	rotate: 90
-raptor-tongue
-	bounds: 387, 239, 86, 64
-stirrup-back
-	bounds: 829, 136, 44, 35
-	rotate: 90
-stirrup-front
-	bounds: 866, 121, 45, 50
-	rotate: 90
-stirrup-strap
-	bounds: 918, 120, 49, 46
-torso
-	bounds: 636, 181, 54, 91
-	rotate: 90
-visor
-	bounds: 631, 237, 131, 84
+size: 1662,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 1343, 2
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+skin_1/anchor
+  rotate: false
+  xy: 1087, 22
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_01
+  rotate: true
+  xy: 1149, 22
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_02
+  rotate: true
+  xy: 518, 15
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_03
+  rotate: true
+  xy: 1426, 2
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+skin_1/arm_R_01
+  rotate: true
+  xy: 1343, 29
+  size: 72, 118
+  orig: 72, 118
+  offset: 0, 0
+  index: -1
+skin_1/arm_R_02
+  rotate: false
+  xy: 980, 4
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+skin_1/back_coat
+  rotate: false
+  xy: 2, 4
+  size: 222, 122
+  orig: 222, 122
+  offset: 0, 0
+  index: -1
+skin_1/belt
+  rotate: false
+  xy: 1343, 103
+  size: 133, 67
+  orig: 133, 67
+  offset: 0, 0
+  index: -1
+skin_1/bim_hair
+  rotate: false
+  xy: 226, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+skin_1/bob
+  rotate: true
+  xy: 772, 13
+  size: 100, 125
+  orig: 100, 125
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: true
+  xy: 348, 10
+  size: 112, 168
+  orig: 112, 168
+  offset: 0, 0
+  index: -1
+skin_1/coat
+  rotate: false
+  xy: 1220, 2
+  size: 121, 168
+  orig: 121, 168
+  offset: 0, 0
+  index: -1
+skin_1/collar_L
+  rotate: false
+  xy: 1270, 172
+  size: 206, 100
+  orig: 206, 100
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 1478, 93
+  size: 182, 179
+  orig: 182, 179
+  offset: 0, 0
+  index: -1
+skin_1/gun
+  rotate: true
+  xy: 2, 128
+  size: 144, 276
+  orig: 144, 276
+  offset: 0, 0
+  index: -1
+skin_1/hair_02
+  rotate: false
+  xy: 998, 107
+  size: 220, 93
+  orig: 220, 93
+  offset: 0, 0
+  index: -1
+skin_1/hair_03
+  rotate: false
+  xy: 772, 115
+  size: 224, 157
+  orig: 224, 157
+  offset: 0, 0
+  index: -1
+skin_1/hair_04
+  rotate: true
+  xy: 544, 89
+  size: 183, 226
+  orig: 183, 226
+  offset: 0, 0
+  index: -1
+skin_1/hair_R
+  rotate: true
+  xy: 1463, 25
+  size: 66, 138
+  orig: 66, 138
+  offset: 0, 0
+  index: -1
+skin_1/leg_L
+  rotate: true
+  xy: 998, 202
+  size: 70, 270
+  orig: 70, 270
+  offset: 0, 0
+  index: -1
+skin_1/leg_R
+  rotate: true
+  xy: 280, 124
+  size: 148, 262
+  orig: 148, 262
+  offset: 0, 0
+  index: -1
+skin_1/shoe_L
+  rotate: false
+  xy: 626, 6
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+skin_1/shoe_R
+  rotate: false
+  xy: 899, 29
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1

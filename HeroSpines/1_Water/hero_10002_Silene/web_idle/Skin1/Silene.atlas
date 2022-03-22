@@ -1,9 +1,8 @@
-
 Silene.png
-size: 1662,274
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+  size: 1662,274
+  format: RGBA8888
+  filter: Linear,Linear
+  repeat: none
 shadow
   rotate: false
   xy: 1343, 2

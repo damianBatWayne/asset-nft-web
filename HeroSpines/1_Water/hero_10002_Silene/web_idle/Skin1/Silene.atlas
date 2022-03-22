@@ -1,4 +1,4 @@
-raptor-pma.png
+Silene.png
 	size: 1024, 512
 	filter: Linear, Linear
 	pma: true
@@ -99,4 +99,3 @@ torso
 	rotate: 90
 visor
 	bounds: 631, 237, 131, 84
-1

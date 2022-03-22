@@ -1,0 +1,286 @@
+
+Aesa.png
+size: 862,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 314, 420
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/bap_tay_sau
+  rotate: true
+  xy: 665, 109
+  size: 107, 79
+  orig: 107, 79
+  offset: 0, 0
+  index: -1
+skin_1/bap_tay_truoc
+  rotate: true
+  xy: 558, 27
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+skin_1/cang_chan_sau
+  rotate: false
+  xy: 562, 197
+  size: 97, 150
+  orig: 97, 150
+  offset: 0, 0
+  index: -1
+skin_1/cang_chan_truoc
+  rotate: false
+  xy: 314, 262
+  size: 107, 156
+  orig: 107, 156
+  offset: 0, 0
+  index: -1
+skin_1/canh_tay_sau
+  rotate: true
+  xy: 773, 355
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+skin_1/canh_tay_truoc
+  rotate: false
+  xy: 562, 79
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+skin_1/co_ao_sau
+  rotate: false
+  xy: 643, 358
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1
+skin_1/co_ao_truoc
+  rotate: false
+  xy: 765, 234
+  size: 83, 119
+  orig: 83, 119
+  offset: 0, 0
+  index: -1
+skin_1/dau
+  rotate: false
+  xy: 423, 272
+  size: 135, 172
+  orig: 135, 172
+  offset: 0, 0
+  index: -1
+skin_1/dui_sau
+  rotate: false
+  xy: 560, 349
+  size: 81, 144
+  orig: 81, 144
+  offset: 0, 0
+  index: -1
+skin_1/dui_truoc
+  rotate: false
+  xy: 661, 218
+  size: 102, 138
+  orig: 102, 138
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_01
+  rotate: false
+  xy: 505, 7
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_02
+  rotate: false
+  xy: 688, 56
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_01
+  rotate: true
+  xy: 463, 53
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_02
+  rotate: false
+  xy: 801, 91
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+skin_1/mat_sau
+  rotate: false
+  xy: 688, 29
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+skin_1/mat_truoc
+  rotate: false
+  xy: 487, 449
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+skin_1/mo_neo
+  rotate: false
+  xy: 2, 253
+  size: 310, 411
+  orig: 310, 411
+  offset: 0, 0
+  index: -1
+skin_1/mom
+  rotate: false
+  xy: 745, 56
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+skin_1/mu
+  rotate: false
+  xy: 437, 859
+  size: 401, 175
+  orig: 401, 175
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 143, 2
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: false
+  xy: 801, 155
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 218, 7
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_3
+  rotate: true
+  xy: 218, 7
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_2
+  rotate: true
+  xy: 429, 2
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 648, 487
+  size: 145, 192
+  orig: 145, 192
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: true
+  xy: 746, 90
+  size: 126, 53
+  orig: 126, 53
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: true
+  xy: 795, 725
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+skin_1/nguc
+  rotate: true
+  xy: 795, 479
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+skin_1/sung
+  rotate: false
+  xy: 391, 446
+  size: 94, 218
+  orig: 94, 218
+  offset: 0, 0
+  index: -1
+skin_1/than
+  rotate: false
+  xy: 2, 10
+  size: 139, 241
+  orig: 139, 241
+  offset: 0, 0
+  index: -1
+skin_1/that_lung_a
+  rotate: false
+  xy: 300, 13
+  size: 127, 53
+  orig: 127, 53
+  offset: 0, 0
+  index: -1
+skin_1/that_lung_b
+  rotate: true
+  xy: 795, 591
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+skin_1/toc_a
+  rotate: false
+  xy: 2, 666
+  size: 433, 368
+  orig: 433, 368
+  offset: 0, 0
+  index: -1
+skin_1/toc_b
+  rotate: false
+  xy: 316, 68
+  size: 145, 192
+  orig: 145, 192
+  offset: 0, 0
+  index: -1
+skin_1/toc_c
+  rotate: false
+  xy: 463, 103
+  size: 97, 167
+  orig: 97, 167
+  offset: 0, 0
+  index: -1
+skin_1/vay_sau
+  rotate: false
+  xy: 437, 681
+  size: 356, 176
+  orig: 356, 176
+  offset: 0, 0
+  index: -1
+skin_1/vay_truoc_a
+  rotate: false
+  xy: 143, 72
+  size: 171, 179
+  orig: 171, 179
+  offset: 0, 0
+  index: -1
+skin_1/vay_truoc_b
+  rotate: false
+  xy: 487, 495
+  size: 159, 184
+  orig: 159, 184
+  offset: 0, 0
+  index: -1

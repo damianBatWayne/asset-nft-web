@@ -1,0 +1,244 @@
+
+Assassiren.png
+size: 1928,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 897, 126
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_3/Armor_3
+  rotate: true
+  xy: 1793, 55
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+skin_3/Helmet
+  rotate: true
+  xy: 669, 126
+  size: 244, 226
+  orig: 244, 226
+  offset: 0, 0
+  index: -1
+skin_3/b_arm
+  rotate: true
+  xy: 415, 8
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+skin_3/b_eye
+  rotate: true
+  xy: 1111, 135
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+skin_3/b_finger
+  rotate: true
+  xy: 178, 3
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+skin_3/b_hair_1
+  rotate: true
+  xy: 279, 5
+  size: 55, 134
+  orig: 55, 134
+  offset: 0, 0
+  index: -1
+skin_3/b_hair_2
+  rotate: false
+  xy: 1818, 225
+  size: 68, 145
+  orig: 68, 145
+  offset: 0, 0
+  index: -1
+skin_3/b_hand
+  rotate: true
+  xy: 1793, 6
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+skin_3/b_shoulder_armor
+  rotate: false
+  xy: 1402, 183
+  size: 136, 187
+  orig: 136, 187
+  offset: 0, 0
+  index: -1
+skin_3/b_upper_arm
+  rotate: true
+  xy: 669, 63
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+skin_3/body
+  rotate: false
+  xy: 765, 8
+  size: 104, 116
+  orig: 104, 116
+  offset: 0, 0
+  index: -1
+skin_3/f_arm
+  rotate: false
+  xy: 127, 2
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+skin_3/f_eye
+  rotate: true
+  xy: 1832, 8
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+skin_3/f_finger_2
+  rotate: true
+  xy: 1818, 194
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+skin_3/f_hair
+  rotate: false
+  xy: 1111, 156
+  size: 99, 214
+  orig: 99, 214
+  offset: 0, 0
+  index: -1
+skin_3/f_hand
+  rotate: true
+  xy: 226, 4
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+skin_3/f_shoulder_armor
+  rotate: true
+  xy: 871, 18
+  size: 106, 71
+  orig: 106, 71
+  offset: 0, 0
+  index: -1
+skin_3/f_upper_arm
+  rotate: false
+  xy: 2, 2
+  size: 123, 58
+  orig: 123, 58
+  offset: 0, 0
+  index: -1
+skin_3/head
+  rotate: true
+  xy: 1635, 188
+  size: 182, 181
+  orig: 182, 181
+  offset: 0, 0
+  index: -1
+skin_3/hip_armor
+  rotate: true
+  xy: 1609, 18
+  size: 164, 182
+  orig: 164, 182
+  offset: 0, 0
+  index: -1
+skin_3/hip_armor_2
+  rotate: false
+  xy: 1540, 184
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+skin_3/nft_part1_1
+  rotate: true
+  xy: 553, 9
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+skin_3/nft_part2_1
+  rotate: false
+  xy: 983, 9
+  size: 184, 123
+  orig: 184, 123
+  offset: 0, 0
+  index: -1
+skin_3/nft_part2_2
+  rotate: true
+  xy: 603, 9
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+skin_3/nft_part3_4
+  rotate: true
+  xy: 1861, 24
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_1
+  rotate: false
+  xy: 944, 19
+  size: 37, 105
+  orig: 37, 105
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_4
+  rotate: false
+  xy: 503, 8
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_5
+  rotate: false
+  xy: 635, 11
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+skin_3/tail_1
+  rotate: false
+  xy: 1212, 172
+  size: 188, 198
+  orig: 188, 198
+  offset: 0, 0
+  index: -1
+skin_3/tail_2
+  rotate: true
+  xy: 974, 134
+  size: 236, 135
+  orig: 236, 135
+  offset: 0, 0
+  index: -1
+skin_3/tail_3
+  rotate: false
+  xy: 1169, 3
+  size: 438, 151
+  orig: 438, 151
+  offset: 0, 0
+  index: -1
+skin_3/veu
+  rotate: false
+  xy: 676, 15
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+skin_3/weapon
+  rotate: false
+  xy: 2, 62
+  size: 665, 308
+  orig: 665, 308
+  offset: 0, 0
+  index: -1

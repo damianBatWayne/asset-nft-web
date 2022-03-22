@@ -1,0 +1,377 @@
+
+Blackbeard.png
+size: 1879,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/SmokeB01
+  rotate: false
+  xy: 1248, 92
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB03
+  rotate: false
+  xy: 1320, 92
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB05
+  rotate: false
+  xy: 1339, 244
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB07
+  rotate: false
+  xy: 1392, 92
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB09
+  rotate: false
+  xy: 1411, 244
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB11
+  rotate: false
+  xy: 1464, 92
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB13
+  rotate: false
+  xy: 1483, 244
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB15
+  rotate: false
+  xy: 1536, 92
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB17
+  rotate: false
+  xy: 1555, 244
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB19
+  rotate: false
+  xy: 1608, 92
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB21
+  rotate: false
+  xy: 1627, 244
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB23
+  rotate: false
+  xy: 1680, 92
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB25
+  rotate: false
+  xy: 1699, 244
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/SmokeB27
+  rotate: true
+  xy: 1725, 20
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+fx/bullet
+  rotate: false
+  xy: 1106, 5
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 279, 150
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Body
+  rotate: true
+  xy: 423, 165
+  size: 229, 220
+  orig: 229, 220
+  offset: 0, 0
+  index: -1
+skin_1/Body_01
+  rotate: true
+  xy: 978, 213
+  size: 181, 61
+  orig: 181, 61
+  offset: 0, 0
+  index: -1
+skin_1/Cape
+  rotate: false
+  xy: 645, 178
+  size: 201, 216
+  orig: 201, 216
+  offset: 0, 0
+  index: -1
+skin_1/L_Arm
+  rotate: false
+  xy: 1207, 244
+  size: 130, 150
+  orig: 130, 150
+  offset: 0, 0
+  index: -1
+skin_1/L_Cape
+  rotate: true
+  xy: 1158, 73
+  size: 151, 88
+  orig: 151, 88
+  offset: 0, 0
+  index: -1
+skin_1/L_Cape_02
+  rotate: false
+  xy: 356, 151
+  size: 65, 243
+  orig: 65, 243
+  offset: 0, 0
+  index: -1
+skin_1/L_Hand
+  rotate: false
+  xy: 195, 5
+  size: 177, 116
+  orig: 177, 116
+  offset: 0, 0
+  index: -1
+skin_1/L_Knee
+  rotate: false
+  xy: 1771, 215
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+skin_1/L_Shoulder
+  rotate: true
+  xy: 157, 4
+  size: 97, 36
+  orig: 97, 36
+  offset: 0, 0
+  index: -1
+skin_1/Pant
+  rotate: true
+  xy: 857, 19
+  size: 185, 95
+  orig: 185, 95
+  offset: 0, 0
+  index: -1
+skin_1/R_Cape
+  rotate: true
+  xy: 1240, 9
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+skin_1/R_Hand
+  rotate: true
+  xy: 691, 8
+  size: 168, 164
+  orig: 168, 164
+  offset: 0, 0
+  index: -1
+skin_1/R_Knee
+  rotate: true
+  xy: 1575, 18
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+skin_1/Weapon_02
+  rotate: false
+  xy: 2, 103
+  size: 162, 291
+  orig: 162, 291
+  offset: 0, 0
+  index: -1
+skin_1/Weapon_02fx
+  rotate: false
+  xy: 1316, 12
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+skin_1/co ao 2
+  rotate: true
+  xy: 166, 123
+  size: 271, 111
+  orig: 271, 111
+  offset: 0, 0
+  index: -1
+skin_1/hat
+  rotate: true
+  xy: 848, 206
+  size: 188, 128
+  orig: 188, 128
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 1040, 34
+  size: 177, 116
+  orig: 177, 116
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: true
+  xy: 1041, 226
+  size: 168, 164
+  orig: 168, 164
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 94, 4
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: true
+  xy: 166, 104
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_3
+  rotate: false
+  xy: 1449, 18
+  size: 124, 72
+  orig: 124, 72
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: true
+  xy: 954, 19
+  size: 185, 84
+  orig: 185, 84
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: true
+  xy: 1752, 118
+  size: 95, 58
+  orig: 95, 58
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_3
+  rotate: true
+  xy: 1683, 18
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+skin_2/Beard
+  rotate: false
+  xy: 510, 5
+  size: 179, 158
+  orig: 179, 158
+  offset: 0, 0
+  index: -1
+skin_2/Eye
+  rotate: false
+  xy: 1073, 4
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+skin_2/Eyebrow1
+  rotate: true
+  xy: 1631, 18
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+skin_2/Eyebrow2
+  rotate: true
+  xy: 1812, 135
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+skin_2/L_Leg
+  rotate: true
+  xy: 2, 3
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1
+skin_2/Nose
+  rotate: false
+  xy: 1040, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+skin_2/R_Hand_Finger
+  rotate: false
+  xy: 1771, 288
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+skin_2/R_Hand_Finger_01
+  rotate: false
+  xy: 1812, 92
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+skin_2/R_Leg
+  rotate: false
+  xy: 1158, 8
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+skin_2/Weapon_01
+  rotate: false
+  xy: 1388, 12
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+skin_2/Weapon_03
+  rotate: true
+  xy: 1812, 173
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: true
+  xy: 374, 7
+  size: 142, 134
+  orig: 142, 134
+  offset: 0, 0
+  index: -1

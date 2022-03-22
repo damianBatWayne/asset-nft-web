@@ -1,0 +1,160 @@
+
+AquaKnight.png
+size: 1368,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 905, 162
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Ban chan
+  rotate: true
+  xy: 596, 5
+  size: 105, 123
+  orig: 105, 123
+  offset: 0, 0
+  index: -1
+skin_1/Chan phai
+  rotate: true
+  xy: 982, 229
+  size: 177, 145
+  orig: 177, 145
+  offset: 0, 0
+  index: -1
+skin_1/Drill
+  rotate: true
+  xy: 2, 59
+  size: 347, 144
+  orig: 347, 144
+  offset: 0, 0
+  index: -1
+skin_1/Giap phai
+  rotate: false
+  xy: 2, 5
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+skin_1/Giap trai
+  rotate: false
+  xy: 281, 5
+  size: 157, 100
+  orig: 157, 100
+  offset: 0, 0
+  index: -1
+skin_1/Layer 1
+  rotate: false
+  xy: 635, 122
+  size: 268, 284
+  orig: 268, 284
+  offset: 0, 0
+  index: -1
+skin_1/Layer 2
+  rotate: true
+  xy: 426, 112
+  size: 294, 207
+  orig: 294, 207
+  offset: 0, 0
+  index: -1
+skin_1/Layer 3
+  rotate: true
+  xy: 156, 2
+  size: 103, 123
+  orig: 103, 123
+  offset: 0, 0
+  index: -1
+skin_1/Vai
+  rotate: false
+  xy: 1213, 262
+  size: 153, 144
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+skin_1/chan trai
+  rotate: false
+  xy: 440, 4
+  size: 154, 106
+  orig: 154, 106
+  offset: 0, 0
+  index: -1
+skin_1/eye
+  rotate: false
+  xy: 68, 11
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+skin_1/eye 2
+  rotate: false
+  xy: 126, 26
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+skin_1/head
+  rotate: true
+  xy: 148, 107
+  size: 299, 276
+  orig: 299, 276
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 1129, 229
+  size: 177, 75
+  orig: 177, 75
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 1038, 45
+  size: 80, 151
+  orig: 80, 151
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 804, 10
+  size: 232, 110
+  orig: 232, 110
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 1213, 116
+  size: 153, 144
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+skin_2/Layer 7
+  rotate: false
+  xy: 1080, 149
+  size: 131, 78
+  orig: 131, 78
+  offset: 0, 0
+  index: -1
+skin_2/Layer 8
+  rotate: false
+  xy: 721, 5
+  size: 81, 115
+  orig: 81, 115
+  offset: 0, 0
+  index: -1
+skin_2/Layer 9
+  rotate: false
+  xy: 1191, 44
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+skin_2/tay
+  rotate: false
+  xy: 982, 127
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1

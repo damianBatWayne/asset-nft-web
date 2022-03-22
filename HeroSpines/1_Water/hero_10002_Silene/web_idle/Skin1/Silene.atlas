@@ -1,0 +1,174 @@
+
+Silene.png
+size: 1662,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 1343, 2
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+skin_1/anchor
+  rotate: false
+  xy: 1087, 22
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_01
+  rotate: true
+  xy: 1149, 22
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_02
+  rotate: true
+  xy: 518, 15
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_03
+  rotate: true
+  xy: 1426, 2
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+skin_1/arm_R_01
+  rotate: true
+  xy: 1343, 29
+  size: 72, 118
+  orig: 72, 118
+  offset: 0, 0
+  index: -1
+skin_1/arm_R_02
+  rotate: false
+  xy: 980, 4
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+skin_1/back_coat
+  rotate: false
+  xy: 2, 4
+  size: 222, 122
+  orig: 222, 122
+  offset: 0, 0
+  index: -1
+skin_1/belt
+  rotate: false
+  xy: 1343, 103
+  size: 133, 67
+  orig: 133, 67
+  offset: 0, 0
+  index: -1
+skin_1/bim_hair
+  rotate: false
+  xy: 226, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+skin_1/bob
+  rotate: true
+  xy: 772, 13
+  size: 100, 125
+  orig: 100, 125
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: true
+  xy: 348, 10
+  size: 112, 168
+  orig: 112, 168
+  offset: 0, 0
+  index: -1
+skin_1/coat
+  rotate: false
+  xy: 1220, 2
+  size: 121, 168
+  orig: 121, 168
+  offset: 0, 0
+  index: -1
+skin_1/collar_L
+  rotate: false
+  xy: 1270, 172
+  size: 206, 100
+  orig: 206, 100
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 1478, 93
+  size: 182, 179
+  orig: 182, 179
+  offset: 0, 0
+  index: -1
+skin_1/gun
+  rotate: true
+  xy: 2, 128
+  size: 144, 276
+  orig: 144, 276
+  offset: 0, 0
+  index: -1
+skin_1/hair_02
+  rotate: false
+  xy: 998, 107
+  size: 220, 93
+  orig: 220, 93
+  offset: 0, 0
+  index: -1
+skin_1/hair_03
+  rotate: false
+  xy: 772, 115
+  size: 224, 157
+  orig: 224, 157
+  offset: 0, 0
+  index: -1
+skin_1/hair_04
+  rotate: true
+  xy: 544, 89
+  size: 183, 226
+  orig: 183, 226
+  offset: 0, 0
+  index: -1
+skin_1/hair_R
+  rotate: true
+  xy: 1463, 25
+  size: 66, 138
+  orig: 66, 138
+  offset: 0, 0
+  index: -1
+skin_1/leg_L
+  rotate: true
+  xy: 998, 202
+  size: 70, 270
+  orig: 70, 270
+  offset: 0, 0
+  index: -1
+skin_1/leg_R
+  rotate: true
+  xy: 280, 124
+  size: 148, 262
+  orig: 148, 262
+  offset: 0, 0
+  index: -1
+skin_1/shoe_L
+  rotate: false
+  xy: 626, 6
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+skin_1/shoe_R
+  rotate: false
+  xy: 899, 29
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1

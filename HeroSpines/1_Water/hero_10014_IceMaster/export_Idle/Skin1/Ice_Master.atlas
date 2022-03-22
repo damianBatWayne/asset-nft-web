@@ -1,0 +1,244 @@
+
+Ice_Master.png
+size: 600,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 523, 281
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/belt
+  rotate: false
+  xy: 172, 255
+  size: 191, 107
+  orig: 191, 107
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: true
+  xy: 351, 366
+  size: 159, 170
+  orig: 159, 170
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 2, 320
+  size: 168, 205
+  orig: 168, 205
+  offset: 0, 0
+  index: -1
+skin_1/hair
+  rotate: true
+  xy: 156, 16
+  size: 44, 136
+  orig: 44, 136
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_01
+  rotate: false
+  xy: 165, 137
+  size: 144, 116
+  orig: 144, 116
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_02
+  rotate: false
+  xy: 475, 79
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_03
+  rotate: false
+  xy: 417, 21
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_04
+  rotate: true
+  xy: 344, 3
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_05
+  rotate: true
+  xy: 528, 79
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_06
+  rotate: false
+  xy: 482, 50
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_07
+  rotate: true
+  xy: 515, 26
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_01
+  rotate: false
+  xy: 353, 132
+  size: 120, 70
+  orig: 120, 70
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_02
+  rotate: false
+  xy: 475, 120
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_03
+  rotate: true
+  xy: 297, 50
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+skin_1/khan
+  rotate: false
+  xy: 311, 131
+  size: 40, 122
+  orig: 40, 122
+  offset: 0, 0
+  index: -1
+skin_1/leg_L
+  rotate: true
+  xy: 2, 19
+  size: 120, 152
+  orig: 120, 152
+  offset: 0, 0
+  index: -1
+skin_1/leg_R
+  rotate: true
+  xy: 2, 141
+  size: 177, 161
+  orig: 177, 161
+  offset: 0, 0
+  index: -1
+skin_1/necklace
+  rotate: true
+  xy: 156, 62
+  size: 73, 139
+  orig: 73, 139
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 364, 65
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_10
+  rotate: false
+  xy: 517, 50
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_11
+  rotate: true
+  xy: 376, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_12
+  rotate: false
+  xy: 376, 25
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_13
+  rotate: true
+  xy: 551, 134
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_14
+  rotate: false
+  xy: 294, 2
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_6
+  rotate: true
+  xy: 562, 87
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_7
+  rotate: false
+  xy: 445, 88
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_9
+  rotate: true
+  xy: 448, 24
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 445, 65
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 353, 204
+  size: 167, 38
+  orig: 167, 38
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: true
+  xy: 482, 29
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: true
+  xy: 365, 244
+  size: 120, 152
+  orig: 120, 152
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: false
+  xy: 172, 364
+  size: 177, 161
+  orig: 177, 161
+  offset: 0, 0
+  index: -1
+skin_1/sip
+  rotate: true
+  xy: 522, 204
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1

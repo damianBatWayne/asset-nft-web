@@ -1,0 +1,286 @@
+
+Raina.png
+size: 1955,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Skin1/hair_d
+  rotate: true
+  xy: 2, 23
+  size: 323, 266
+  orig: 323, 266
+  offset: 0, 0
+  index: -1
+Skin2/angten
+  rotate: true
+  xy: 568, 77
+  size: 269, 52
+  orig: 269, 52
+  offset: 0, 0
+  index: -1
+Skin2/coral_1
+  rotate: true
+  xy: 836, 94
+  size: 252, 229
+  orig: 252, 229
+  offset: 0, 0
+  index: -1
+Skin2/coral_2
+  rotate: false
+  xy: 622, 91
+  size: 212, 255
+  orig: 212, 255
+  offset: 0, 0
+  index: -1
+Skin2/crown
+  rotate: true
+  xy: 1346, 7
+  size: 97, 122
+  orig: 97, 122
+  offset: 0, 0
+  index: -1
+Skin2/crown_1
+  rotate: false
+  xy: 984, 3
+  size: 134, 89
+  orig: 134, 89
+  offset: 0, 0
+  index: -1
+Skin2/earring_f
+  rotate: true
+  xy: 295, 3
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+Skin2/eye_f
+  rotate: true
+  xy: 1905, 44
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+Skin2/eyeball_f
+  rotate: false
+  xy: 398, 3
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Skin2/face
+  rotate: true
+  xy: 1638, 11
+  size: 109, 151
+  orig: 109, 151
+  offset: 0, 0
+  index: -1
+Skin2/finger_b
+  rotate: false
+  xy: 1832, 19
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Skin2/hair_1
+  rotate: true
+  xy: 270, 27
+  size: 319, 296
+  orig: 319, 296
+  offset: 0, 0
+  index: -1
+Skin2/hair_b
+  rotate: false
+  xy: 1700, 140
+  size: 62, 206
+  orig: 62, 206
+  offset: 0, 0
+  index: -1
+Skin2/hair_f
+  rotate: true
+  xy: 568, 3
+  size: 72, 209
+  orig: 72, 209
+  offset: 0, 0
+  index: -1
+Skin2/hand_b
+  rotate: false
+  xy: 1791, 9
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+Skin2/hand_f
+  rotate: true
+  xy: 1541, 23
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+Skin2/hip_oar
+  rotate: true
+  xy: 831, 5
+  size: 84, 151
+  orig: 84, 151
+  offset: 0, 0
+  index: -1
+Skin2/lower_arm_b
+  rotate: true
+  xy: 779, 2
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+Skin2/lower_arm_f
+  rotate: true
+  xy: 1582, 5
+  size: 115, 54
+  orig: 115, 54
+  offset: 0, 0
+  index: -1
+Skin2/lower_eyelid
+  rotate: true
+  xy: 1839, 88
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Skin2/mouth_1
+  rotate: false
+  xy: 34, 6
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+Skin2/mouth_2
+  rotate: true
+  xy: 18, 4
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Skin2/mouth_3
+  rotate: false
+  xy: 2, 3
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Skin2/nft_part1_1
+  rotate: true
+  xy: 1791, 69
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+Skin2/nft_part1_2
+  rotate: true
+  xy: 1879, 89
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Skin2/nft_part2_1
+  rotate: false
+  xy: 1897, 5
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Skin2/nft_part3_1
+  rotate: true
+  xy: 432, 4
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Skin2/nft_part3_2
+  rotate: true
+  xy: 347, 3
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+Skin2/nft_part4_1
+  rotate: false
+  xy: 1866, 4
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Skin2/nft_part4_2
+  rotate: true
+  xy: 1764, 241
+  size: 105, 189
+  orig: 105, 189
+  offset: 0, 0
+  index: -1
+Skin2/pupil_f
+  rotate: false
+  xy: 270, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Skin2/tail
+  rotate: false
+  xy: 1338, 106
+  size: 231, 240
+  orig: 231, 240
+  offset: 0, 0
+  index: -1
+Skin2/tail_2
+  rotate: true
+  xy: 1571, 122
+  size: 224, 127
+  orig: 224, 127
+  offset: 0, 0
+  index: -1
+Skin2/tail_3
+  rotate: true
+  xy: 1120, 2
+  size: 94, 109
+  orig: 94, 109
+  offset: 0, 0
+  index: -1
+Skin2/upper_arm_b
+  rotate: true
+  xy: 1470, 23
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+Skin2/upper_arm_f
+  rotate: true
+  xy: 1231, 4
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+Skin2/upper_body
+  rotate: true
+  xy: 1764, 134
+  size: 105, 189
+  orig: 105, 189
+  offset: 0, 0
+  index: -1
+Skin2/upper_eyelid
+  rotate: true
+  xy: 1866, 42
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Skin2/weapon
+  rotate: true
+  xy: 1067, 98
+  size: 248, 192
+  orig: 248, 192
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1261, 102
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1

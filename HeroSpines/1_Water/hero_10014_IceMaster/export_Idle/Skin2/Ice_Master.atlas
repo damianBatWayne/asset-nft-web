@@ -1,0 +1,272 @@
+
+Ice_Master.png
+size: 745,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 172, 284
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/belt
+  rotate: false
+  xy: 523, 395
+  size: 193, 129
+  orig: 193, 129
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: true
+  xy: 351, 364
+  size: 160, 170
+  orig: 160, 170
+  offset: 0, 0
+  index: -1
+skin_2/dinh
+  rotate: false
+  xy: 400, 6
+  size: 43, 130
+  orig: 43, 130
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: false
+  xy: 2, 319
+  size: 168, 205
+  orig: 168, 205
+  offset: 0, 0
+  index: -1
+skin_2/hair
+  rotate: false
+  xy: 160, 2
+  size: 44, 136
+  orig: 44, 136
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_01
+  rotate: true
+  xy: 325, 138
+  size: 144, 115
+  orig: 144, 115
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_02
+  rotate: true
+  xy: 678, 231
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_03
+  rotate: true
+  xy: 567, 2
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_04
+  rotate: false
+  xy: 520, 13
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_05
+  rotate: false
+  xy: 418, 298
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_06
+  rotate: false
+  xy: 687, 4
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_07
+  rotate: false
+  xy: 722, 4
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_01
+  rotate: true
+  xy: 323, 16
+  size: 120, 75
+  orig: 120, 75
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_02
+  rotate: false
+  xy: 623, 147
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_03
+  rotate: false
+  xy: 517, 151
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+skin_2/khan
+  rotate: true
+  xy: 600, 33
+  size: 40, 122
+  orig: 40, 122
+  offset: 0, 0
+  index: -1
+skin_2/leg_L
+  rotate: true
+  xy: 2, 11
+  size: 127, 156
+  orig: 127, 156
+  offset: 0, 0
+  index: -1
+skin_2/leg_R
+  rotate: true
+  xy: 2, 140
+  size: 177, 163
+  orig: 177, 163
+  offset: 0, 0
+  index: -1
+skin_2/necklace
+  rotate: false
+  xy: 442, 143
+  size: 73, 139
+  orig: 73, 139
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: true
+  xy: 520, 45
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_10
+  rotate: true
+  xy: 705, 196
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_11
+  rotate: false
+  xy: 705, 167
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: false
+  xy: 718, 491
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_3
+  rotate: false
+  xy: 718, 453
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_5
+  rotate: false
+  xy: 718, 431
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_6
+  rotate: false
+  xy: 418, 332
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_7
+  rotate: true
+  xy: 611, 2
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_8
+  rotate: true
+  xy: 206, 9
+  size: 144, 115
+  orig: 144, 115
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_9
+  rotate: false
+  xy: 465, 330
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 655, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: false
+  xy: 517, 231
+  size: 159, 51
+  orig: 159, 51
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_2
+  rotate: false
+  xy: 459, 294
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 167, 155
+  size: 127, 156
+  orig: 127, 156
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: false
+  xy: 172, 361
+  size: 177, 163
+  orig: 177, 163
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_3
+  rotate: false
+  xy: 445, 2
+  size: 73, 139
+  orig: 73, 139
+  offset: 0, 0
+  index: -1
+skin_2/sip
+  rotate: true
+  xy: 600, 75
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+skin_2/vay
+  rotate: false
+  xy: 523, 284
+  size: 203, 109
+  orig: 203, 109
+  offset: 0, 0
+  index: -1

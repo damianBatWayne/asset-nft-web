@@ -1,0 +1,160 @@
+
+Aqualord.png
+size: 1673,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare (89)
+  rotate: false
+  xy: 1044, 7
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1157, 2
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/VK
+  rotate: true
+  xy: 902, 369
+  size: 178, 768
+  orig: 178, 768
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 512, 244
+  size: 193, 303
+  orig: 193, 303
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 838, 24
+  size: 204, 218
+  orig: 204, 218
+  offset: 0, 0
+  index: -1
+skin_1/hair_L
+  rotate: true
+  xy: 1170, 257
+  size: 110, 132
+  orig: 110, 132
+  offset: 0, 0
+  index: -1
+skin_1/hair_R
+  rotate: true
+  xy: 902, 246
+  size: 121, 173
+  orig: 121, 173
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_01
+  rotate: false
+  xy: 1044, 59
+  size: 111, 185
+  orig: 111, 185
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_02
+  rotate: false
+  xy: 677, 23
+  size: 159, 219
+  orig: 159, 219
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_01
+  rotate: true
+  xy: 1396, 5
+  size: 90, 139
+  orig: 90, 139
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_02
+  rotate: false
+  xy: 512, 23
+  size: 163, 219
+  orig: 163, 219
+  offset: 0, 0
+  index: -1
+skin_1/khan
+  rotate: true
+  xy: 1537, 29
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+skin_1/leg
+  rotate: true
+  xy: 1234, 77
+  size: 178, 143
+  orig: 178, 143
+  offset: 0, 0
+  index: -1
+skin_1/leg_L
+  rotate: true
+  xy: 1234, 6
+  size: 69, 160
+  orig: 69, 160
+  offset: 0, 0
+  index: -1
+skin_1/leg_R
+  rotate: true
+  xy: 1392, 259
+  size: 108, 137
+  orig: 108, 137
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 1531, 220
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 2, 8
+  size: 539, 508
+  orig: 539, 508
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: true
+  xy: 1304, 258
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 707, 244
+  size: 193, 303
+  orig: 193, 303
+  offset: 0, 0
+  index: -1
+skin_1/rau_01
+  rotate: true
+  xy: 1512, 111
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+skin_1/rau_02
+  rotate: true
+  xy: 1077, 248
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+skin_1/sip
+  rotate: false
+  xy: 1379, 97
+  size: 131, 159
+  orig: 131, 159
+  offset: 0, 0
+  index: -1

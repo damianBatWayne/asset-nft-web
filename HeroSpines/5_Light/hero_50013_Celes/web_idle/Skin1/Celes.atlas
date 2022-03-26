@@ -1,0 +1,300 @@
+
+Celes.png
+size: 2015,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 1286, 188
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Layer 1
+  rotate: true
+  xy: 1631, 2
+  size: 133, 120
+  orig: 133, 120
+  offset: 0, 0
+  index: -1
+skin_1/ao1
+  rotate: true
+  xy: 1286, 265
+  size: 192, 345
+  orig: 192, 345
+  offset: 0, 0
+  index: -1
+skin_1/ao2
+  rotate: false
+  xy: 921, 163
+  size: 363, 294
+  orig: 363, 294
+  offset: 0, 0
+  index: -1
+skin_1/belt
+  rotate: true
+  xy: 1935, 309
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+skin_1/belt1
+  rotate: true
+  xy: 1081, 30
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+skin_1/belt2
+  rotate: true
+  xy: 1856, 6
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+skin_1/chanp1
+  rotate: false
+  xy: 1856, 29
+  size: 136, 106
+  orig: 136, 106
+  offset: 0, 0
+  index: -1
+skin_1/chanp2
+  rotate: false
+  xy: 522, 93
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+skin_1/chant1
+  rotate: true
+  xy: 1532, 121
+  size: 142, 97
+  orig: 142, 97
+  offset: 0, 0
+  index: -1
+skin_1/chant2
+  rotate: true
+  xy: 522, 9
+  size: 82, 138
+  orig: 82, 138
+  offset: 0, 0
+  index: -1
+skin_1/chantb
+  rotate: false
+  xy: 856, 199
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+skin_1/co
+  rotate: true
+  xy: 1478, 24
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+skin_1/fabric
+  rotate: true
+  xy: 998, 58
+  size: 103, 190
+  orig: 103, 190
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 856, 2
+  size: 140, 159
+  orig: 140, 159
+  offset: 0, 0
+  index: -1
+skin_1/giapchanp
+  rotate: true
+  xy: 1190, 48
+  size: 113, 83
+  orig: 113, 83
+  offset: 0, 0
+  index: -1
+skin_1/giapchant
+  rotate: false
+  xy: 1275, 13
+  size: 111, 68
+  orig: 111, 68
+  offset: 0, 0
+  index: -1
+skin_1/giapvaip
+  rotate: true
+  xy: 687, 111
+  size: 145, 167
+  orig: 145, 167
+  offset: 0, 0
+  index: -1
+skin_1/giapvait
+  rotate: false
+  xy: 1753, 2
+  size: 101, 133
+  orig: 101, 133
+  offset: 0, 0
+  index: -1
+skin_1/matp
+  rotate: true
+  xy: 827, 68
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+skin_1/matt
+  rotate: false
+  xy: 662, 74
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+skin_1/mu1
+  rotate: true
+  xy: 2, 12
+  size: 263, 329
+  orig: 263, 329
+  offset: 0, 0
+  index: -1
+skin_1/mu2
+  rotate: true
+  xy: 1633, 243
+  size: 214, 300
+  orig: 214, 300
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 402, 2
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 463, 2
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 1797, 137
+  size: 162, 104
+  orig: 162, 104
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: false
+  xy: 998, 27
+  size: 81, 29
+  orig: 81, 29
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_3
+  rotate: false
+  xy: 998, 12
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_4
+  rotate: true
+  xy: 907, 187
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_5
+  rotate: false
+  xy: 1590, 74
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: true
+  xy: 1590, 93
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: true
+  xy: 1286, 83
+  size: 103, 190
+  orig: 103, 190
+  offset: 0, 0
+  index: -1
+skin_1/ngoc
+  rotate: false
+  xy: 1935, 251
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+skin_1/shield
+  rotate: true
+  xy: 529, 258
+  size: 199, 390
+  orig: 199, 390
+  offset: 0, 0
+  index: -1
+skin_1/tayp1
+  rotate: true
+  xy: 687, 2
+  size: 107, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+skin_1/tayp2
+  rotate: false
+  xy: 1388, 10
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+skin_1/tayp3
+  rotate: false
+  xy: 333, 2
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+skin_1/toc
+  rotate: false
+  xy: 1631, 137
+  size: 164, 104
+  orig: 164, 104
+  offset: 0, 0
+  index: -1
+skin_1/torso
+  rotate: false
+  xy: 333, 71
+  size: 187, 204
+  orig: 187, 204
+  offset: 0, 0
+  index: -1
+skin_1/weapon
+  rotate: true
+  xy: 2, 277
+  size: 180, 525
+  orig: 180, 525
+  offset: 0, 0
+  index: -1
+skin_2/mom
+  rotate: false
+  xy: 1478, 153
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+skin_2/mom1
+  rotate: false
+  xy: 856, 169
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1

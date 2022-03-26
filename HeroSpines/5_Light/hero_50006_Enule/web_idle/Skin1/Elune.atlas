@@ -1,0 +1,412 @@
+
+Elune.png
+size: 1968,811
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/Glow
+  rotate: false
+  xy: 1818, 662
+  size: 148, 147
+  orig: 148, 147
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx02
+  rotate: false
+  xy: 997, 37
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx04
+  rotate: false
+  xy: 1342, 462
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx06
+  rotate: false
+  xy: 1660, 437
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx08
+  rotate: false
+  xy: 1812, 510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx10
+  rotate: false
+  xy: 1812, 358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx12
+  rotate: false
+  xy: 1342, 310
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx14
+  rotate: false
+  xy: 1494, 320
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx16
+  rotate: false
+  xy: 1646, 285
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx18
+  rotate: false
+  xy: 1142, 208
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx20
+  rotate: false
+  xy: 1149, 56
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx22
+  rotate: false
+  xy: 1798, 206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/Weapon_fx24
+  rotate: false
+  xy: 1494, 168
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx/crack
+  rotate: false
+  xy: 2, 32
+  size: 250, 34
+  orig: 250, 34
+  offset: 0, 0
+  index: -1
+fx/crackfx
+  rotate: false
+  xy: 1149, 18
+  size: 189, 36
+  orig: 189, 36
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1536, 589
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/F_girl_body
+  rotate: false
+  xy: 654, 335
+  size: 142, 204
+  orig: 142, 204
+  offset: 0, 0
+  index: -1
+skin_1/F_girl_face
+  rotate: false
+  xy: 832, 3
+  size: 163, 159
+  orig: 163, 159
+  offset: 0, 0
+  index: -1
+skin_1/F_girl_handL1
+  rotate: false
+  xy: 1817, 58
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+skin_1/F_girl_handL2
+  rotate: false
+  xy: 997, 4
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+skin_1/F_girl_handR
+  rotate: true
+  xy: 284, 72
+  size: 265, 97
+  orig: 265, 97
+  offset: 0, 0
+  index: -1
+skin_1/girl_body
+  rotate: false
+  xy: 1209, 391
+  size: 131, 192
+  orig: 131, 192
+  offset: 0, 0
+  index: -1
+skin_1/girl_boob
+  rotate: false
+  xy: 1637, 85
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+skin_1/girl_brow
+  rotate: false
+  xy: 2, 9
+  size: 96, 21
+  orig: 96, 21
+  offset: 0, 0
+  index: -1
+skin_1/girl_ear_L
+  rotate: false
+  xy: 1442, 233
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+skin_1/girl_ear_R
+  rotate: true
+  xy: 1340, 15
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+skin_1/girl_eye
+  rotate: false
+  xy: 1209, 369
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+skin_1/girl_face
+  rotate: true
+  xy: 1646, 161
+  size: 122, 133
+  orig: 122, 133
+  offset: 0, 0
+  index: -1
+skin_1/girl_foot_R1
+  rotate: true
+  xy: 1781, 137
+  size: 67, 132
+  orig: 67, 132
+  offset: 0, 0
+  index: -1
+skin_1/girl_foot_R2
+  rotate: true
+  xy: 1424, 10
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+skin_1/girl_hair
+  rotate: false
+  xy: 985, 189
+  size: 155, 166
+  orig: 155, 166
+  offset: 0, 0
+  index: -1
+skin_1/girl_hair2
+  rotate: true
+  xy: 1025, 585
+  size: 224, 256
+  orig: 224, 256
+  offset: 0, 0
+  index: -1
+skin_1/girl_handL
+  rotate: false
+  xy: 1301, 91
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+skin_1/girl_handR_1
+  rotate: true
+  xy: 1637, 17
+  size: 66, 105
+  orig: 66, 105
+  offset: 0, 0
+  index: -1
+skin_1/girl_hand_R2
+  rotate: false
+  xy: 1554, 46
+  size: 81, 120
+  orig: 81, 120
+  offset: 0, 0
+  index: -1
+skin_1/girl_weaponB
+  rotate: true
+  xy: 366, 354
+  size: 185, 286
+  orig: 185, 286
+  offset: 0, 0
+  index: -1
+skin_1/lion_body
+  rotate: false
+  xy: 366, 541
+  size: 384, 268
+  orig: 384, 268
+  offset: 0, 0
+  index: -1
+skin_1/lion_chest_armorA
+  rotate: false
+  xy: 1744, 36
+  size: 71, 99
+  orig: 71, 99
+  offset: 0, 0
+  index: -1
+skin_1/lion_chest_armorB
+  rotate: false
+  xy: 2, 68
+  size: 280, 269
+  orig: 280, 269
+  offset: 0, 0
+  index: -1
+skin_1/lion_clouth
+  rotate: true
+  xy: 383, 26
+  size: 112, 235
+  orig: 112, 235
+  offset: 0, 0
+  index: -1
+skin_1/lion_face
+  rotate: false
+  xy: 798, 346
+  size: 167, 207
+  orig: 167, 207
+  offset: 0, 0
+  index: -1
+skin_1/lion_face2
+  rotate: true
+  xy: 594, 166
+  size: 167, 207
+  orig: 167, 207
+  offset: 0, 0
+  index: -1
+skin_1/lion_footL_A
+  rotate: true
+  xy: 1283, 614
+  size: 195, 251
+  orig: 195, 251
+  offset: 0, 0
+  index: -1
+skin_1/lion_footL_B1
+  rotate: true
+  xy: 1294, 215
+  size: 93, 146
+  orig: 93, 146
+  offset: 0, 0
+  index: -1
+skin_1/lion_footR_A2
+  rotate: false
+  xy: 967, 357
+  size: 129, 196
+  orig: 129, 196
+  offset: 0, 0
+  index: -1
+skin_1/lion_footR_A3
+  rotate: false
+  xy: 383, 140
+  size: 209, 212
+  orig: 209, 212
+  offset: 0, 0
+  index: -1
+skin_1/lion_footR_B1
+  rotate: false
+  xy: 1098, 360
+  size: 109, 223
+  orig: 109, 223
+  offset: 0, 0
+  index: -1
+skin_1/lion_hermet
+  rotate: false
+  xy: 752, 555
+  size: 271, 254
+  orig: 271, 254
+  offset: 0, 0
+  index: -1
+skin_1/lion_mane
+  rotate: false
+  xy: 2, 339
+  size: 362, 470
+  orig: 362, 470
+  offset: 0, 0
+  index: -1
+skin_1/lion_ribbon
+  rotate: false
+  xy: 1494, 472
+  size: 164, 115
+  orig: 164, 115
+  offset: 0, 0
+  index: -1
+skin_1/lion_tail
+  rotate: false
+  xy: 620, 2
+  size: 210, 160
+  orig: 210, 160
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 1888, 87
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: false
+  xy: 1817, 8
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 1536, 666
+  size: 143, 280
+  orig: 143, 280
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 1283, 585
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_4
+  rotate: false
+  xy: 1429, 68
+  size: 123, 98
+  orig: 123, 98
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_3
+  rotate: true
+  xy: 1915, 145
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+skin_1/weapon_blur
+  rotate: false
+  xy: 803, 164
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

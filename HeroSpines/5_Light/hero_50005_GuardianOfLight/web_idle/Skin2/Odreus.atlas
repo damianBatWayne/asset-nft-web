@@ -1,0 +1,489 @@
+
+Odreus.png
+size: 2033,1571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_electric/Holy_Knight_Light FX4_00001
+  rotate: false
+  xy: 1782, 1192
+  size: 223, 169
+  orig: 223, 169
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00003
+  rotate: true
+  xy: 1239, 428
+  size: 233, 264
+  orig: 233, 264
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00005
+  rotate: true
+  xy: 1256, 808
+  size: 227, 307
+  orig: 227, 307
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00007
+  rotate: false
+  xy: 808, 69
+  size: 227, 359
+  orig: 227, 359
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00009
+  rotate: false
+  xy: 434, 501
+  size: 215, 404
+  orig: 215, 404
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00011
+  rotate: true
+  xy: 1321, 1362
+  size: 207, 453
+  orig: 207, 453
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00013
+  rotate: false
+  xy: 237, 302
+  size: 195, 445
+  orig: 195, 445
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00015
+  rotate: false
+  xy: 242, 749
+  size: 180, 467
+  orig: 180, 467
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00017
+  rotate: true
+  xy: 660, 786
+  size: 174, 465
+  orig: 174, 465
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00019
+  rotate: true
+  xy: 1321, 1215
+  size: 145, 459
+  orig: 145, 459
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00021
+  rotate: true
+  xy: 1565, 815
+  size: 165, 306
+  orig: 165, 306
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00023
+  rotate: true
+  xy: 1304, 1037
+  size: 176, 355
+  orig: 176, 355
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00025
+  rotate: false
+  xy: 424, 907
+  size: 234, 436
+  orig: 234, 436
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00027
+  rotate: false
+  xy: 2, 758
+  size: 238, 458
+  orig: 238, 458
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00029
+  rotate: true
+  xy: 413, 1345
+  size: 224, 459
+  orig: 224, 459
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00031
+  rotate: true
+  xy: 874, 1345
+  size: 224, 445
+  orig: 224, 445
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00033
+  rotate: true
+  xy: 1661, 982
+  size: 208, 346
+  orig: 208, 346
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00035
+  rotate: false
+  xy: 442, 97
+  size: 207, 402
+  orig: 207, 402
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00037
+  rotate: true
+  xy: 660, 962
+  size: 183, 453
+  orig: 183, 453
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00039
+  rotate: true
+  xy: 651, 603
+  size: 181, 437
+  orig: 181, 437
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00041
+  rotate: true
+  xy: 651, 430
+  size: 171, 435
+  orig: 171, 435
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00043
+  rotate: false
+  xy: 651, 2
+  size: 155, 426
+  orig: 155, 426
+  offset: 0, 0
+  index: -1
+effect_electric/Holy_Knight_Light FX4_00045
+  rotate: false
+  xy: 1037, 13
+  size: 139, 415
+  orig: 139, 415
+  offset: 0, 0
+  index: -1
+flare (89)
+  rotate: false
+  xy: 1528, 118
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1112, 1150
+  size: 190, 193
+  orig: 190, 193
+  offset: 0, 0
+  index: -1
+glow (129)
+  rotate: false
+  xy: 1923, 249
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+impact/1
+  rotate: true
+  xy: 1873, 780
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+impact/2
+  rotate: true
+  xy: 1090, 554
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+impact/3
+  rotate: false
+  xy: 1178, 51
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+impact/4
+  rotate: true
+  xy: 1505, 461
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+impact/5
+  rotate: false
+  xy: 1654, 521
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+impact/6
+  rotate: true
+  xy: 1528, 259
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+impact/7
+  rotate: true
+  xy: 1677, 319
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+impact/8
+  rotate: false
+  xy: 1826, 359
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+mom
+  rotate: true
+  xy: 1178, 2
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+motion (48)
+  rotate: false
+  xy: 1833, 101
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1677, 242
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/ao_choang_01
+  rotate: false
+  xy: 2, 1218
+  size: 409, 351
+  orig: 409, 351
+  offset: 0, 0
+  index: -1
+skin_2/ao_choang_02
+  rotate: false
+  xy: 2, 308
+  size: 233, 448
+  orig: 233, 448
+  offset: 0, 0
+  index: -1
+skin_2/armor_L
+  rotate: true
+  xy: 1872, 646
+  size: 132, 157
+  orig: 132, 157
+  offset: 0, 0
+  index: -1
+skin_2/armor_R
+  rotate: false
+  xy: 1776, 1363
+  size: 200, 206
+  orig: 200, 206
+  offset: 0, 0
+  index: -1
+skin_2/armor_R_01
+  rotate: true
+  xy: 1088, 433
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: false
+  xy: 2, 14
+  size: 218, 292
+  orig: 218, 292
+  offset: 0, 0
+  index: -1
+skin_2/dat
+  rotate: true
+  xy: 1304, 1300
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+skin_2/eye_L
+  rotate: false
+  xy: 1661, 1195
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+skin_2/eye_R
+  rotate: true
+  xy: 1565, 982
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: false
+  xy: 1178, 200
+  size: 213, 226
+  orig: 213, 226
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_01
+  rotate: true
+  xy: 1669, 24
+  size: 107, 157
+  orig: 107, 157
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_02
+  rotate: true
+  xy: 1088, 465
+  size: 87, 131
+  orig: 87, 131
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_03
+  rotate: false
+  xy: 1828, 26
+  size: 104, 73
+  orig: 104, 73
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_01
+  rotate: false
+  xy: 1856, 508
+  size: 173, 136
+  orig: 173, 136
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_02
+  rotate: true
+  xy: 1127, 756
+  size: 211, 118
+  orig: 211, 118
+  offset: 0, 0
+  index: -1
+skin_2/kiem
+  rotate: true
+  xy: 660, 1147
+  size: 196, 450
+  orig: 196, 450
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_01
+  rotate: true
+  xy: 1669, 133
+  size: 107, 162
+  orig: 107, 162
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_02
+  rotate: true
+  xy: 442, 5
+  size: 90, 154
+  orig: 90, 154
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_03
+  rotate: true
+  xy: 1256, 1074
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_04
+  rotate: false
+  xy: 598, 46
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_01
+  rotate: false
+  xy: 1380, 44
+  size: 107, 154
+  orig: 107, 154
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_02
+  rotate: false
+  xy: 1115, 969
+  size: 139, 179
+  orig: 139, 179
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_03
+  rotate: false
+  xy: 808, 2
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_04
+  rotate: false
+  xy: 1934, 26
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: false
+  xy: 1978, 1508
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 1489, 132
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: true
+  xy: 1393, 215
+  size: 211, 133
+  orig: 211, 133
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_3
+  rotate: false
+  xy: 1090, 772
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_4
+  rotate: false
+  xy: 424, 895
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: false
+  xy: 222, 8
+  size: 218, 292
+  orig: 218, 292
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_3
+  rotate: true
+  xy: 1247, 663
+  size: 143, 305
+  orig: 143, 305
+  offset: 0, 0
+  index: -1
+skin_2/sip
+  rotate: true
+  xy: 1565, 670
+  size: 143, 305
+  orig: 143, 305
+  offset: 0, 0
+  index: -1

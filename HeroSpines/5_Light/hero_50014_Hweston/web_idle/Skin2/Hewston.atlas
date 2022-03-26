@@ -1,0 +1,356 @@
+
+Hewston.png
+size: 1764,906
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/1a30
+  rotate: true
+  xy: 2, 24
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a32
+  rotate: true
+  xy: 164, 24
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a34
+  rotate: true
+  xy: 321, 242
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a36
+  rotate: true
+  xy: 483, 242
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a38
+  rotate: true
+  xy: 645, 242
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a40
+  rotate: true
+  xy: 693, 40
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a42
+  rotate: false
+  xy: 695, 464
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a44
+  rotate: true
+  xy: 807, 262
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a46
+  rotate: false
+  xy: 897, 464
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a48
+  rotate: true
+  xy: 969, 262
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a50
+  rotate: true
+  xy: 1036, 704
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a52
+  rotate: false
+  xy: 1099, 467
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a54
+  rotate: true
+  xy: 1131, 265
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/Sparks01
+  rotate: false
+  xy: 1293, 315
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks03
+  rotate: false
+  xy: 1301, 483
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks05
+  rotate: false
+  xy: 1352, 754
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks07
+  rotate: false
+  xy: 1504, 754
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks09
+  rotate: false
+  xy: 1476, 602
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks11
+  rotate: false
+  xy: 1453, 450
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/aura (133)
+  rotate: false
+  xy: 1371, 6
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Fx/flare (47)
+  rotate: false
+  xy: 1501, 9
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 959, 660
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/Ban tay phai
+  rotate: true
+  xy: 1371, 136
+  size: 126, 59
+  orig: 126, 59
+  offset: 0, 0
+  index: -1
+skin_2/Ban tay trai
+  rotate: false
+  xy: 1631, 51
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+skin_2/Bap Chan Phai
+  rotate: false
+  xy: 1445, 356
+  size: 139, 92
+  orig: 139, 92
+  offset: 0, 0
+  index: -1
+skin_2/Bap Chan Trai
+  rotate: true
+  xy: 1232, 635
+  size: 111, 101
+  orig: 111, 101
+  offset: 0, 0
+  index: -1
+skin_2/Bap tay phai
+  rotate: false
+  xy: 1631, 162
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+skin_2/Bap tay trai
+  rotate: false
+  xy: 1335, 636
+  size: 139, 110
+  orig: 139, 110
+  offset: 0, 0
+  index: -1
+skin_2/Body copy
+  rotate: true
+  xy: 855, 2
+  size: 258, 256
+  orig: 258, 256
+  offset: 0, 0
+  index: -1
+skin_2/Folder6
+  rotate: true
+  xy: 321, 444
+  size: 460, 372
+  orig: 460, 372
+  offset: 0, 0
+  index: -1
+skin_2/Giap Truoc
+  rotate: false
+  xy: 1656, 794
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1
+skin_2/Giap hong phai
+  rotate: false
+  xy: 1146, 635
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+skin_2/Giap hong trai
+  rotate: false
+  xy: 1036, 629
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+skin_2/Giap vai phai
+  rotate: false
+  xy: 326, 14
+  size: 248, 226
+  orig: 248, 226
+  offset: 0, 0
+  index: -1
+skin_2/Giap vai trai
+  rotate: false
+  xy: 1586, 292
+  size: 137, 127
+  orig: 137, 127
+  offset: 0, 0
+  index: -1
+skin_2/Gun
+  rotate: true
+  xy: 2, 226
+  size: 678, 317
+  orig: 678, 317
+  offset: 0, 0
+  index: -1
+skin_2/Gun2
+  rotate: true
+  xy: 576, 15
+  size: 225, 115
+  orig: 225, 115
+  offset: 0, 0
+  index: -1
+skin_2/Head
+  rotate: false
+  xy: 695, 626
+  size: 262, 278
+  orig: 262, 278
+  offset: 0, 0
+  index: -1
+skin_2/Layer 5
+  rotate: false
+  xy: 1523, 174
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+skin_2/Layer 6
+  rotate: true
+  xy: 1579, 244
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+skin_2/Left Boots
+  rotate: true
+  xy: 1628, 549
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+skin_2/Mat
+  rotate: false
+  xy: 2, 2
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+skin_2/Right Boot
+  rotate: true
+  xy: 1445, 235
+  size: 119, 132
+  orig: 119, 132
+  offset: 0, 0
+  index: -1
+skin_2/Tay Phai
+  rotate: false
+  xy: 1605, 421
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1
+skin_2/Tay trai
+  rotate: true
+  xy: 1198, 748
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: true
+  xy: 1432, 139
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 1293, 264
+  size: 132, 49
+  orig: 132, 49
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_2
+  rotate: false
+  xy: 693, 8
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 1113, 2
+  size: 258, 256
+  orig: 258, 256
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: false
+  xy: 1656, 682
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1

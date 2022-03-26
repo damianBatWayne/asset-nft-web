@@ -1,0 +1,412 @@
+
+Alvar.png
+size: 2014,1612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Atlas_Alvar/1
+  rotate: true
+  xy: 549, 501
+  size: 206, 334
+  orig: 206, 334
+  offset: 0, 0
+  index: -1
+Atlas_Alvar/2
+  rotate: true
+  xy: 1202, 514
+  size: 206, 334
+  orig: 206, 334
+  offset: 0, 0
+  index: -1
+Atlas_Alvar/3
+  rotate: true
+  xy: 1600, 929
+  size: 206, 334
+  orig: 206, 334
+  offset: 0, 0
+  index: -1
+Atlas_Alvar/4
+  rotate: true
+  xy: 1538, 522
+  size: 206, 334
+  orig: 206, 334
+  offset: 0, 0
+  index: -1
+Atlas_Alvar/5
+  rotate: true
+  xy: 1202, 306
+  size: 206, 334
+  orig: 206, 334
+  offset: 0, 0
+  index: -1
+Atlas_Alvar/6
+  rotate: true
+  xy: 1538, 314
+  size: 206, 334
+  orig: 206, 334
+  offset: 0, 0
+  index: -1
+Atlas_Alvar/7
+  rotate: true
+  xy: 1538, 106
+  size: 206, 334
+  orig: 206, 334
+  offset: 0, 0
+  index: -1
+Atlas_Alvar/8
+  rotate: true
+  xy: 548, 293
+  size: 206, 334
+  orig: 206, 334
+  offset: 0, 0
+  index: -1
+Atlas_Alvar/9
+  rotate: true
+  xy: 525, 85
+  size: 206, 334
+  orig: 206, 334
+  offset: 0, 0
+  index: -1
+VK_L copy
+  rotate: true
+  xy: 1874, 470
+  size: 266, 122
+  orig: 266, 122
+  offset: 0, 0
+  index: -1
+eff_skill/Layer 1
+  rotate: false
+  xy: 650, 1398
+  size: 473, 212
+  orig: 473, 212
+  offset: 0, 0
+  index: -1
+eff_skill/Layer 2
+  rotate: false
+  xy: 650, 1184
+  size: 473, 212
+  orig: 473, 212
+  offset: 0, 0
+  index: -1
+eff_skill/Layer 3
+  rotate: false
+  xy: 1125, 1398
+  size: 473, 212
+  orig: 473, 212
+  offset: 0, 0
+  index: -1
+eff_skill/Layer 4
+  rotate: false
+  xy: 1125, 1184
+  size: 473, 212
+  orig: 473, 212
+  offset: 0, 0
+  index: -1
+eff_skill/Layer 5
+  rotate: true
+  xy: 1600, 1137
+  size: 473, 212
+  orig: 473, 212
+  offset: 0, 0
+  index: -1
+eff_skill/Layer 6
+  rotate: false
+  xy: 650, 970
+  size: 473, 212
+  orig: 473, 212
+  offset: 0, 0
+  index: -1
+eff_skill/Layer 7
+  rotate: false
+  xy: 1125, 970
+  size: 473, 212
+  orig: 473, 212
+  offset: 0, 0
+  index: -1
+eff_skill/Layer 8
+  rotate: true
+  xy: 335, 517
+  size: 473, 212
+  orig: 473, 212
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 398, 1030
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/VK_R
+  rotate: true
+  xy: 1527, 730
+  size: 197, 291
+  orig: 197, 291
+  offset: 0, 0
+  index: -1
+skin_2/belt
+  rotate: true
+  xy: 1136, 353
+  size: 148, 54
+  orig: 148, 54
+  offset: 0, 0
+  index: -1
+skin_3/VK_L_2
+  rotate: true
+  xy: 885, 503
+  size: 234, 315
+  orig: 234, 315
+  offset: 0, 0
+  index: -1
+skin_3/VK_R_2
+  rotate: true
+  xy: 865, 739
+  size: 229, 338
+  orig: 229, 338
+  offset: 0, 0
+  index: -1
+skin_3/armor_hand
+  rotate: true
+  xy: 885, 269
+  size: 232, 249
+  orig: 232, 249
+  offset: 0, 0
+  index: -1
+skin_3/back_hoodie
+  rotate: true
+  xy: 335, 329
+  size: 186, 211
+  orig: 186, 211
+  offset: 0, 0
+  index: -1
+skin_3/back_shoulder_armor_2
+  rotate: false
+  xy: 1479, 245
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+skin_3/back_wing
+  rotate: false
+  xy: 2, 435
+  size: 331, 555
+  orig: 331, 555
+  offset: 0, 0
+  index: -1
+skin_3/back_wing_2
+  rotate: false
+  xy: 1814, 1158
+  size: 172, 452
+  orig: 172, 452
+  offset: 0, 0
+  index: -1
+skin_3/body
+  rotate: false
+  xy: 2, 174
+  size: 314, 259
+  orig: 314, 259
+  offset: 0, 0
+  index: -1
+skin_3/button
+  rotate: true
+  xy: 1462, 20
+  size: 84, 159
+  orig: 84, 159
+  offset: 0, 0
+  index: -1
+skin_3/face
+  rotate: true
+  xy: 1205, 722
+  size: 246, 320
+  orig: 246, 320
+  offset: 0, 0
+  index: -1
+skin_3/face2
+  rotate: true
+  xy: 498, 2
+  size: 81, 214
+  orig: 81, 214
+  offset: 0, 0
+  index: -1
+skin_3/front_wing
+  rotate: false
+  xy: 2, 992
+  size: 394, 618
+  orig: 394, 618
+  offset: 0, 0
+  index: -1
+skin_3/front_wing_2
+  rotate: false
+  xy: 398, 1107
+  size: 250, 503
+  orig: 250, 503
+  offset: 0, 0
+  index: -1
+skin_3/hand_L_01
+  rotate: true
+  xy: 1623, 20
+  size: 84, 136
+  orig: 84, 136
+  offset: 0, 0
+  index: -1
+skin_3/hand_L_02
+  rotate: true
+  xy: 1294, 209
+  size: 95, 183
+  orig: 95, 183
+  offset: 0, 0
+  index: -1
+skin_3/hand_R_01
+  rotate: false
+  xy: 1169, 144
+  size: 123, 160
+  orig: 123, 160
+  offset: 0, 0
+  index: -1
+skin_3/hand_R_02
+  rotate: true
+  xy: 1213, 9
+  size: 109, 161
+  orig: 109, 161
+  offset: 0, 0
+  index: -1
+skin_3/khuy
+  rotate: true
+  xy: 1761, 8
+  size: 96, 132
+  orig: 96, 132
+  offset: 0, 0
+  index: -1
+skin_3/leg_L_01
+  rotate: false
+  xy: 1376, 3
+  size: 84, 115
+  orig: 84, 115
+  offset: 0, 0
+  index: -1
+skin_3/leg_L_02
+  rotate: true
+  xy: 1294, 120
+  size: 87, 172
+  orig: 87, 172
+  offset: 0, 0
+  index: -1
+skin_3/leg_R_01
+  rotate: true
+  xy: 861, 2
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+skin_3/leg_R_02
+  rotate: false
+  xy: 1874, 111
+  size: 109, 179
+  orig: 109, 179
+  offset: 0, 0
+  index: -1
+skin_3/mask
+  rotate: false
+  xy: 1066, 124
+  size: 101, 143
+  orig: 101, 143
+  offset: 0, 0
+  index: -1
+skin_3/nft_part1_1
+  rotate: false
+  xy: 549, 970
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+skin_3/nft_part1_2
+  rotate: false
+  xy: 1936, 1017
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+skin_3/nft_part2_1
+  rotate: false
+  xy: 318, 170
+  size: 205, 157
+  orig: 205, 157
+  offset: 0, 0
+  index: -1
+skin_3/nft_part2_2
+  rotate: false
+  xy: 861, 110
+  size: 203, 157
+  orig: 203, 157
+  offset: 0, 0
+  index: -1
+skin_3/nft_part3_1
+  rotate: false
+  xy: 1936, 1085
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_1
+  rotate: false
+  xy: 549, 709
+  size: 314, 259
+  orig: 314, 259
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_2
+  rotate: true
+  xy: 979, 2
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_3
+  rotate: true
+  xy: 714, 2
+  size: 81, 113
+  orig: 81, 113
+  offset: 0, 0
+  index: -1
+skin_3/sip_D
+  rotate: true
+  xy: 248, 22
+  size: 146, 248
+  orig: 146, 248
+  offset: 0, 0
+  index: -1
+skin_3/sip_L
+  rotate: false
+  xy: 1895, 2
+  size: 77, 107
+  orig: 77, 107
+  offset: 0, 0
+  index: -1
+skin_3/sip_R
+  rotate: true
+  xy: 1097, 3
+  size: 119, 114
+  orig: 119, 114
+  offset: 0, 0
+  index: -1
+skin_3/sip_U
+  rotate: true
+  xy: 2, 15
+  size: 157, 244
+  orig: 157, 244
+  offset: 0, 0
+  index: -1
+skin_3/vk_glow1
+  rotate: false
+  xy: 1820, 738
+  size: 135, 189
+  orig: 135, 189
+  offset: 0, 0
+  index: -1
+skin_3/vk_glow1-1
+  rotate: false
+  xy: 1874, 292
+  size: 138, 176
+  orig: 138, 176
+  offset: 0, 0
+  index: -1

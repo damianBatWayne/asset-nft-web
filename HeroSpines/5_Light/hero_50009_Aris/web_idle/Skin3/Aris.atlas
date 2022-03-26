@@ -1,0 +1,328 @@
+
+Aris.png
+size: 2010,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/L_finger
+  rotate: true
+  xy: 685, 8
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+skin_2/hand_R
+  rotate: false
+  xy: 712, 17
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+skin_2/handle_L
+  rotate: true
+  xy: 248, 6
+  size: 11, 126
+  orig: 11, 126
+  offset: 0, 0
+  index: -1
+skin_3/Head
+  rotate: false
+  xy: 1407, 36
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+skin_3/Head_Armor
+  rotate: false
+  xy: 1407, 162
+  size: 203, 192
+  orig: 203, 192
+  offset: 0, 0
+  index: -1
+skin_3/Head_Wing
+  rotate: true
+  xy: 1612, 127
+  size: 190, 196
+  orig: 190, 196
+  offset: 0, 0
+  index: -1
+skin_3/L_M_Arm
+  rotate: false
+  xy: 902, 7
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+skin_3/L_Shoulder_Armor
+  rotate: false
+  xy: 1783, 472
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+skin_3/L_U_Arm
+  rotate: true
+  xy: 520, 27
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+skin_3/L_weapon
+  rotate: true
+  xy: 1266, 356
+  size: 139, 327
+  orig: 139, 327
+  offset: 0, 0
+  index: -1
+skin_3/R_M_Arm
+  rotate: false
+  xy: 963, 16
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+skin_3/R_U_Arm
+  rotate: true
+  xy: 593, 35
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+skin_3/R_finger
+  rotate: false
+  xy: 725, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+skin_3/R_weapon
+  rotate: false
+  xy: 1266, 27
+  size: 139, 327
+  orig: 139, 327
+  offset: 0, 0
+  index: -1
+skin_3/body
+  rotate: false
+  xy: 1888, 493
+  size: 120, 201
+  orig: 120, 201
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00000
+  rotate: true
+  xy: 2, 715
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00001
+  rotate: true
+  xy: 2, 397
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_000010
+  rotate: true
+  xy: 950, 397
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_000011
+  rotate: true
+  xy: 950, 79
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_000012
+  rotate: false
+  xy: 1266, 717
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_000013
+  rotate: false
+  xy: 1584, 717
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00002
+  rotate: true
+  xy: 2, 79
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00003
+  rotate: true
+  xy: 318, 715
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00004
+  rotate: true
+  xy: 318, 397
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00005
+  rotate: true
+  xy: 318, 79
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00006
+  rotate: true
+  xy: 634, 715
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00007
+  rotate: true
+  xy: 634, 397
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00008
+  rotate: true
+  xy: 634, 79
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/fx_fire/fire_blue_00009
+  rotate: true
+  xy: 950, 715
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+skin_3/hand_L
+  rotate: false
+  xy: 697, 47
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+skin_3/handle_R
+  rotate: true
+  xy: 408, 6
+  size: 16, 166
+  orig: 16, 166
+  offset: 0, 0
+  index: -1
+skin_3/item_01
+  rotate: false
+  xy: 1810, 68
+  size: 165, 220
+  orig: 165, 220
+  offset: 0, 0
+  index: -1
+skin_3/leg_L_01
+  rotate: true
+  xy: 758, 13
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+skin_3/leg_L_02
+  rotate: false
+  xy: 1783, 587
+  size: 103, 128
+  orig: 103, 128
+  offset: 0, 0
+  index: -1
+skin_3/leg_R_01
+  rotate: true
+  xy: 408, 24
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+skin_3/leg_R_02
+  rotate: true
+  xy: 248, 19
+  size: 58, 158
+  orig: 58, 158
+  offset: 0, 0
+  index: -1
+skin_3/nft_part1_1
+  rotate: false
+  xy: 739, 32
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+skin_3/nft_part1_2
+  rotate: false
+  xy: 667, 44
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+skin_3/nft_part2_1
+  rotate: true
+  xy: 631, 9
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+skin_3/nft_part2_2
+  rotate: true
+  xy: 576, 2
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+skin_3/nft_part3_1
+  rotate: false
+  xy: 838, 7
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_1
+  rotate: false
+  xy: 1883, 290
+  size: 120, 201
+  orig: 120, 201
+  offset: 0, 0
+  index: -1
+skin_3/wing_L
+  rotate: false
+  xy: 1902, 696
+  size: 104, 335
+  orig: 104, 335
+  offset: 0, 0
+  index: -1
+skin_3/wing_R_01
+  rotate: true
+  xy: 1266, 497
+  size: 218, 359
+  orig: 218, 359
+  offset: 0, 0
+  index: -1
+skin_3/wing_R_02
+  rotate: false
+  xy: 1627, 319
+  size: 154, 396
+  orig: 154, 396
+  offset: 0, 0
+  index: -1

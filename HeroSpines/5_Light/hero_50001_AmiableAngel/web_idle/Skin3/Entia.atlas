@@ -1,0 +1,335 @@
+
+Entia.png
+size: 761,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/Book_Glow
+  rotate: true
+  xy: 2, 59
+  size: 250, 155
+  orig: 250, 155
+  offset: 0, 0
+  index: -1
+fx/spark (29)
+  rotate: false
+  xy: 328, 110
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/traill
+  rotate: false
+  xy: 696, 730
+  size: 31, 300
+  orig: 31, 300
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 452, 490
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/lip
+  rotate: true
+  xy: 737, 107
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+skin_3/Layer 19
+  rotate: false
+  xy: 375, 16
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+skin_3/armor_L
+  rotate: false
+  xy: 266, 10
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+skin_3/armor_R
+  rotate: true
+  xy: 663, 38
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+skin_3/body
+  rotate: false
+  xy: 197, 3
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+skin_3/boob
+  rotate: false
+  xy: 654, 103
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+skin_3/book
+  rotate: true
+  xy: 2, 311
+  size: 281, 165
+  orig: 281, 165
+  offset: 0, 0
+  index: -1
+skin_3/dress
+  rotate: true
+  xy: 529, 526
+  size: 219, 161
+  orig: 219, 161
+  offset: 0, 0
+  index: -1
+skin_3/dress_B
+  rotate: true
+  xy: 426, 30
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+skin_3/dress_F
+  rotate: true
+  xy: 680, 291
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+skin_3/eye
+  rotate: false
+  xy: 659, 167
+  size: 91, 46
+  orig: 91, 46
+  offset: 0, 0
+  index: -1
+skin_3/foot_L
+  rotate: true
+  xy: 169, 244
+  size: 83, 207
+  orig: 83, 207
+  offset: 0, 0
+  index: -1
+skin_3/foot_R1
+  rotate: true
+  xy: 328, 43
+  size: 65, 96
+  orig: 65, 96
+  offset: 0, 0
+  index: -1
+skin_3/foot_R2
+  rotate: true
+  xy: 550, 103
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
+skin_3/hair1
+  rotate: true
+  xy: 540, 367
+  size: 157, 147
+  orig: 157, 147
+  offset: 0, 0
+  index: -1
+skin_3/hair2
+  rotate: false
+  xy: 2, 594
+  size: 180, 436
+  orig: 180, 436
+  offset: 0, 0
+  index: -1
+skin_3/hand_L1
+  rotate: true
+  xy: 689, 368
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+skin_3/hand_L2
+  rotate: false
+  xy: 590, 36
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+skin_3/hand_L3
+  rotate: false
+  xy: 316, 10
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+skin_3/hand_L3b
+  rotate: true
+  xy: 729, 989
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+skin_3/hand_L4
+  rotate: false
+  xy: 729, 969
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+skin_3/hand_R1
+  rotate: false
+  xy: 458, 107
+  size: 90, 131
+  orig: 90, 131
+  offset: 0, 0
+  index: -1
+skin_3/hand_R3
+  rotate: true
+  xy: 152, 2
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+skin_3/hand_R3b
+  rotate: false
+  xy: 737, 134
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+skin_3/head
+  rotate: false
+  xy: 389, 320
+  size: 149, 168
+  orig: 149, 168
+  offset: 0, 0
+  index: -1
+skin_3/head_metalL
+  rotate: true
+  xy: 2, 6
+  size: 51, 148
+  orig: 51, 148
+  offset: 0, 0
+  index: -1
+skin_3/head_metalR
+  rotate: true
+  xy: 378, 240
+  size: 78, 156
+  orig: 78, 156
+  offset: 0, 0
+  index: -1
+skin_3/light_circle
+  rotate: true
+  xy: 498, 747
+  size: 283, 196
+  orig: 283, 196
+  offset: 0, 0
+  index: -1
+skin_3/neck
+  rotate: false
+  xy: 550, 169
+  size: 107, 102
+  orig: 107, 102
+  offset: 0, 0
+  index: -1
+skin_3/nft_part1_3
+  rotate: false
+  xy: 389, 490
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+skin_3/nft_part2_1
+  rotate: true
+  xy: 184, 621
+  size: 113, 266
+  orig: 113, 266
+  offset: 0, 0
+  index: -1
+skin_3/nft_part2_2
+  rotate: false
+  xy: 692, 433
+  size: 67, 146
+  orig: 67, 146
+  offset: 0, 0
+  index: -1
+skin_3/nft_part3_1
+  rotate: true
+  xy: 659, 255
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+skin_3/nft_part3_3
+  rotate: false
+  xy: 659, 215
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skin_3/nft_part3_4
+  rotate: true
+  xy: 659, 233
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_3
+  rotate: true
+  xy: 508, 26
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_4
+  rotate: true
+  xy: 680, 215
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+skin_3/paper
+  rotate: false
+  xy: 159, 70
+  size: 167, 172
+  orig: 167, 172
+  offset: 0, 0
+  index: -1
+skin_3/pen
+  rotate: true
+  xy: 184, 506
+  size: 113, 266
+  orig: 113, 266
+  offset: 0, 0
+  index: -1
+skin_3/ribbon
+  rotate: false
+  xy: 692, 581
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+skin_3/torso
+  rotate: true
+  xy: 540, 273
+  size: 92, 138
+  orig: 92, 138
+  offset: 0, 0
+  index: -1
+skin_3/wing_R
+  rotate: false
+  xy: 184, 736
+  size: 312, 294
+  orig: 312, 294
+  offset: 0, 0
+  index: -1
+skin_3/wing_R2
+  rotate: false
+  xy: 169, 329
+  size: 218, 175
+  orig: 218, 175
+  offset: 0, 0
+  index: -1

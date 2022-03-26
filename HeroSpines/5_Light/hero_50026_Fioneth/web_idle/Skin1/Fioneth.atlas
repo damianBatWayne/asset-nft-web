@@ -1,0 +1,440 @@
+
+Fioneth.png
+size: 697,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFF/Fx2/Fx00
+  rotate: false
+  xy: 2, 698
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx02
+  rotate: false
+  xy: 2, 645
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx04
+  rotate: false
+  xy: 2, 592
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx06
+  rotate: false
+  xy: 2, 539
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx08
+  rotate: false
+  xy: 2, 486
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx10
+  rotate: false
+  xy: 2, 433
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx12
+  rotate: false
+  xy: 2, 380
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx14
+  rotate: false
+  xy: 2, 327
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx16
+  rotate: false
+  xy: 2, 274
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx18
+  rotate: false
+  xy: 2, 221
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx20
+  rotate: false
+  xy: 378, 396
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx22
+  rotate: false
+  xy: 378, 343
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx24
+  rotate: false
+  xy: 376, 290
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx26
+  rotate: false
+  xy: 2, 168
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx28
+  rotate: false
+  xy: 2, 115
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx30
+  rotate: false
+  xy: 2, 62
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx32
+  rotate: false
+  xy: 2, 9
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx34
+  rotate: false
+  xy: 364, 237
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx36
+  rotate: true
+  xy: 364, 55
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx38
+  rotate: false
+  xy: 353, 2
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx40
+  rotate: true
+  xy: 417, 55
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx42
+  rotate: true
+  xy: 470, 55
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+EFF/Fx2/Fx44
+  rotate: true
+  xy: 523, 55
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+Skin1/Layer 26
+  rotate: true
+  xy: 184, 705
+  size: 44, 115
+  orig: 44, 115
+  offset: 0, 0
+  index: -1
+Skin1/Layer 31
+  rotate: true
+  xy: 558, 248
+  size: 57, 128
+  orig: 57, 128
+  offset: 0, 0
+  index: -1
+Skin1/Layer388
+  rotate: true
+  xy: 658, 613
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+Skin1/Layer389
+  rotate: true
+  xy: 656, 197
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+Skin1/arrow
+  rotate: true
+  xy: 2, 829
+  size: 63, 378
+  orig: 63, 378
+  offset: 0, 0
+  index: -1
+Skin1/b_b_hip_arm
+  rotate: false
+  xy: 658, 706
+  size: 34, 108
+  orig: 34, 108
+  offset: 0, 0
+  index: -1
+Skin1/b_eyes
+  rotate: true
+  xy: 673, 997
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Skin1/b_finger_1
+  rotate: false
+  xy: 560, 365
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
+Skin1/b_finger_2
+  rotate: false
+  xy: 673, 884
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+Skin1/b_finger_3
+  rotate: false
+  xy: 673, 954
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Skin1/b_finger_4
+  rotate: false
+  xy: 658, 816
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Skin1/b_forearm
+  rotate: false
+  xy: 291, 467
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+Skin1/b_hand
+  rotate: false
+  xy: 591, 613
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+Skin1/b_upper_arm
+  rotate: false
+  xy: 184, 395
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+Skin1/chest
+  rotate: false
+  xy: 591, 497
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+Skin1/d_body
+  rotate: false
+  xy: 184, 479
+  size: 105, 132
+  orig: 105, 132
+  offset: 0, 0
+  index: -1
+Skin1/dress
+  rotate: false
+  xy: 382, 642
+  size: 274, 250
+  orig: 274, 250
+  offset: 0, 0
+  index: -1
+Skin1/ears
+  rotate: false
+  xy: 579, 130
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+Skin1/f_arm
+  rotate: false
+  xy: 289, 370
+  size: 87, 95
+  orig: 87, 95
+  offset: 0, 0
+  index: -1
+Skin1/f_eyes
+  rotate: true
+  xy: 560, 398
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+Skin1/f_forearm
+  rotate: true
+  xy: 579, 178
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+Skin1/f_hand
+  rotate: false
+  xy: 535, 3
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+Skin1/f_hip_armor
+  rotate: false
+  xy: 287, 157
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+Skin1/hair_1
+  rotate: false
+  xy: 184, 2
+  size: 167, 149
+  orig: 167, 149
+  offset: 0, 0
+  index: -1
+Skin1/hair_2
+  rotate: true
+  xy: 656, 162
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Skin1/hair_4
+  rotate: true
+  xy: 184, 272
+  size: 121, 101
+  orig: 121, 101
+  offset: 0, 0
+  index: -1
+Skin1/head
+  rotate: false
+  xy: 378, 449
+  size: 211, 191
+  orig: 211, 191
+  offset: 0, 0
+  index: -1
+Skin1/nft_part1_1
+  rotate: true
+  xy: 634, 613
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+Skin1/nft_part1_2
+  rotate: true
+  xy: 673, 926
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Skin1/nft_part2_1
+  rotate: false
+  xy: 184, 153
+  size: 101, 117
+  orig: 101, 117
+  offset: 0, 0
+  index: -1
+Skin1/nft_part2_2
+  rotate: false
+  xy: 184, 613
+  size: 106, 90
+  orig: 106, 90
+  offset: 0, 0
+  index: -1
+Skin1/nft_part3_1
+  rotate: false
+  xy: 574, 307
+  size: 119, 72
+  orig: 119, 72
+  offset: 0, 0
+  index: -1
+Skin1/nft_part4_1
+  rotate: false
+  xy: 591, 381
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+Skin1/shadow
+  rotate: true
+  xy: 301, 518
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+Skin1/u_body
+  rotate: false
+  xy: 287, 309
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+Skin1/weapon
+  rotate: true
+  xy: 2, 894
+  size: 135, 669
+  orig: 135, 669
+  offset: 0, 0
+  index: -1
+Skin2/arrow
+  rotate: true
+  xy: 2, 764
+  size: 63, 378
+  orig: 63, 378
+  offset: 0, 0
+  index: -1
+Skin2/day
+  rotate: true
+  xy: 2, 751
+  size: 11, 297
+  orig: 11, 297
+  offset: 0, 0
+  index: -1
+Skin2/hand_01
+  rotate: true
+  xy: 658, 847
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+Vaina.png
+size: 1965,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book_01
+  rotate: false
+  xy: 1337, 76
+  size: 119, 124
+  orig: 119, 124
+  offset: 0, 0
+  index: -1
+mom
+  rotate: true
+  xy: 1422, 27
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1514, 195
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/ao_choang
+  rotate: false
+  xy: 2, 2
+  size: 374, 389
+  orig: 374, 389
+  offset: 0, 0
+  index: -1
+skin_1/armor
+  rotate: false
+  xy: 1514, 272
+  size: 229, 119
+  orig: 229, 119
+  offset: 0, 0
+  index: -1
+skin_1/armor_R
+  rotate: false
+  xy: 1760, 169
+  size: 138, 71
+  orig: 138, 71
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 668, 150
+  size: 188, 241
+  orig: 188, 241
+  offset: 0, 0
+  index: -1
+skin_1/book
+  rotate: false
+  xy: 378, 200
+  size: 288, 191
+  orig: 288, 191
+  offset: 0, 0
+  index: -1
+skin_1/dai_lung
+  rotate: false
+  xy: 1458, 31
+  size: 128, 52
+  orig: 128, 52
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: true
+  xy: 1284, 202
+  size: 189, 228
+  orig: 189, 228
+  offset: 0, 0
+  index: -1
+skin_1/hair
+  rotate: false
+  xy: 1057, 2
+  size: 89, 99
+  orig: 89, 99
+  offset: 0, 0
+  index: -1
+skin_1/hair_L
+  rotate: true
+  xy: 1710, 92
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+skin_1/hair_R
+  rotate: true
+  xy: 1760, 242
+  size: 55, 189
+  orig: 55, 189
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_01
+  rotate: true
+  xy: 1458, 85
+  size: 108, 128
+  orig: 108, 128
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_03
+  rotate: false
+  xy: 1816, 93
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_01
+  rotate: false
+  xy: 1588, 80
+  size: 120, 113
+  orig: 120, 113
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_03
+  rotate: true
+  xy: 1884, 108
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_04
+  rotate: false
+  xy: 1697, 21
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_05
+  rotate: false
+  xy: 1796, 35
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_06
+  rotate: true
+  xy: 1422, 2
+  size: 23, 61
+  orig: 23, 61
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_07
+  rotate: true
+  xy: 1485, 2
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_08
+  rotate: false
+  xy: 1290, 4
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_01
+  rotate: false
+  xy: 925, 16
+  size: 130, 158
+  orig: 130, 158
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_02
+  rotate: false
+  xy: 824, 2
+  size: 99, 146
+  orig: 99, 146
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_01
+  rotate: true
+  xy: 668, 2
+  size: 146, 154
+  orig: 146, 154
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_02
+  rotate: false
+  xy: 1235, 38
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+skin_1/lower_arm_L
+  rotate: true
+  xy: 1337, 2
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+skin_1/lower_arm_R
+  rotate: true
+  xy: 1148, 8
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 1235, 7
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: false
+  xy: 1737, 34
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 378, 7
+  size: 288, 191
+  orig: 288, 191
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 1057, 103
+  size: 176, 71
+  orig: 176, 71
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 858, 176
+  size: 211, 215
+  orig: 211, 215
+  offset: 0, 0
+  index: -1
+skin_1/sip
+  rotate: true
+  xy: 1745, 299
+  size: 92, 218
+  orig: 92, 218
+  offset: 0, 0
+  index: -1
+skin_1/tai_L
+  rotate: true
+  xy: 1900, 181
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+skin_1/tai_R
+  rotate: false
+  xy: 1588, 5
+  size: 107, 73
+  orig: 107, 73
+  offset: 0, 0
+  index: -1
+skin_1/vay
+  rotate: false
+  xy: 1071, 176
+  size: 211, 215
+  orig: 211, 215
+  offset: 0, 0
+  index: -1

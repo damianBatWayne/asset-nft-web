@@ -1,0 +1,377 @@
+
+Hewston.png
+size: 1572,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/1a30
+  rotate: true
+  xy: 467, 372
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a32
+  rotate: true
+  xy: 629, 372
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a34
+  rotate: true
+  xy: 791, 402
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a36
+  rotate: true
+  xy: 898, 200
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a38
+  rotate: false
+  xy: 1032, 38
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a40
+  rotate: false
+  xy: 1234, 874
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a42
+  rotate: false
+  xy: 1234, 712
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a44
+  rotate: false
+  xy: 1234, 550
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a46
+  rotate: true
+  xy: 1060, 204
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a48
+  rotate: false
+  xy: 1234, 388
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a50
+  rotate: false
+  xy: 1234, 226
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a52
+  rotate: true
+  xy: 1234, 24
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/1a54
+  rotate: true
+  xy: 1396, 24
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+Fx/Sparks01
+  rotate: false
+  xy: 1080, 884
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks03
+  rotate: false
+  xy: 1080, 732
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks05
+  rotate: false
+  xy: 1080, 580
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks07
+  rotate: false
+  xy: 1080, 428
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks09
+  rotate: false
+  xy: 796, 884
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/Sparks11
+  rotate: false
+  xy: 796, 732
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Fx/aura (133)
+  rotate: false
+  xy: 1436, 541
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Fx/flare (47)
+  rotate: false
+  xy: 1436, 411
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 430, 24
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Ban tay phai
+  rotate: true
+  xy: 796, 604
+  size: 126, 59
+  orig: 126, 59
+  offset: 0, 0
+  index: -1
+skin_1/Ban tay trai
+  rotate: false
+  xy: 953, 681
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+skin_1/Body copy
+  rotate: false
+  xy: 2, 101
+  size: 241, 255
+  orig: 241, 255
+  offset: 0, 0
+  index: -1
+skin_1/Folder6
+  rotate: true
+  xy: 299, 574
+  size: 460, 372
+  orig: 460, 372
+  offset: 0, 0
+  index: -1
+skin_1/Giap Truoc
+  rotate: true
+  xy: 2, 2
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1
+skin_1/Giap hong phai
+  rotate: true
+  xy: 361, 15
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+skin_1/Giap hong trai
+  rotate: false
+  xy: 857, 606
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+skin_1/Giap vai phai
+  rotate: true
+  xy: 299, 360
+  size: 212, 166
+  orig: 212, 166
+  offset: 0, 0
+  index: -1
+skin_1/Giap vai trai
+  rotate: true
+  xy: 1436, 792
+  size: 109, 133
+  orig: 109, 133
+  offset: 0, 0
+  index: -1
+skin_1/Gun
+  rotate: true
+  xy: 2, 358
+  size: 676, 295
+  orig: 676, 295
+  offset: 0, 0
+  index: -1
+skin_1/Gun2
+  rotate: true
+  xy: 720, 5
+  size: 365, 176
+  orig: 365, 176
+  offset: 0, 0
+  index: -1
+skin_1/Head
+  rotate: true
+  xy: 488, 120
+  size: 250, 230
+  orig: 250, 230
+  offset: 0, 0
+  index: -1
+skin_1/Layer 5
+  rotate: false
+  xy: 967, 569
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+skin_1/Layer 6
+  rotate: false
+  xy: 857, 685
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+skin_1/Left Boots
+  rotate: true
+  xy: 1436, 903
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+skin_1/Mat
+  rotate: false
+  xy: 673, 578
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+skin_1/Right Boot
+  rotate: true
+  xy: 1436, 671
+  size: 119, 132
+  orig: 119, 132
+  offset: 0, 0
+  index: -1
+skin_1/Tay Phai
+  rotate: true
+  xy: 953, 406
+  size: 142, 125
+  orig: 142, 125
+  offset: 0, 0
+  index: -1
+skin_1/Tay trai
+  rotate: true
+  xy: 898, 36
+  size: 162, 132
+  orig: 162, 132
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 676, 63
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 673, 604
+  size: 430, 121
+  orig: 430, 121
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 967, 630
+  size: 109, 49
+  orig: 109, 49
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: false
+  xy: 898, 3
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: true
+  xy: 676, 26
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: true
+  xy: 430, 3
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_3
+  rotate: false
+  xy: 245, 101
+  size: 241, 255
+  orig: 241, 255
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_4
+  rotate: true
+  xy: 114, 6
+  size: 93, 104
+  orig: 93, 104
+  offset: 0, 0
+  index: -1
+skin_2/Bap Chan Phai
+  rotate: false
+  xy: 220, 7
+  size: 139, 92
+  orig: 139, 92
+  offset: 0, 0
+  index: -1
+skin_2/Bap Chan Trai
+  rotate: false
+  xy: 953, 933
+  size: 111, 101
+  orig: 111, 101
+  offset: 0, 0
+  index: -1
+skin_2/Bap tay phai
+  rotate: false
+  xy: 1436, 281
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+skin_2/Bap tay trai
+  rotate: true
+  xy: 953, 792
+  size: 139, 110
+  orig: 139, 110
+  offset: 0, 0
+  index: -1

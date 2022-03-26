@@ -1,0 +1,181 @@
+
+Grimm.png
+size: 1623,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 1439, 790
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_01
+  rotate: false
+  xy: 1239, 230
+  size: 201, 240
+  orig: 201, 240
+  offset: 0, 0
+  index: -1
+skin_1/arm_R_01
+  rotate: true
+  xy: 681, 283
+  size: 204, 277
+  orig: 204, 277
+  offset: 0, 0
+  index: -1
+skin_1/armor_D
+  rotate: true
+  xy: 1418, 91
+  size: 137, 94
+  orig: 137, 94
+  offset: 0, 0
+  index: -1
+skin_1/armor_U
+  rotate: true
+  xy: 1396, 541
+  size: 205, 201
+  orig: 205, 201
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 1068, 748
+  size: 369, 286
+  orig: 369, 286
+  offset: 0, 0
+  index: -1
+skin_1/eye
+  rotate: true
+  xy: 1596, 200
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 1068, 472
+  size: 326, 274
+  orig: 326, 274
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_01
+  rotate: false
+  xy: 1516, 867
+  size: 103, 167
+  orig: 103, 167
+  offset: 0, 0
+  index: -1
+skin_1/mash_01
+  rotate: false
+  xy: 1547, 238
+  size: 74, 148
+  orig: 74, 148
+  offset: 0, 0
+  index: -1
+skin_1/mash_eye
+  rotate: false
+  xy: 1442, 388
+  size: 134, 151
+  orig: 134, 151
+  offset: 0, 0
+  index: -1
+skin_1/mo
+  rotate: true
+  xy: 1516, 757
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+skin_1/mo_01
+  rotate: true
+  xy: 1514, 124
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+skin_1/mo_02
+  rotate: false
+  xy: 1473, 3
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+skin_1/mo_03
+  rotate: false
+  xy: 1418, 2
+  size: 53, 87
+  orig: 53, 87
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 960, 266
+  size: 204, 277
+  orig: 204, 277
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 897, 60
+  size: 204, 277
+  orig: 204, 277
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_4
+  rotate: true
+  xy: 1176, 27
+  size: 201, 240
+  orig: 201, 240
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: true
+  xy: 897, 6
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 1578, 482
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+skin_1/tail
+  rotate: true
+  xy: 1442, 246
+  size: 140, 103
+  orig: 140, 103
+  offset: 0, 0
+  index: -1
+skin_1/wing_01
+  rotate: false
+  xy: 623, 25
+  size: 272, 256
+  orig: 272, 256
+  offset: 0, 0
+  index: -1
+skin_1/wing_02
+  rotate: false
+  xy: 681, 489
+  size: 385, 545
+  orig: 385, 545
+  offset: 0, 0
+  index: -1
+skin_1/wing_F_L
+  rotate: true
+  xy: 2, 4
+  size: 363, 619
+  orig: 363, 619
+  offset: 0, 0
+  index: -1
+skin_1/wing_F_R
+  rotate: false
+  xy: 2, 369
+  size: 677, 665
+  orig: 677, 665
+  offset: 0, 0
+  index: -1

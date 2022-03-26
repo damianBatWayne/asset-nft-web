@@ -1,0 +1,258 @@
+
+Dzu-teh.png
+size: 2017,1179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 2, 19
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/armor
+  rotate: true
+  xy: 897, 25
+  size: 192, 266
+  orig: 192, 266
+  offset: 0, 0
+  index: -1
+skin_1/back/nft_part1_2
+  rotate: false
+  xy: 1182, 503
+  size: 277, 257
+  orig: 277, 257
+  offset: 0, 0
+  index: -1
+skin_1/back/nft_part2_4
+  rotate: false
+  xy: 858, 219
+  size: 277, 257
+  orig: 277, 257
+  offset: 0, 0
+  index: -1
+skin_1/ball
+  rotate: false
+  xy: 1384, 263
+  size: 197, 185
+  orig: 197, 185
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 2, 535
+  size: 438, 642
+  orig: 438, 642
+  offset: 0, 0
+  index: -1
+skin_1/dau_01
+  rotate: false
+  xy: 554, 13
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+skin_1/dau_02
+  rotate: true
+  xy: 1675, 14
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+skin_1/dau_03
+  rotate: true
+  xy: 1384, 450
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+skin_1/eye
+  rotate: false
+  xy: 1835, 850
+  size: 79, 29
+  orig: 79, 29
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 1478, 830
+  size: 355, 347
+  orig: 355, 347
+  offset: 0, 0
+  index: -1
+skin_1/frame_hand_L_01
+  rotate: true
+  xy: 646, 2
+  size: 166, 249
+  orig: 166, 249
+  offset: 0, 0
+  index: -1
+skin_1/frame_hand_L_02
+  rotate: true
+  xy: 1758, 361
+  size: 277, 257
+  orig: 277, 257
+  offset: 0, 0
+  index: -1
+skin_1/frame_hand_R_01
+  rotate: false
+  xy: 1137, 229
+  size: 245, 247
+  orig: 245, 247
+  offset: 0, 0
+  index: -1
+skin_1/frame_hand_R_02
+  rotate: false
+  xy: 646, 170
+  size: 210, 363
+  orig: 210, 363
+  offset: 0, 0
+  index: -1
+skin_1/frame_leg_L
+  rotate: true
+  xy: 1165, 2
+  size: 225, 188
+  orig: 225, 188
+  offset: 0, 0
+  index: -1
+skin_1/frame_leg_R
+  rotate: false
+  xy: 1775, 640
+  size: 226, 188
+  orig: 226, 188
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_01
+  rotate: false
+  xy: 882, 478
+  size: 298, 282
+  orig: 298, 282
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_02
+  rotate: false
+  xy: 1583, 278
+  size: 152, 170
+  orig: 152, 170
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_03
+  rotate: true
+  xy: 1478, 640
+  size: 188, 295
+  orig: 188, 295
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_04
+  rotate: true
+  xy: 413, 12
+  size: 82, 139
+  orig: 82, 139
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_05
+  rotate: true
+  xy: 1835, 881
+  size: 90, 163
+  orig: 90, 163
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_06
+  rotate: true
+  xy: 1759, 61
+  size: 95, 115
+  orig: 95, 115
+  offset: 0, 0
+  index: -1
+skin_1/hand_R
+  rotate: false
+  xy: 882, 762
+  size: 296, 415
+  orig: 296, 415
+  offset: 0, 0
+  index: -1
+skin_1/leg_L
+  rotate: true
+  xy: 1835, 973
+  size: 204, 157
+  orig: 204, 157
+  offset: 0, 0
+  index: -1
+skin_1/leg_R
+  rotate: true
+  xy: 1355, 2
+  size: 225, 188
+  orig: 225, 188
+  offset: 0, 0
+  index: -1
+skin_1/may
+  rotate: false
+  xy: 1759, 158
+  size: 142, 71
+  orig: 142, 71
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 1180, 762
+  size: 296, 415
+  orig: 296, 415
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 1876, 41
+  size: 95, 115
+  orig: 95, 115
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_2
+  rotate: true
+  xy: 248, 4
+  size: 90, 163
+  orig: 90, 163
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_3
+  rotate: true
+  xy: 1461, 450
+  size: 188, 295
+  orig: 188, 295
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_4
+  rotate: false
+  xy: 1675, 90
+  size: 82, 139
+  orig: 82, 139
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 1737, 231
+  size: 208, 128
+  orig: 208, 128
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 442, 535
+  size: 438, 642
+  orig: 438, 642
+  offset: 0, 0
+  index: -1
+skin_1/sung
+  rotate: true
+  xy: 1545, 53
+  size: 208, 128
+  orig: 208, 128
+  offset: 0, 0
+  index: -1
+skin_2/frame_body
+  rotate: true
+  xy: 2, 96
+  size: 437, 642
+  orig: 437, 642
+  offset: 0, 0
+  index: -1

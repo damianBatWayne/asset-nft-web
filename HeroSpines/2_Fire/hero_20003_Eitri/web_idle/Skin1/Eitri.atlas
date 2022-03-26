@@ -1,0 +1,272 @@
+
+Eitri.png
+size: 1985,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 1309, 3
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/beard
+  rotate: true
+  xy: 738, 16
+  size: 213, 200
+  orig: 213, 200
+  offset: 0, 0
+  index: -1
+skin_1/belt
+  rotate: true
+  xy: 1651, 407
+  size: 166, 100
+  orig: 166, 100
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: true
+  xy: 1187, 80
+  size: 245, 196
+  orig: 245, 196
+  offset: 0, 0
+  index: -1
+skin_1/eyes
+  rotate: false
+  xy: 862, 263
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+skin_1/forearm
+  rotate: false
+  xy: 1753, 415
+  size: 107, 158
+  orig: 107, 158
+  offset: 0, 0
+  index: -1
+skin_1/goat_b_armour
+  rotate: true
+  xy: 1187, 2
+  size: 76, 120
+  orig: 76, 120
+  offset: 0, 0
+  index: -1
+skin_1/goat_body
+  rotate: false
+  xy: 2, 169
+  size: 320, 404
+  orig: 320, 404
+  offset: 0, 0
+  index: -1
+skin_1/goat_body_armour
+  rotate: true
+  xy: 940, 7
+  size: 278, 245
+  orig: 278, 245
+  offset: 0, 0
+  index: -1
+skin_1/goat_core
+  rotate: false
+  xy: 324, 187
+  size: 268, 386
+  orig: 268, 386
+  offset: 0, 0
+  index: -1
+skin_1/goat_eye
+  rotate: false
+  xy: 843, 240
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+skin_1/goat_f_armour
+  rotate: false
+  xy: 1686, 161
+  size: 108, 143
+  orig: 108, 143
+  offset: 0, 0
+  index: -1
+skin_1/goat_head
+  rotate: false
+  xy: 1179, 327
+  size: 139, 246
+  orig: 139, 246
+  offset: 0, 0
+  index: -1
+skin_1/goat_horn
+  rotate: true
+  xy: 843, 287
+  size: 286, 245
+  orig: 286, 245
+  offset: 0, 0
+  index: -1
+skin_1/goat_l_b_cannon
+  rotate: false
+  xy: 1886, 7
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+skin_1/goat_l_f_cannon
+  rotate: true
+  xy: 1862, 450
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+skin_1/goat_l_forearm
+  rotate: true
+  xy: 1887, 108
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+skin_1/goat_l_stifle
+  rotate: false
+  xy: 1797, 69
+  size: 87, 97
+  orig: 87, 97
+  offset: 0, 0
+  index: -1
+skin_1/goat_r_b_cannon
+  rotate: false
+  xy: 1887, 177
+  size: 91, 127
+  orig: 91, 127
+  offset: 0, 0
+  index: -1
+skin_1/goat_r_f_cannon
+  rotate: false
+  xy: 1862, 306
+  size: 113, 142
+  orig: 113, 142
+  offset: 0, 0
+  index: -1
+skin_1/goat_r_forearm
+  rotate: false
+  xy: 1796, 168
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+skin_1/goat_r_stifle
+  rotate: false
+  xy: 1541, 158
+  size: 143, 169
+  orig: 143, 169
+  offset: 0, 0
+  index: -1
+skin_1/goat_saddle
+  rotate: true
+  xy: 1496, 395
+  size: 178, 153
+  orig: 178, 153
+  offset: 0, 0
+  index: -1
+skin_1/goat_shaffron
+  rotate: false
+  xy: 596, 3
+  size: 140, 226
+  orig: 140, 226
+  offset: 0, 0
+  index: -1
+skin_1/goat_silk
+  rotate: false
+  xy: 1555, 2
+  size: 118, 154
+  orig: 118, 154
+  offset: 0, 0
+  index: -1
+skin_1/goat_skull
+  rotate: false
+  xy: 1320, 328
+  size: 174, 245
+  orig: 174, 245
+  offset: 0, 0
+  index: -1
+skin_1/hammer
+  rotate: true
+  xy: 1385, 120
+  size: 206, 154
+  orig: 206, 154
+  offset: 0, 0
+  index: -1
+skin_1/handle
+  rotate: false
+  xy: 1090, 314
+  size: 87, 259
+  orig: 87, 259
+  offset: 0, 0
+  index: -1
+skin_1/head
+  rotate: true
+  xy: 2, 2
+  size: 165, 143
+  orig: 165, 143
+  offset: 0, 0
+  index: -1
+skin_1/leg
+  rotate: false
+  xy: 147, 9
+  size: 143, 158
+  orig: 143, 158
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 1764, 346
+  size: 92, 67
+  orig: 92, 67
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 1496, 329
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 1554, 338
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: true
+  xy: 1622, 344
+  size: 49, 140
+  orig: 49, 140
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 292, 9
+  size: 143, 158
+  orig: 143, 158
+  offset: 0, 0
+  index: -1
+skin_1/shoulder
+  rotate: false
+  xy: 1675, 8
+  size: 120, 148
+  orig: 120, 148
+  offset: 0, 0
+  index: -1
+skin_1/sung1
+  rotate: true
+  xy: 437, 5
+  size: 180, 157
+  orig: 180, 157
+  offset: 0, 0
+  index: -1
+skin_3/demo_fx_1
+  rotate: false
+  xy: 594, 231
+  size: 247, 342
+  orig: 247, 342
+  offset: 0, 0
+  index: -1

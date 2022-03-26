@@ -1,0 +1,258 @@
+
+Defronowe.png
+size: 1016,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 448, 75
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/Face
+  rotate: false
+  xy: 324, 18
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+skin_2/back_hair
+  rotate: false
+  xy: 471, 641
+  size: 266, 389
+  orig: 266, 389
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: false
+  xy: 660, 155
+  size: 132, 122
+  orig: 132, 122
+  offset: 0, 0
+  index: -1
+skin_2/chest
+  rotate: false
+  xy: 785, 11
+  size: 69, 127
+  orig: 69, 127
+  offset: 0, 0
+  index: -1
+skin_2/earing
+  rotate: true
+  xy: 642, 6
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+skin_2/front_hair
+  rotate: false
+  xy: 723, 433
+  size: 169, 154
+  orig: 169, 154
+  offset: 0, 0
+  index: -1
+skin_2/fx_motion_blur
+  rotate: false
+  xy: 739, 783
+  size: 270, 247
+  orig: 270, 247
+  offset: 0, 0
+  index: -1
+skin_2/fx_motion_blur_2
+  rotate: false
+  xy: 2, 9
+  size: 320, 142
+  orig: 320, 142
+  offset: 0, 0
+  index: -1
+skin_2/fx_motion_blur_3
+  rotate: false
+  xy: 2, 153
+  size: 308, 243
+  orig: 308, 243
+  offset: 0, 0
+  index: -1
+skin_2/left_arm
+  rotate: true
+  xy: 894, 483
+  size: 104, 120
+  orig: 104, 120
+  offset: 0, 0
+  index: -1
+skin_2/left_arm_up
+  rotate: true
+  xy: 856, 34
+  size: 104, 39
+  orig: 104, 39
+  offset: 0, 0
+  index: -1
+skin_2/left_eye
+  rotate: true
+  xy: 908, 219
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+skin_2/left_eyelid
+  rotate: false
+  xy: 963, 349
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+skin_2/left_hand_attack
+  rotate: false
+  xy: 908, 245
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+skin_2/left_horn
+  rotate: false
+  xy: 727, 279
+  size: 162, 152
+  orig: 162, 152
+  offset: 0, 0
+  index: -1
+skin_2/left_leg
+  rotate: true
+  xy: 465, 299
+  size: 88, 260
+  orig: 88, 260
+  offset: 0, 0
+  index: -1
+skin_2/mouth
+  rotate: false
+  xy: 963, 325
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: false
+  xy: 891, 280
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 2, 715
+  size: 467, 315
+  orig: 467, 315
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: false
+  xy: 891, 310
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_2
+  rotate: false
+  xy: 933, 325
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_3
+  rotate: true
+  xy: 908, 193
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_4
+  rotate: true
+  xy: 891, 415
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: true
+  xy: 448, 4
+  size: 69, 127
+  orig: 69, 127
+  offset: 0, 0
+  index: -1
+skin_2/right_arm
+  rotate: false
+  xy: 794, 140
+  size: 112, 137
+  orig: 112, 137
+  offset: 0, 0
+  index: -1
+skin_2/right_arm_attack
+  rotate: false
+  xy: 465, 152
+  size: 193, 145
+  orig: 193, 145
+  offset: 0, 0
+  index: -1
+skin_2/right_arm_up
+  rotate: true
+  xy: 908, 374
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+skin_2/right_eye
+  rotate: true
+  xy: 891, 397
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+skin_2/right_eyelid
+  rotate: false
+  xy: 856, 9
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+skin_2/right_hand_2
+  rotate: false
+  xy: 577, 15
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+skin_2/right_horn
+  rotate: false
+  xy: 694, 2
+  size: 89, 151
+  orig: 89, 151
+  offset: 0, 0
+  index: -1
+skin_2/right_leg
+  rotate: false
+  xy: 312, 162
+  size: 151, 234
+  orig: 151, 234
+  offset: 0, 0
+  index: -1
+skin_2/tail
+  rotate: false
+  xy: 2, 398
+  size: 467, 315
+  orig: 467, 315
+  offset: 0, 0
+  index: -1
+skin_2/wing
+  rotate: false
+  xy: 739, 589
+  size: 273, 192
+  orig: 273, 192
+  offset: 0, 0
+  index: -1
+smoke (5)
+  rotate: false
+  xy: 471, 389
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1

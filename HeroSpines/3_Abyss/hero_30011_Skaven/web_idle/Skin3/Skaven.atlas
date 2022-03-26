@@ -1,0 +1,265 @@
+
+Skaven.png
+size: 1918,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin3/arm_b
+  rotate: true
+  xy: 2, 2
+  size: 110, 135
+  orig: 110, 135
+  offset: 0, 0
+  index: -1
+skin3/arm_f
+  rotate: false
+  xy: 1783, 304
+  size: 133, 164
+  orig: 133, 164
+  offset: 0, 0
+  index: -1
+skin3/belt_f
+  rotate: false
+  xy: 851, 15
+  size: 195, 146
+  orig: 195, 146
+  offset: 0, 0
+  index: -1
+skin3/body
+  rotate: false
+  xy: 607, 8
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+skin3/brace_f_1
+  rotate: false
+  xy: 139, 3
+  size: 58, 109
+  orig: 58, 109
+  offset: 0, 0
+  index: -1
+skin3/bracer_b_1
+  rotate: true
+  xy: 1783, 120
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+skin3/bracer_b_2
+  rotate: true
+  xy: 1861, 92
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+skin3/bracer_f_2
+  rotate: true
+  xy: 1861, 147
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+skin3/hair
+  rotate: true
+  xy: 732, 163
+  size: 305, 301
+  orig: 305, 301
+  offset: 0, 0
+  index: -1
+skin3/hair_f1
+  rotate: false
+  xy: 1095, 3
+  size: 196, 219
+  orig: 196, 219
+  offset: 0, 0
+  index: -1
+skin3/hair_f3
+  rotate: true
+  xy: 1644, 119
+  size: 165, 137
+  orig: 165, 137
+  offset: 0, 0
+  index: -1
+skin3/hand_b_1
+  rotate: false
+  xy: 1857, 19
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+skin3/hand_b_2
+  rotate: true
+  xy: 1035, 163
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+skin3/head
+  rotate: true
+  xy: 275, 158
+  size: 310, 266
+  orig: 310, 266
+  offset: 0, 0
+  index: -1
+skin3/head_band
+  rotate: true
+  xy: 1226, 253
+  size: 215, 167
+  orig: 215, 167
+  offset: 0, 0
+  index: -1
+skin3/leg_b
+  rotate: false
+  xy: 1541, 286
+  size: 121, 182
+  orig: 121, 182
+  offset: 0, 0
+  index: -1
+skin3/leg_f
+  rotate: false
+  xy: 1112, 225
+  size: 112, 243
+  orig: 112, 243
+  offset: 0, 0
+  index: -1
+skin3/middle_f
+  rotate: true
+  xy: 1794, 72
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+skin3/nft_part1_1
+  rotate: true
+  xy: 1048, 95
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+skin3/nft_part1_2
+  rotate: true
+  xy: 1794, 22
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+skin3/nft_part2_1
+  rotate: false
+  xy: 1783, 196
+  size: 133, 106
+  orig: 133, 106
+  offset: 0, 0
+  index: -1
+skin3/nft_part3_1
+  rotate: true
+  xy: 1430, 93
+  size: 185, 91
+  orig: 185, 91
+  offset: 0, 0
+  index: -1
+skin3/nft_part4_1
+  rotate: true
+  xy: 1664, 308
+  size: 160, 71
+  orig: 160, 71
+  offset: 0, 0
+  index: -1
+skin3/orb
+  rotate: false
+  xy: 1680, 5
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+skin3/pinky_f
+  rotate: false
+  xy: 1048, 123
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+skin3/shadow
+  rotate: true
+  xy: 1035, 224
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin3/shoulder_f
+  rotate: true
+  xy: 543, 158
+  size: 310, 187
+  orig: 310, 187
+  offset: 0, 0
+  index: -1
+skin3/shoulder_feather_b
+  rotate: true
+  xy: 1395, 280
+  size: 188, 144
+  orig: 188, 144
+  offset: 0, 0
+  index: -1
+skin3/shoulder_feather_f
+  rotate: false
+  xy: 1534, 13
+  size: 144, 79
+  orig: 144, 79
+  offset: 0, 0
+  index: -1
+skin3/shoulder_feather_f2
+  rotate: false
+  xy: 278, 2
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+skin3/skirt_f
+  rotate: false
+  xy: 1523, 94
+  size: 119, 184
+  orig: 119, 184
+  offset: 0, 0
+  index: -1
+skin3/skirt_feather_b
+  rotate: false
+  xy: 768, 5
+  size: 81, 156
+  orig: 81, 156
+  offset: 0, 0
+  index: -1
+skin3/skirt_feather_f
+  rotate: true
+  xy: 397, 3
+  size: 153, 208
+  orig: 153, 208
+  offset: 0, 0
+  index: -1
+skin3/staff
+  rotate: false
+  xy: 2, 114
+  size: 271, 354
+  orig: 271, 354
+  offset: 0, 0
+  index: -1
+skin3/staff_b
+  rotate: true
+  xy: 1430, 7
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+skin3/staff_skull
+  rotate: false
+  xy: 1293, 49
+  size: 135, 202
+  orig: 135, 202
+  offset: 0, 0
+  index: -1
+skin3/thumb_f
+  rotate: false
+  xy: 199, 4
+  size: 77, 108
+  orig: 77, 108
+  offset: 0, 0
+  index: -1

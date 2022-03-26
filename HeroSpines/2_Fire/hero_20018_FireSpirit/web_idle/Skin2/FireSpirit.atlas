@@ -1,0 +1,377 @@
+
+FireSpirit.png
+size: 1857,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atlas/Fire_Spirit0000
+  rotate: false
+  xy: 2, 614
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0001
+  rotate: false
+  xy: 2, 308
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0002
+  rotate: false
+  xy: 2, 2
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0003
+  rotate: false
+  xy: 304, 614
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0004
+  rotate: false
+  xy: 304, 308
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0005
+  rotate: false
+  xy: 304, 2
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0006
+  rotate: false
+  xy: 606, 614
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0007
+  rotate: false
+  xy: 606, 308
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0008
+  rotate: false
+  xy: 606, 2
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0009
+  rotate: false
+  xy: 908, 614
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0010
+  rotate: false
+  xy: 908, 308
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0011
+  rotate: false
+  xy: 908, 2
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0012
+  rotate: false
+  xy: 1210, 614
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0013
+  rotate: false
+  xy: 1210, 308
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+atlas/Fire_Spirit0014
+  rotate: false
+  xy: 1210, 2
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 1781, 182
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1512, 575
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/L_1
+  rotate: false
+  xy: 1729, 149
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+skin_2/L_2
+  rotate: false
+  xy: 1653, 20
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+skin_2/L_3
+  rotate: true
+  xy: 1732, 452
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+skin_2/L_Jaw
+  rotate: false
+  xy: 1512, 316
+  size: 92, 127
+  orig: 92, 127
+  offset: 0, 0
+  index: -1
+skin_2/R_1
+  rotate: true
+  xy: 1781, 122
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+skin_2/R_2
+  rotate: true
+  xy: 1837, 455
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+skin_2/R_3
+  rotate: true
+  xy: 1844, 290
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+skin_2/R_Jaw
+  rotate: false
+  xy: 1606, 326
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+skin_2/eye_L
+  rotate: false
+  xy: 1771, 642
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+skin_2/eye_R
+  rotate: false
+  xy: 1729, 124
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: false
+  xy: 1512, 652
+  size: 257, 266
+  orig: 257, 266
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_01
+  rotate: true
+  xy: 1591, 130
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_02
+  rotate: false
+  xy: 1723, 249
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_03
+  rotate: false
+  xy: 1732, 465
+  size: 54, 108
+  orig: 54, 108
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_04
+  rotate: false
+  xy: 1743, 377
+  size: 45, 86
+  orig: 45, 86
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_05
+  rotate: true
+  xy: 1766, 254
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_01
+  rotate: false
+  xy: 1788, 476
+  size: 67, 89
+  orig: 67, 89
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_02
+  rotate: false
+  xy: 1788, 567
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_03
+  rotate: false
+  xy: 1512, 217
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_04
+  rotate: true
+  xy: 1512, 108
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_05
+  rotate: true
+  xy: 1606, 215
+  size: 109, 59
+  orig: 109, 59
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: true
+  xy: 1512, 17
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: true
+  xy: 1664, 338
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_3
+  rotate: false
+  xy: 1653, 39
+  size: 66, 81
+  orig: 66, 81
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_4
+  rotate: false
+  xy: 1721, 40
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_5
+  rotate: false
+  xy: 1675, 122
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_6
+  rotate: false
+  xy: 1790, 388
+  size: 45, 86
+  orig: 45, 86
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_7
+  rotate: true
+  xy: 1592, 19
+  size: 109, 59
+  orig: 109, 59
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_8
+  rotate: false
+  xy: 1729, 171
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 1639, 447
+  size: 91, 126
+  orig: 91, 126
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_2
+  rotate: false
+  xy: 1667, 220
+  size: 54, 116
+  orig: 54, 116
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: false
+  xy: 1771, 659
+  size: 51, 130
+  orig: 51, 130
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_2
+  rotate: false
+  xy: 1512, 445
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 1771, 791
+  size: 127, 69
+  orig: 127, 69
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: false
+  xy: 1784, 306
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_3
+  rotate: true
+  xy: 1743, 338
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1

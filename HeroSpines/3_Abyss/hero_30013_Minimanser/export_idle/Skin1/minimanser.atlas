@@ -1,0 +1,300 @@
+
+minimanser.png
+size: 1477,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_light_1
+  rotate: false
+  xy: 825, 60
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 575, 152
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/ban_tay_sau
+  rotate: false
+  xy: 1406, 10
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+skin_1/ban_tay_truoc
+  rotate: true
+  xy: 1359, 70
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+skin_1/bap_tay_sau
+  rotate: true
+  xy: 955, 84
+  size: 58, 128
+  orig: 58, 128
+  offset: 0, 0
+  index: -1
+skin_1/bap_tay_truoc
+  rotate: true
+  xy: 636, 422
+  size: 101, 322
+  orig: 101, 322
+  offset: 0, 0
+  index: -1
+skin_1/can
+  rotate: true
+  xy: 2, 398
+  size: 125, 632
+  orig: 125, 632
+  offset: 0, 0
+  index: -1
+skin_1/canh_tay_sau
+  rotate: true
+  xy: 2, 4
+  size: 80, 262
+  orig: 80, 262
+  offset: 0, 0
+  index: -1
+skin_1/canh_tay_truoc
+  rotate: false
+  xy: 1085, 80
+  size: 74, 62
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+skin_1/cuon_giay_1
+  rotate: true
+  xy: 1265, 81
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+skin_1/cuon_giay_2
+  rotate: false
+  xy: 1390, 122
+  size: 43, 102
+  orig: 43, 102
+  offset: 0, 0
+  index: -1
+skin_1/cuon_giay_3
+  rotate: true
+  xy: 1161, 23
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+skin_1/dau
+  rotate: true
+  xy: 958, 207
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+skin_1/dau_lau
+  rotate: true
+  xy: 1284, 125
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+skin_1/day_sau
+  rotate: false
+  xy: 1161, 85
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+skin_1/day_truoc
+  rotate: false
+  xy: 825, 2
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+skin_1/giap_vai_truoc
+  rotate: true
+  xy: 1065, 4
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+skin_1/luoi_hai
+  rotate: true
+  xy: 351, 20
+  size: 376, 222
+  orig: 376, 222
+  offset: 0, 0
+  index: -1
+skin_1/mat_sau
+  rotate: false
+  xy: 773, 6
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+skin_1/mat_truoc
+  rotate: true
+  xy: 1422, 232
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+skin_1/mong_vuot
+  rotate: false
+  xy: 1345, 14
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 1435, 147
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: true
+  xy: 1198, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 266, 7
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 1161, 138
+  size: 121, 86
+  orig: 121, 86
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: true
+  xy: 1254, 31
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+skin_1/ngon_ap_ut_truoc
+  rotate: true
+  xy: 652, 155
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+skin_1/ngon_giua_truoc
+  rotate: false
+  xy: 1435, 187
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+skin_1/ngon_tro_truoc
+  rotate: false
+  xy: 1450, 483
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+skin_1/ngon_ut_truoc
+  rotate: true
+  xy: 1159, 2
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+skin_1/nguc
+  rotate: true
+  xy: 1136, 227
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+skin_1/shoulder_hip
+  rotate: true
+  xy: 960, 15
+  size: 67, 103
+  orig: 67, 103
+  offset: 0, 0
+  index: -1
+skin_1/sung_sau
+  rotate: false
+  xy: 773, 26
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+skin_1/sung_truoc
+  rotate: false
+  xy: 708, 5
+  size: 63, 171
+  orig: 63, 171
+  offset: 0, 0
+  index: -1
+skin_1/tay_ao_truoc
+  rotate: true
+  xy: 958, 144
+  size: 61, 201
+  orig: 61, 201
+  offset: 0, 0
+  index: -1
+skin_1/than
+  rotate: false
+  xy: 804, 190
+  size: 152, 230
+  orig: 152, 230
+  offset: 0, 0
+  index: -1
+skin_1/toc_0
+  rotate: true
+  xy: 960, 339
+  size: 184, 246
+  orig: 184, 246
+  offset: 0, 0
+  index: -1
+skin_1/toc_1
+  rotate: false
+  xy: 575, 6
+  size: 131, 144
+  orig: 131, 144
+  offset: 0, 0
+  index: -1
+skin_1/toc_2
+  rotate: true
+  xy: 1208, 226
+  size: 62, 212
+  orig: 62, 212
+  offset: 0, 0
+  index: -1
+skin_1/vat_ao_sau
+  rotate: true
+  xy: 1208, 290
+  size: 233, 240
+  orig: 233, 240
+  offset: 0, 0
+  index: -1
+skin_1/vat_ao_truoc
+  rotate: false
+  xy: 652, 178
+  size: 150, 242
+  orig: 150, 242
+  offset: 0, 0
+  index: -1
+skin_1/vay_1
+  rotate: false
+  xy: 2, 86
+  size: 347, 310
+  orig: 347, 310
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+Rufus.png
+size: 1620,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 594, 11
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin2/body
+  rotate: true
+  xy: 594, 88
+  size: 167, 204
+  orig: 167, 204
+  offset: 0, 0
+  index: -1
+skin2/bom_1
+  rotate: true
+  xy: 1372, 20
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+skin2/bom_2
+  rotate: false
+  xy: 1433, 2
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+skin2/dao_L
+  rotate: false
+  xy: 840, 25
+  size: 158, 61
+  orig: 158, 61
+  offset: 0, 0
+  index: -1
+skin2/dao_R
+  rotate: false
+  xy: 1205, 76
+  size: 226, 70
+  orig: 226, 70
+  offset: 0, 0
+  index: -1
+skin2/face
+  rotate: true
+  xy: 2, 17
+  size: 238, 313
+  orig: 238, 313
+  offset: 0, 0
+  index: -1
+skin2/hair_01
+  rotate: true
+  xy: 317, 67
+  size: 188, 275
+  orig: 188, 275
+  offset: 0, 0
+  index: -1
+skin2/hair_02
+  rotate: true
+  xy: 317, 11
+  size: 54, 170
+  orig: 54, 170
+  offset: 0, 0
+  index: -1
+skin2/hand_L_01
+  rotate: true
+  xy: 1190, 14
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+skin2/hand_L_02
+  rotate: true
+  xy: 489, 10
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+skin2/hand_L_03
+  rotate: true
+  xy: 1476, 7
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+skin2/hand_R_01
+  rotate: true
+  xy: 1006, 13
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+skin2/hand_R_02
+  rotate: true
+  xy: 1433, 103
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+skin2/hand_R_03
+  rotate: false
+  xy: 1561, 120
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+skin2/khan
+  rotate: true
+  xy: 1114, 7
+  size: 97, 74
+  orig: 97, 74
+  offset: 0, 0
+  index: -1
+skin2/leg_L
+  rotate: true
+  xy: 1006, 106
+  size: 149, 197
+  orig: 149, 197
+  offset: 0, 0
+  index: -1
+skin2/leg_R
+  rotate: true
+  xy: 1205, 148
+  size: 107, 219
+  orig: 107, 219
+  offset: 0, 0
+  index: -1
+skin2/nft_part1_1
+  rotate: false
+  xy: 840, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+skin2/nft_part1_2
+  rotate: false
+  xy: 1566, 59
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+skin2/nft_part1_3
+  rotate: false
+  xy: 1284, 8
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+skin2/nft_part1_4
+  rotate: true
+  xy: 1535, 7
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+skin2/nft_part2_1
+  rotate: false
+  xy: 1433, 51
+  size: 131, 50
+  orig: 131, 50
+  offset: 0, 0
+  index: -1
+skin2/nft_part2_2
+  rotate: false
+  xy: 1284, 32
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+skin2/nft_part3_1
+  rotate: false
+  xy: 1426, 182
+  size: 172, 73
+  orig: 172, 73
+  offset: 0, 0
+  index: -1
+skin2/nft_part4_1
+  rotate: true
+  xy: 800, 88
+  size: 167, 204
+  orig: 167, 204
+  offset: 0, 0
+  index: -1

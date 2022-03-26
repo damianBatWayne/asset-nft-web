@@ -1,0 +1,55 @@
+
+summon_fx.png
+size: 1922,1251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book_1
+  rotate: true
+  xy: 920, 434
+  size: 815, 522
+  orig: 815, 522
+  offset: 0, 0
+  index: -1
+eff_light_elip
+  rotate: false
+  xy: 1614, 379
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+paper_1
+  rotate: false
+  xy: 2, 2
+  size: 810, 417
+  orig: 810, 417
+  offset: 0, 0
+  index: -1
+paper_1_summon
+  rotate: true
+  xy: 2, 421
+  size: 828, 436
+  orig: 828, 436
+  offset: 0, 0
+  index: -1
+paper_2
+  rotate: true
+  xy: 1444, 438
+  size: 811, 476
+  orig: 811, 476
+  offset: 0, 0
+  index: -1
+paper_2_summon
+  rotate: true
+  xy: 440, 426
+  size: 823, 478
+  orig: 823, 478
+  offset: 0, 0
+  index: -1
+paper_3
+  rotate: false
+  xy: 814, 10
+  size: 798, 414
+  orig: 798, 414
+  offset: 0, 0
+  index: -1

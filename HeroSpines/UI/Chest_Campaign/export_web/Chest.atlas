@@ -1,0 +1,104 @@
+
+Chest.png
+size: 781,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_chest_2_gold
+  rotate: false
+  xy: 2, 238
+  size: 405, 125
+  orig: 405, 125
+  offset: 0, 0
+  index: -1
+back_chest_3_gold
+  rotate: false
+  xy: 2, 365
+  size: 627, 168
+  orig: 627, 168
+  offset: 0, 0
+  index: -1
+chest_1
+  rotate: false
+  xy: 184, 153
+  size: 220, 83
+  orig: 220, 83
+  offset: 0, 0
+  index: -1
+chest_2
+  rotate: false
+  xy: 184, 50
+  size: 212, 94
+  orig: 212, 94
+  offset: 0, 0
+  index: -1
+chest_3
+  rotate: false
+  xy: 2, 124
+  size: 180, 112
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+chest_base
+  rotate: true
+  xy: 409, 146
+  size: 217, 115
+  orig: 217, 115
+  offset: 0, 0
+  index: -1
+chest_shadow
+  rotate: false
+  xy: 2, 2
+  size: 246, 46
+  orig: 246, 46
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 616, 5
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 398, 68
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+flare (89)
+  rotate: false
+  xy: 458, 16
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flare (92)
+  rotate: false
+  xy: 526, 263
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+front_chest_2_gold
+  rotate: true
+  xy: 526, 6
+  size: 255, 88
+  orig: 255, 88
+  offset: 0, 0
+  index: -1
+front_chest_3_gold
+  rotate: true
+  xy: 631, 42
+  size: 491, 148
+  orig: 491, 148
+  offset: 0, 0
+  index: -1
+lo
+  rotate: true
+  xy: 398, 16
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1

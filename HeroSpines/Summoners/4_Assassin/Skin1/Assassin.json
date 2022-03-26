@@ -1,0 +1,2173 @@
+{
+"skeleton": { "hash": "DzTcD+Wyy7zum2JFBnkS0kHxtLo", "spine": "3.6.53", "width": 648.86, "height": 725.05, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "King", "parent": "root" },
+	{ "name": "1b", "parent": "King", "x": 114.45, "y": -1.65, "color": "ff3f00ff" },
+	{ "name": "1a", "parent": "1b", "x": -41.81, "y": 31.03, "color": "ff3f00ff" },
+	{ "name": "2b", "parent": "King", "x": -118.31, "y": -25.69, "color": "ff3f00ff" },
+	{ "name": "2a", "parent": "2b", "x": 13.46, "y": 44.22, "color": "ff3f00ff" },
+	{ "name": "Move", "parent": "King", "x": -42.75, "y": 200.07, "color": "ff0000ff" },
+	{ "name": "torso", "parent": "Move", "x": -2.94, "y": 84.02, "color": "ff0000ff" },
+	{
+		"name": "Layer 15",
+		"parent": "torso",
+		"length": 139.66,
+		"rotation": -95.87,
+		"x": -31.87,
+		"y": -10.8,
+		"scaleX": 1.053,
+		"scaleY": 1.053,
+		"color": "abe323ff"
+	},
+	{ "name": "Layer 18", "parent": "Layer 15", "length": 103.76, "rotation": 3.25, "x": 139.06, "y": -0.08 },
+	{ "name": "Folder3", "parent": "Layer 18", "length": 44.64, "rotation": -11.45, "x": 103.28, "y": -0.05 },
+	{ "name": "Folder4", "parent": "torso", "length": 145.47, "rotation": -68.21, "x": 20.85, "y": -13.9, "color": "abe323ff" },
+	{ "name": "Layer 16", "parent": "Folder4", "length": 114.98, "rotation": 0.37, "x": 144.87, "y": -0.66 },
+	{ "name": "Folder5", "parent": "Layer 16", "length": 52.78, "rotation": 32.61, "x": 114.51, "y": -0.11 },
+	{ "name": "Folder12", "parent": "torso", "length": 33.88, "rotation": 56.31, "x": 0.03, "y": 0.2 },
+	{ "name": "Folder13", "parent": "Folder12", "length": 55.89, "rotation": 23.8, "x": 33.88 },
+	{ "name": "Folder14", "parent": "Folder13", "length": 60.84, "rotation": 42.72, "x": 55.22, "y": -0.05 },
+	{
+		"name": "Folder15",
+		"parent": "Folder14",
+		"length": 45.75,
+		"rotation": -37.13,
+		"x": 60.75,
+		"y": 0.02,
+		"transform": "noScale",
+		"color": "abe323ff"
+	},
+	{ "name": "Layer 52", "parent": "Folder15", "length": 80.01, "rotation": -51.63, "x": 45.55, "y": 0.14 },
+	{ "name": "Layer 4", "parent": "Layer 52", "x": 59.95, "y": 91.76 },
+	{ "name": "Folder16", "parent": "Layer 4", "x": 50.4, "y": -59.95 },
+	{
+		"name": "Folder17",
+		"parent": "Folder16",
+		"length": 44.73,
+		"rotation": -104.55,
+		"x": -20.01,
+		"y": 6.45,
+		"transform": "noRotationOrReflection",
+		"color": "fff600ff"
+	},
+	{ "name": "Folder18", "parent": "Folder17", "length": 36.54, "rotation": 10.25, "x": 44.73, "color": "fff600ff" },
+	{ "name": "Folder19", "parent": "Folder18", "length": 39.05, "rotation": -0.53, "x": 36.54, "color": "fff600ff" },
+	{
+		"name": "Folder20",
+		"parent": "Folder16",
+		"length": 49.35,
+		"rotation": -94.09,
+		"x": 6.43,
+		"y": -22.07,
+		"transform": "noRotationOrReflection",
+		"color": "fff600ff"
+	},
+	{ "name": "Folder21", "parent": "Folder20", "length": 58.4, "rotation": 7.25, "x": 49.35, "color": "fff600ff" },
+	{ "name": "Folder22", "parent": "Folder21", "length": 45.95, "rotation": 17, "x": 57.71, "y": -0.23, "color": "fff600ff" },
+	{ "name": "Folder23", "parent": "Folder22", "length": 48.96, "rotation": -6.22, "x": 45.95, "color": "fff600ff" },
+	{ "name": "Folder46", "parent": "torso", "x": 11.9, "y": -10.06 },
+	{
+		"name": "Folder47",
+		"parent": "Folder46",
+		"length": 54.37,
+		"rotation": -85.68,
+		"x": -1.05,
+		"y": -32.53,
+		"transform": "noRotationOrReflection"
+	},
+	{ "name": "Folder48", "parent": "Folder47", "length": 55, "rotation": 5.32, "x": 54.37 },
+	{ "name": "Folder49", "parent": "Folder48", "length": 56.11, "rotation": 6.59, "x": 55 },
+	{ "name": "FxSlash", "parent": "King", "x": 0.69, "y": 0.69 },
+	{ "name": "FxSlash2", "parent": "King", "x": 0.69, "y": 0.69 },
+	{ "name": "FxSparks", "parent": "King", "rotation": 90 },
+	{ "name": "FxSparks2", "parent": "King", "rotation": 90, "scaleY": -1 },
+	{ "name": "Layer 9 copy", "parent": "King", "x": -182.15, "y": 227.78 },
+	{ "name": "SmokeK", "parent": "Layer 9 copy", "rotation": 1.38, "x": -0.77, "y": 0.04, "transform": "noRotationOrReflection" },
+	{ "name": "Fx_smoke", "parent": "SmokeK", "rotation": 122.65, "x": 0.83, "y": 0.43, "scaleX": -1 },
+	{ "name": "Fx_smoke2", "parent": "SmokeK", "rotation": 122.65, "x": 0.83, "y": 0.43, "scaleX": -1 },
+	{ "name": "Fx_smoke3", "parent": "SmokeK", "rotation": 122.65, "x": 0.83, "y": 0.43, "scaleX": -1 },
+	{ "name": "Fx_smoke4", "parent": "SmokeK", "rotation": 122.65, "x": 0.83, "y": 0.43, "scaleX": -1 },
+	{ "name": "Layer 9 copy2", "parent": "King", "x": 70.55, "y": 223.03 },
+	{
+		"name": "Layer 9 copy4",
+		"parent": "Layer 9 copy2",
+		"length": 109.26,
+		"rotation": 150.74,
+		"x": -0.21,
+		"y": -0.1,
+		"scaleX": 0.939,
+		"scaleY": 0.939
+	},
+	{ "name": "SmokeK2", "parent": "Layer 9 copy4", "rotation": -150.61, "x": 2.85, "y": 0.22 },
+	{
+		"name": "Fx_smoke5",
+		"parent": "SmokeK2",
+		"rotation": -55.97,
+		"x": 0.83,
+		"y": 0.43,
+		"scaleX": -1,
+		"transform": "noRotationOrReflection"
+	},
+	{
+		"name": "Fx_smoke6",
+		"parent": "SmokeK2",
+		"rotation": -55.97,
+		"x": 0.83,
+		"y": 0.43,
+		"scaleX": -1,
+		"transform": "noRotationOrReflection"
+	},
+	{
+		"name": "Fx_smoke7",
+		"parent": "SmokeK2",
+		"rotation": -55.97,
+		"x": 0.83,
+		"y": 0.43,
+		"scaleX": -1,
+		"transform": "noRotationOrReflection"
+	},
+	{
+		"name": "Fx_smoke8",
+		"parent": "SmokeK2",
+		"rotation": -55.97,
+		"x": 0.83,
+		"y": 0.43,
+		"scaleX": -1,
+		"transform": "noRotationOrReflection"
+	},
+	{ "name": "Fx_smoke9", "parent": "SmokeK", "rotation": 122.65, "x": 0.83, "y": 0.43, "scaleX": -1 },
+	{ "name": "Fx_smoke10", "parent": "SmokeK", "rotation": 122.65, "x": 0.83, "y": 0.43, "scaleX": -1 },
+	{ "name": "Fx_smoke11", "parent": "SmokeK", "rotation": 122.65, "x": 0.83, "y": 0.43, "scaleX": -1 },
+	{
+		"name": "Layer 14",
+		"parent": "Folder14",
+		"length": 88.26,
+		"rotation": -68.6,
+		"x": 21.17,
+		"y": -28.5,
+		"transform": "onlyTranslation",
+		"color": "abe323ff"
+	},
+	{ "name": "Layer 13", "parent": "Layer 14", "length": 78.49, "rotation": 4.72, "x": 87.98, "y": -0.28 },
+	{ "name": "Layer98", "parent": "Layer 13", "length": 39.82, "rotation": -5.48, "x": 78.37, "y": -0.24, "color": "abe323ff" },
+	{
+		"name": "Layer 50",
+		"parent": "Folder14",
+		"length": 103.78,
+		"rotation": -121.39,
+		"x": 69.36,
+		"y": 35.18,
+		"transform": "onlyTranslation",
+		"color": "abe323ff"
+	},
+	{ "name": "Layer793", "parent": "Layer 50", "length": 84.54, "rotation": 7.18, "x": 103.22, "y": -0.21 },
+	{ "name": "Layer 1", "parent": "Layer 52", "x": 44.32, "y": 143.66 },
+	{ "name": "Layer 2", "parent": "Layer 1", "length": 38.76, "rotation": 127.7, "x": 0.38, "y": 1.83, "color": "ff00f1ff" },
+	{
+		"name": "Layer 3",
+		"parent": "Layer 2",
+		"length": 54.93,
+		"rotation": -122.65,
+		"x": 38.76,
+		"transform": "noRotationOrReflection",
+		"color": "ff00f1ff"
+	},
+	{ "name": "Layer 5", "parent": "Layer 3", "length": 73.07, "rotation": 18.79, "x": 54.93, "color": "ff00f1ff" },
+	{ "name": "Layer 6", "parent": "Layer 5", "length": 91.04, "rotation": 27.56, "x": 73.07, "color": "ff00f1ff" },
+	{ "name": "Layer 7", "parent": "Folder14", "length": 95.96, "rotation": 38.97, "x": 61.4, "y": 32.71, "transform": "noScale" },
+	{ "name": "Layer 8", "parent": "Layer 6", "length": 92.45, "rotation": 47.25, "x": 91.04, "color": "ff00f1ff" },
+	{ "name": "Layer 9", "parent": "Layer 8", "length": 101.93, "rotation": 28.3, "x": 92.85, "y": 0.22, "color": "ff00f1ff" },
+	{ "name": "Layer 10", "parent": "Folder14", "x": 29.72, "y": -11.79, "transform": "noScale" },
+	{ "name": "Layer 11", "parent": "Layer 10", "x": -31.43, "y": 36.08, "color": "ffa700ff" },
+	{ "name": "Layer 12", "parent": "Folder14", "length": 86.84, "rotation": -92.85, "x": 21.69, "y": -21.79, "transform": "noScale" },
+	{ "name": "Layer 17", "parent": "Layer 10", "x": -68.36, "y": -18.73, "color": "ffa700ff" },
+	{ "name": "Layer 19", "parent": "Layer 9", "length": 89.5, "rotation": -2.46, "x": 101.44, "y": 0.27, "color": "ff00f1ff" },
+	{ "name": "Layer 20", "parent": "Layer 19", "length": 63.97, "rotation": -35.09, "x": 89.5, "color": "ff00f1ff" },
+	{ "name": "Layer 21", "parent": "Layer 20", "length": 57.22, "rotation": -44.13, "x": 63.97, "color": "ff00f1ff" },
+	{ "name": "Layer 22", "parent": "Layer 21", "length": 41.32, "rotation": -43.67, "x": 57.22, "color": "ff00f1ff" },
+	{
+		"name": "Layer 23",
+		"parent": "Layer 4",
+		"length": 48.73,
+		"rotation": -102.73,
+		"x": -18.44,
+		"y": -8.18,
+		"transform": "noRotationOrReflection",
+		"color": "ffcf00ff"
+	},
+	{ "name": "Layer 24", "parent": "Layer 23", "length": 58.76, "rotation": 9.22, "x": 49.05, "y": 0.07, "color": "ffcf00ff" },
+	{ "name": "Layer 25", "parent": "Layer 24", "length": 53.85, "rotation": 9.36, "x": 58.76, "color": "ffcf00ff" },
+	{ "name": "Layer 26", "parent": "Layer 25", "length": 48.91, "rotation": 1.38, "x": 53.85, "color": "ffcf00ff" },
+	{
+		"name": "Layer 27",
+		"parent": "Layer 4",
+		"length": 46.92,
+		"rotation": -67.07,
+		"x": 42.55,
+		"y": -13.64,
+		"transform": "noRotationOrReflection",
+		"color": "ff5d00ff"
+	},
+	{ "name": "Layer 28", "parent": "Layer 27", "length": 45.71, "rotation": -23.28, "x": 46.92, "color": "ff5d00ff" },
+	{ "name": "Layer 29", "parent": "Layer 28", "length": 31.29, "rotation": -19.85, "x": 45.71, "color": "ff5d00ff" },
+	{
+		"name": "Layer 30",
+		"parent": "Layer 4",
+		"length": 49.42,
+		"rotation": -51.88,
+		"x": 61.96,
+		"y": -23.24,
+		"transform": "noRotationOrReflection",
+		"color": "ff5d00ff"
+	},
+	{ "name": "Layer 31", "parent": "Layer 30", "length": 34.69, "rotation": -33.21, "x": 49.42, "color": "ff5d00ff" },
+	{ "name": "Layer 32", "parent": "Layer 31", "length": 32.38, "rotation": -12.1, "x": 34.69, "color": "ff5d00ff" },
+	{
+		"name": "Layer 33",
+		"parent": "Layer 4",
+		"length": 46.19,
+		"rotation": -115.09,
+		"x": -28.51,
+		"y": 29.51,
+		"transform": "noRotationOrReflection",
+		"color": "ffcf00ff"
+	},
+	{ "name": "Layer 34", "parent": "Layer 33", "length": 52.17, "rotation": 18.15, "x": 47.09, "y": 0.42, "color": "ffcf00ff" },
+	{ "name": "Layer 35", "parent": "Layer 34", "length": 45.94, "rotation": 11.09, "x": 52.17, "color": "ffcf00ff" },
+	{ "name": "Layer 36", "parent": "Layer 18", "rotation": -96.12, "x": -0.1, "y": 0.25, "transform": "noRotationOrReflection" },
+	{ "name": "Layer 49", "parent": "Layer 52", "rotation": -47.78, "x": 9.49, "y": -34.01 },
+	{ "name": "Layer 53", "parent": "Layer 52", "rotation": 135.41, "x": 64.07, "y": -25.3 },
+	{ "name": "Layer 54", "parent": "Layer 52", "rotation": -43.04, "x": 25.58, "y": 17.56, "scaleY": 0.891 },
+	{ "name": "Layer 60", "parent": "torso", "length": 83.2, "rotation": -133.45, "x": -33.92, "y": 11.34 },
+	{ "name": "Layer 61", "parent": "torso", "length": 86.55, "rotation": -57.5, "x": 39.97, "y": 3.21 },
+	{ "name": "Layer 9 copy3", "parent": "Layer 9 copy", "length": 109.26, "rotation": 124.03, "x": -0.21, "y": -0.1 },
+	{ "name": "ao3", "parent": "torso", "x": -18.3, "y": 10.57 },
+	{ "name": "ao4", "parent": "ao3", "length": 66.78, "rotation": -91.28, "x": 28.01, "y": -20.85, "color": "2000ffff" },
+	{ "name": "ao5", "parent": "ao4", "length": 72.46, "rotation": -5.22, "x": 66.78, "color": "2000ffff" },
+	{ "name": "ao6", "parent": "ao5", "length": 59.27, "rotation": -6.22, "x": 72.46, "color": "2000ffff" },
+	{ "name": "ao7", "parent": "ao6", "length": 54.05, "rotation": -14.37, "x": 59.27, "color": "2000ffff" },
+	{ "name": "ao8", "parent": "ao3", "length": 72.21, "rotation": -111.14, "x": -33.63, "y": -1.47, "color": "2000ffff" },
+	{ "name": "ao9", "parent": "ao8", "length": 75, "rotation": 1.19, "x": 72.21, "color": "2000ffff" },
+	{ "name": "ao10", "parent": "ao9", "length": 74.93, "rotation": -8.3, "x": 74.99, "color": "2000ffff" },
+	{ "name": "ao11", "parent": "ao10", "length": 72.44, "rotation": -10.96, "x": 74.93, "color": "2000ffff" },
+	{ "name": "ao12", "parent": "ao11", "length": 64.15, "rotation": -37.43, "x": 72.44, "color": "2000ffff" },
+	{ "name": "ao13", "parent": "ao12", "length": 49.73, "rotation": -63.48, "x": 64.15, "color": "2000ffff" },
+	{ "name": "ao14", "parent": "ao11", "length": 44.42, "rotation": -94.15, "x": 77.1, "y": -24.78, "color": "2000ffff" },
+	{ "name": "flare", "parent": "Layer 54", "rotation": 0.84, "x": 0.44, "y": 0.26, "transform": "noRotationOrReflection" },
+	{
+		"name": "flare2",
+		"parent": "Layer 53",
+		"x": -0.42,
+		"y": 0.23,
+		"scaleX": 0.855,
+		"scaleY": 0.855,
+		"transform": "noRotationOrReflection"
+	},
+	{ "name": "giap co", "parent": "Folder14", "x": 49.33, "y": -6.7, "transform": "noScale" },
+	{
+		"name": "shadow",
+		"parent": "King",
+		"x": -25.16,
+		"y": -13.42,
+		"scaleX": 1.863,
+		"scaleY": 1.686,
+		"shearY": 6.8,
+		"color": "ffcf00ff"
+	},
+	{ "name": "tay", "parent": "Layer793", "length": 28.88, "rotation": -9.01, "x": 84.48, "y": -0.34, "color": "abe323ff" },
+	{ "name": "weapon_blur", "parent": "Layer 9 copy3", "rotation": -125.41, "x": 0.75, "y": -0.33, "scaleX": 5.439, "scaleY": 5.439 },
+	{ "name": "weapon_blur2", "parent": "Layer 9 copy4", "rotation": -151.99, "x": 2.39, "y": -0.1, "scaleX": 4.996, "scaleY": 4.996 }
+],
+"slots": [
+	{ "name": "BG", "bone": "root" },
+	{ "name": "Bg1", "bone": "root" },
+	{ "name": "shadow", "bone": "shadow", "attachment": "shadow" },
+	{ "name": "Layer 1", "bone": "Layer 1", "attachment": "Layer 1" },
+	{ "name": "Layer98", "bone": "Layer98", "attachment": "Layer98" },
+	{ "name": "Layer 9 copy2", "bone": "Layer 9 copy4", "attachment": "Layer 9 copy" },
+	{ "name": "Layer 18", "bone": "Layer98", "attachment": "Layer 18" },
+	{ "name": "Layer102", "bone": "Layer98", "attachment": "Layer102" },
+	{ "name": "ao3", "bone": "ao3", "attachment": "ao3" },
+	{ "name": "Layer 13", "bone": "Layer 13", "attachment": "Layer 13" },
+	{ "name": "Folder4", "bone": "Folder4", "attachment": "Folder4" },
+	{ "name": "Layer 16", "bone": "Layer 16", "attachment": "Layer 16" },
+	{ "name": "Folder5", "bone": "Folder5", "attachment": "Folder5" },
+	{ "name": "Layer 14", "bone": "Layer 14", "attachment": "Layer 14" },
+	{ "name": "Fx/weapon_blur2", "bone": "weapon_blur2" },
+	{ "name": "Fx_smoke5", "bone": "Fx_smoke5" },
+	{ "name": "Fx_smoke6", "bone": "Fx_smoke6" },
+	{ "name": "Fx_smoke7", "bone": "Fx_smoke7" },
+	{ "name": "Fx_smoke8", "bone": "Fx_smoke8" },
+	{ "name": "torso", "bone": "torso", "attachment": "torso" },
+	{ "name": "Layer 15", "bone": "Layer 15", "attachment": "Layer 15" },
+	{ "name": "Layer 17", "bone": "Layer 18", "attachment": "Layer 17" },
+	{ "name": "Folder3", "bone": "Folder3", "attachment": "Folder3" },
+	{ "name": "Layer 12", "bone": "Layer 12", "attachment": "Layer 12" },
+	{ "name": "skin_1/Folder46b", "bone": "Folder46", "attachment": "skin_1/Folder46b" },
+	{ "name": "Layer 61", "bone": "Layer 61", "attachment": "Layer 61" },
+	{ "name": "Layer 60", "bone": "Layer 60", "attachment": "Layer 60" },
+	{ "name": "Folder46", "bone": "Folder46", "attachment": "Folder46" },
+	{ "name": "Layer 10", "bone": "Layer 10", "attachment": "Layer 10" },
+	{ "name": "Layer 9 copy", "bone": "Layer 9 copy3", "attachment": "Layer 9 copy" },
+	{ "name": "tay", "bone": "tay", "attachment": "tay" },
+	{ "name": "Layer 50", "bone": "Layer 50", "attachment": "Layer 50" },
+	{ "name": "Layer793", "bone": "Layer793", "attachment": "Layer793" },
+	{ "name": "Layer 7", "bone": "Layer 7", "attachment": "Layer 7" },
+	{ "name": "Folder24", "bone": "Layer 52", "attachment": "Folder24" },
+	{ "name": "Folder16", "bone": "Folder16", "attachment": "Folder16" },
+	{ "name": "Layer 53", "bone": "Layer 52", "attachment": "Layer 53" },
+	{ "name": "Layer 52", "bone": "Layer 52", "attachment": "Layer 52" },
+	{ "name": "Folder18", "bone": "Layer 52", "attachment": "Folder18" },
+	{ "name": "Layer 49", "bone": "Layer 49", "attachment": "Layer 49" },
+	{ "name": "giap co", "bone": "giap co", "attachment": "giap co" },
+	{ "name": "skin_2/matFx", "bone": "Layer 52" },
+	{ "name": "Folder15", "bone": "Layer 4", "attachment": "Folder15" },
+	{ "name": "Layer 3", "bone": "Layer 52", "attachment": "Layer 2" },
+	{ "name": "Layer 4", "bone": "Layer 4", "attachment": "Layer 4" },
+	{ "name": "Layer 2", "bone": "Layer 52", "attachment": "Layer 2" },
+	{ "name": "FxSlash", "bone": "FxSlash", "blend": "additive" },
+	{ "name": "FxSlash2", "bone": "FxSlash2", "blend": "additive" },
+	{ "name": "FxSparks", "bone": "FxSparks", "blend": "additive" },
+	{ "name": "FxSparks2", "bone": "FxSparks2", "blend": "additive" },
+	{ "name": "Fx/flare (25)", "bone": "flare", "blend": "additive" },
+	{ "name": "Fx/flare (25)2", "bone": "flare2", "blend": "additive" },
+	{ "name": "Fx/weapon_blur", "bone": "weapon_blur" },
+	{ "name": "Fx_smoke", "bone": "Fx_smoke" },
+	{ "name": "Fx_smoke9", "bone": "Fx_smoke9" },
+	{ "name": "Fx_smoke2", "bone": "Fx_smoke2" },
+	{ "name": "Fx_smoke10", "bone": "Fx_smoke10" },
+	{ "name": "Fx_smoke3", "bone": "Fx_smoke3" },
+	{ "name": "Fx_smoke11", "bone": "Fx_smoke11" },
+	{ "name": "Fx_smoke4", "bone": "Fx_smoke4" }
+],
+"ik": [
+	{
+		"name": "1a",
+		"order": 0,
+		"bones": [ "Folder4", "Layer 16" ],
+		"target": "1a",
+		"bendPositive": false
+	},
+	{
+		"name": "1b",
+		"order": 1,
+		"bones": [ "Folder5" ],
+		"target": "1b"
+	},
+	{
+		"name": "2a",
+		"order": 2,
+		"bones": [ "Layer 15", "Layer 18" ],
+		"target": "2a",
+		"bendPositive": false
+	},
+	{
+		"name": "2b",
+		"order": 3,
+		"bones": [ "Folder3" ],
+		"target": "2b"
+	}
+],
+"transform": [
+	{
+		"name": "giap1",
+		"order": 6,
+		"bones": [ "Layer 7" ],
+		"target": "Layer 50",
+		"rotation": -85,
+		"rotateMix": 0.7,
+		"translateMix": 0,
+		"scaleMix": 0,
+		"shearMix": 0
+	},
+	{
+		"name": "giap2",
+		"order": 7,
+		"bones": [ "Layer 12" ],
+		"target": "Layer 14",
+		"rotation": 92,
+		"rotateMix": 0.7,
+		"translateMix": 0,
+		"scaleMix": 0,
+		"shearMix": 0
+	},
+	{
+		"name": "giap3",
+		"order": 8,
+		"bones": [ "Layer 60" ],
+		"target": "Layer 15",
+		"rotation": -50,
+		"rotateMix": 0.7,
+		"translateMix": 0,
+		"scaleMix": 0,
+		"shearMix": 0
+	},
+	{
+		"name": "giap4",
+		"order": 9,
+		"bones": [ "Layer 61" ],
+		"target": "Folder4",
+		"rotation": 10,
+		"rotateMix": 0.7,
+		"translateMix": 0,
+		"scaleMix": 0,
+		"shearMix": 0
+	},
+	{
+		"name": "giapco",
+		"order": 10,
+		"bones": [ "giap co" ],
+		"target": "Folder15",
+		"rotation": 44.3,
+		"rotateMix": 0.4,
+		"translateMix": 0,
+		"scaleMix": 0,
+		"shearMix": 0
+	},
+	{
+		"name": "weapon1",
+		"order": 4,
+		"bones": [ "Layer 9 copy" ],
+		"target": "tay",
+		"rotation": 124.6,
+		"x": 16,
+		"scaleMix": 0,
+		"shearMix": 0
+	},
+	{
+		"name": "weapon2",
+		"order": 5,
+		"bones": [ "Layer 9 copy2" ],
+		"target": "Layer98",
+		"rotation": 70.6,
+		"x": 26.3,
+		"scaleMix": 0,
+		"shearMix": 0
+	}
+],
+"skins": {
+	"default": {
+		"Fx/flare (25)": {
+			"Fx/flare (25)": { "width": 256, "height": 102 }
+		},
+		"Fx/flare (25)2": {
+			"Fx/flare (25)": { "width": 256, "height": 102 }
+		},
+		"Fx/weapon_blur": {
+			"Fx/weapon_blur": { "width": 150, "height": 150 }
+		},
+		"Fx/weapon_blur2": {
+			"Fx/weapon_blur": { "width": 150, "height": 150 }
+		},
+		"FxSparks": {
+			"Fx/Sparks01": { "width": 50, "height": 250 },
+			"Fx/Sparks02": { "width": 50, "height": 250 },
+			"Fx/Sparks03": { "width": 50, "height": 250 },
+			"Fx/Sparks04": { "width": 50, "height": 250 },
+			"Fx/Sparks05": { "width": 50, "height": 250 },
+			"Fx/Sparks06": { "width": 50, "height": 250 },
+			"Fx/Sparks07": { "width": 50, "height": 250 },
+			"Fx/Sparks08": { "width": 50, "height": 250 }
+		},
+		"FxSparks2": {
+			"Fx/Sparks01": { "width": 50, "height": 250 },
+			"Fx/Sparks02": { "width": 50, "height": 250 },
+			"Fx/Sparks03": { "width": 50, "height": 250 },
+			"Fx/Sparks04": { "width": 50, "height": 250 },
+			"Fx/Sparks05": { "width": 50, "height": 250 },
+			"Fx/Sparks06": { "width": 50, "height": 250 },
+			"Fx/Sparks07": { "width": 50, "height": 250 },
+			"Fx/Sparks08": { "width": 50, "height": 250 }
+		},
+		"Fx_smoke": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke10": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke11": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke2": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke3": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke4": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke5": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke6": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke7": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke8": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"Fx_smoke9": {
+			"Fx/Smoke/Smoke_04": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_06": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_08": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_10": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_12": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_14": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_16": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_18": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_20": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_22": { "width": 120, "height": 116 },
+			"Fx/Smoke/Smoke_24": { "width": 120, "height": 116 }
+		},
+		"shadow": {
+			"shadow": { "width": 244, "height": 75 }
+		},
+		"skin_2/matFx": {
+			"skin_2/matFx": { "x": 42.61, "y": 0.55, "rotation": -35.44, "width": 104, "height": 45 }
+		}
+	},
+	"skin_1": {
+		"Folder15": {
+			"Folder15": {
+				"name": "skin_1/Folder15",
+				"type": "mesh",
+				"uvs": [ 0.00357, 0.1948, 0.06566, 0.08099, 0.16798, 0, 0.35761, 0, 0.53497, 0.02996, 0.68504, 0.10584, 0.8051, 0.19611, 0.89241, 0.30862, 0.95244, 0.4342, 0.98791, 0.58596, 0.99643, 0.70893, 0.99643, 0.82405, 0.99643, 0.91301, 0.94562, 0.89093, 0.85149, 0.90663, 0.70551, 0.90925, 0.59909, 0.89224, 0.54589, 0.95111, 0.49541, 1, 0.45584, 1, 0.47358, 0.90794, 0.47904, 0.80067, 0.46812, 0.69078, 0.44629, 0.58612, 0.41491, 0.48015, 0.37817, 0.39145, 0.26745, 0.40173, 0.15317, 0.39659, 0.05049, 0.3358, 0.00357, 0.28358, 0.32978, 0.28916, 0.2593, 0.20591, 0.16226, 0.21472, 0.09791, 0.24215, 0.51008, 0.15537, 0.5827, 0.23559, 0.64584, 0.34761, 0.67425, 0.48838, 0.6632, 0.64732, 0.63163, 0.79566, 0.4281, 0.08911, 0.2985, 0.0684, 0.1809, 0.09717, 0.0969, 0.16736 ],
+				"triangles": [ 40, 31, 41, 41, 2, 3, 42, 2, 41, 1, 2, 42, 43, 1, 42, 0, 1, 43, 31, 42, 41, 32, 43, 42, 31, 32, 42, 33, 43, 32, 29, 0, 43, 33, 29, 43, 28, 29, 33, 27, 33, 32, 28, 33, 27, 26, 31, 30, 26, 30, 25, 32, 31, 26, 27, 32, 26, 41, 3, 40, 34, 4, 5, 35, 34, 5, 6, 36, 35, 6, 35, 5, 36, 6, 7, 37, 36, 7, 37, 7, 8, 9, 37, 8, 9, 38, 37, 10, 38, 9, 11, 13, 10, 10, 14, 38, 10, 13, 14, 14, 15, 39, 13, 11, 12, 14, 39, 38, 40, 3, 4, 34, 40, 4, 30, 40, 34, 30, 31, 40, 35, 25, 30, 35, 30, 34, 25, 35, 36, 24, 25, 36, 24, 36, 37, 23, 24, 37, 38, 23, 37, 22, 23, 38, 39, 22, 38, 21, 22, 39, 16, 21, 39, 15, 16, 39, 20, 21, 16, 17, 20, 16, 18, 19, 20, 17, 18, 20 ],
+				"vertices": [ 1, 19, -9.55, 17.88, 1, 1, 19, 6.96, 26.77, 1, 3, 77, -38.08, -24.92, 0.1452, 80, -54.23, -32.76, 0.06423, 19, 25.45, 28.54, 0.79056, 4, 77, -27.73, -0.47, 0.23341, 81, -66.5, -57.73, 7.2E-4, 80, -37.84, -11.87, 0.20472, 19, 47.44, 13.67, 0.56114, 4, 77, -14.03, 20.69, 0.30134, 81, -60.02, -33.36, 0.01502, 80, -19.07, 4.96, 0.51617, 19, 65.56, -3.87, 0.16748, 5, 77, 4.36, 35.72, 0.19483, 82, -77.25, -30.24, 0.00195, 81, -47.18, -13.38, 0.06385, 80, 2.62, 14.65, 0.67449, 19, 76.76, -24.82, 0.06488, 5, 77, 23.05, 46.07, 0.09215, 82, -66.27, -11.91, 0.01705, 81, -32.61, 2.24, 0.16837, 80, 23.36, 19.73, 0.70496, 19, 83.29, -45.15, 0.01746, 5, 77, 42.94, 50.92, 0.0293, 82, -51.5, 2.27, 0.06872, 81, -15.2, 13.01, 0.3071, 80, 43.83, 19.21, 0.59233, 19, 84.22, -65.6, 0.00255, 5, 77, 63.1, 51.52, 0.00499, 82, -34.36, 12.9, 0.18488, 81, 3.79, 19.82, 0.41696, 80, 63.45, 14.5, 0.39313, 19, 80.91, -85.5, 3.0E-5, 3, 82, -13, 20.6, 0.36888, 81, 26.29, 22.87, 0.4291, 80, 83.94, 4.73, 0.20202, 3, 82, 4.66, 24.03, 0.58751, 81, 44.28, 22.52, 0.33776, 80, 98.8, -5.41, 0.07474, 5, 79, -15.12, 58.57, 0.00383, 78, 51.38, 60.22, 3.6E-4, 82, 21.34, 26.13, 0.77807, 81, 61.03, 21.08, 0.19953, 80, 112.02, -15.79, 0.01821, 5, 79, -2.93, 63.05, 0.02613, 78, 64.37, 60.3, 0.00149, 82, 34.22, 27.75, 0.88539, 81, 73.97, 19.96, 0.08525, 80, 122.24, -23.81, 0.00174, 4, 79, -3.5, 55.27, 0.0907, 78, 61.19, 53.17, 0.00737, 82, 31.91, 20.29, 0.87781, 81, 70.15, 13.15, 0.02412, 4, 79, 3.21, 43.69, 0.21476, 78, 63.56, 40, 0.0259, 82, 35.84, 7.5, 0.75376, 81, 71.3, -0.17, 0.00558, 6, 79, 10.62, 24.64, 0.37986, 78, 64.06, 19.57, 0.06859, 77, 113.5, -7.34, 9.8E-4, 82, 38.77, -12.73, 0.5392, 81, 69.93, -20.57, 0.01021, 80, 96.67, -55.51, 0.00116, 6, 79, 13.43, 9.8, 0.53992, 78, 61.67, 4.66, 0.13216, 77, 105.41, -20.1, 0.00715, 82, 38.17, -27.82, 0.28234, 81, 66.18, -35.2, 0.02853, 80, 85.52, -65.7, 0.0099, 6, 79, 24.07, 5.78, 0.77491, 78, 70.31, -2.74, 0.06775, 77, 110.42, -30.3, 9.8E-4, 82, 47.63, -34.13, 0.14512, 81, 74.11, -43.36, 0.01008, 80, 87.68, -76.86, 0.00116, 5, 79, 33.21, 1.61, 0.90041, 78, 77.49, -9.76, 0.04282, 77, 114.24, -39.59, 0, 82, 55.6, -40.25, 0.05481, 81, 80.61, -51.01, 0.00196, 6, 79, 35.12, -3.59, 0.89903, 78, 77.52, -15.3, 0.08591, 77, 112.09, -44.7, 0.00117, 82, 56.29, -45.75, 0.01385, 81, 80.14, -56.53, 3.0E-5, 19, -22.96, -114.97, 0, 5, 79, 21.65, -5.9, 0.78152, 78, 64.07, -12.9, 0.20437, 77, 100.68, -37.17, 0.01235, 82, 42.64, -44.96, 0.00157, 19, -13.37, -105.23, 1.8E-4, 4, 79, 6.69, -10.59, 0.58381, 78, 48.4, -12.23, 0.36368, 77, 86.55, -30.37, 0.05248, 82, 27.01, -46.17, 3.0E-5, 3, 79, -7.84, -17.56, 0.36302, 78, 32.37, -13.86, 0.49343, 77, 71.18, -25.52, 0.14355, 4, 79, -21.12, -25.71, 0.17145, 78, 17.11, -17.01, 0.49112, 77, 55.91, -22.38, 0.27185, 19, 9.78, -64.17, 0.06559, 4, 79, -34.13, -35.17, 0.05831, 78, 1.66, -21.49, 0.36697, 77, 39.95, -20.4, 0.39923, 19, 14.81, -48.9, 0.17549, 4, 79, -44.5, -44.47, 0.00923, 78, -11.26, -26.72, 0.16817, 77, 26.02, -20.09, 0.46144, 19, 17.81, -35.29, 0.36116, 1, 19, 4.13, -27.85, 1, 1, 19, -8.71, -18.26, 1, 1, 19, -15.64, -2.86, 1, 1, 19, -16.81, 7.14, 1, 4, 79, -56.18, -55.99, 4.7E-4, 78, -26.15, -33.58, 0.0775, 77, 9.63, -20.51, 0.47516, 19, 20.56, -19.12, 0.44687, 3, 78, -38.24, -43.52, 0.02486, 77, -5.41, -24.86, 0.38975, 19, 19.2, -3.52, 0.5854, 3, 78, -36.87, -57.1, 0.00132, 77, -9.52, -37.88, 0.06982, 19, 7.23, 3.02, 0.92885, 1, 19, -2.48, 4.75, 1, 6, 78, -45.83, -8.46, 0.03231, 77, 1.47, 10.35, 0.50536, 82, -67.01, -53.64, 0.00151, 81, -42.07, -38.4, 0.0196, 80, -6.81, -9.09, 0.34658, 19, 52.42, -17.08, 0.09464, 7, 79, -75.75, -25.46, 0.00477, 78, -34.18, 1.78, 0.09704, 77, 16.22, 15.15, 0.40899, 82, -56.66, -42.08, 0.00869, 81, -29.53, -29.28, 0.05111, 80, 8.68, -8.32, 0.39876, 19, 54.27, -32.48, 0.03063, 7, 79, -63.45, -11.51, 0.0299, 78, -17.88, 10.72, 0.19638, 77, 34.73, 16.91, 0.28854, 82, -41.54, -31.27, 0.02714, 81, -12.48, -21.87, 0.08953, 80, 27, -11.46, 0.36197, 19, 52.43, -50.98, 0.00654, 7, 79, -45.54, -0.68, 0.09918, 78, 2.64, 14.82, 0.29181, 77, 55.21, 12.57, 0.17535, 82, -21.65, -24.75, 0.06153, 81, 8.34, -19.67, 0.11548, 80, 45.63, -21.02, 0.25603, 19, 44.21, -70.23, 6.1E-4, 6, 79, -23.22, 5.88, 0.22606, 78, 25.86, 13.42, 0.32299, 77, 75.98, 2.1, 0.08959, 82, 1.57, -23.38, 0.11333, 81, 31.32, -23.19, 0.10984, 80, 62.93, -36.56, 0.13818, 6, 79, -1.37, 9.21, 0.38833, 78, 47.54, 9.13, 0.26143, 77, 94.2, -10.41, 0.03511, 82, 23.61, -25.06, 0.18674, 81, 52.52, -29.45, 0.07517, 80, 77.24, -53.41, 0.05322, 5, 78, -55.44, -19.99, 0.00618, 77, -11.91, 3.55, 0.53666, 81, -52.69, -49.01, 0.00455, 80, -21.51, -12.14, 0.23627, 19, 48.33, -2.64, 0.21633, 5, 78, -58.35, -38.15, 1.0E-4, 77, -21.76, -11.99, 0.3463, 81, -57.26, -66.83, 1.3E-4, 80, -35.09, -24.55, 0.08944, 19, 34.99, 10.03, 0.56404, 3, 77, -24.31, -28.79, 0.15714, 80, -41.95, -40.1, 0.02137, 19, 19, 15.78, 0.82148, 1, 19, 3.52, 13.87, 1 ],
+				"hull": 30,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 32, 32, 34, 34, 36, 36, 38, 38, 40, 40, 42, 42, 44, 44, 46, 46, 48, 48, 50, 50, 52, 52, 54, 54, 56, 56, 58, 0, 58, 50, 60, 60, 62, 62, 64, 64, 66, 66, 56, 68, 70, 70, 72, 72, 74, 74, 76, 76, 78, 78, 32, 68, 80, 80, 82, 82, 84, 84, 86, 86, 58 ],
+				"width": 140,
+				"height": 145
+			}
+		},
+		"Folder16": {
+			"Folder16": {
+				"name": "skin_1/Folder16",
+				"type": "mesh",
+				"uvs": [ 0.35623, 0, 0.56464, 0, 0.69844, 0.04085, 0.77306, 0.10781, 0.76277, 0.19125, 0.7499, 0.28411, 0.73189, 0.37629, 0.72932, 0.46654, 0.77306, 0.54901, 0.84253, 0.63829, 0.92069, 0.73369, 0.98245, 0.8249, 1, 0.9132, 1, 1, 0.95414, 0.99956, 0.8538, 0.93358, 0.70456, 0.85013, 0.47299, 0.73854, 0.24656, 0.66286, 0.00212, 0.61143, 0, 0.52992, 0, 0.44668, 0, 0.36129, 0.01499, 0.27105, 0.05101, 0.17401, 0.12306, 0.08377, 0.2337, 0.02361, 0.46332, 0.06038, 0.43689, 0.13887, 0.41377, 0.2161, 0.39065, 0.30455, 0.38058, 0.39549, 0.38011, 0.49516, 0.41636, 0.58352, 0.45978, 0.66209 ],
+				"triangles": [ 27, 1, 2, 28, 26, 0, 28, 0, 27, 27, 0, 1, 31, 23, 30, 30, 23, 24, 30, 24, 25, 29, 30, 25, 29, 25, 26, 28, 29, 26, 22, 23, 31, 21, 32, 18, 18, 19, 20, 18, 20, 21, 32, 21, 31, 21, 22, 31, 6, 30, 29, 6, 29, 28, 5, 6, 28, 5, 28, 27, 4, 5, 27, 4, 27, 2, 4, 2, 3, 34, 7, 8, 33, 32, 7, 32, 31, 7, 7, 31, 6, 6, 31, 30, 16, 8, 9, 16, 17, 8, 17, 18, 34, 18, 33, 34, 17, 34, 8, 18, 32, 33, 34, 33, 7, 14, 12, 13, 14, 15, 12, 15, 11, 12, 15, 10, 11, 15, 16, 10, 16, 9, 10 ],
+				"vertices": [ 4, 24, -26.98, -29.24, 0.01179, 22, -64.94, 17.04, 0.00951, 21, -22.21, 5.22, 0.41708, 20, 0.11, 17.22, 0.56162, 4, 25, -78.39, -0.86, 3.0E-5, 24, -28.31, -10.74, 0.28798, 21, -26.87, 23.17, 0.19325, 20, 15.47, 6.83, 0.51873, 3, 25, -68.11, 10.5, 0.01325, 24, -19.54, 1.82, 0.52272, 20, 19.93, -7.83, 0.46403, 3, 25, -51.96, 16.26, 0.06239, 24, -4.25, 9.57, 0.65744, 20, 16.58, -24.64, 0.28018, 4, 26, -81.89, 40.18, 2.0E-5, 25, -32.35, 14.26, 0.18387, 24, 15.46, 10.06, 0.6836, 20, 4.79, -40.44, 0.13251, 4, 26, -61.71, 31.55, 0.01182, 25, -10.53, 11.91, 0.36767, 24, 37.4, 10.48, 0.57611, 20, -8.44, -57.95, 0.0444, 5, 27, -89.72, 12.9, 0.00207, 26, -41.84, 22.55, 0.05745, 25, 11.1, 9.1, 0.55371, 24, 59.21, 10.43, 0.37765, 20, -21.95, -75.07, 0.00912, 5, 27, -69.11, 7.55, 0.02062, 26, -21.93, 14.99, 0.15892, 25, 32.35, 7.7, 0.63175, 24, 80.47, 11.72, 0.18817, 20, -34.07, -92.59, 5.4E-4, 4, 27, -49.28, 6.64, 0.08241, 26, -2.32, 11.94, 0.29117, 25, 52, 10.51, 0.56242, 24, 99.61, 16.99, 0.06401, 4, 27, -27.34, 7.56, 0.21827, 26, 19.59, 10.48, 0.38806, 25, 73.38, 15.52, 0.38039, 24, 120.18, 24.66, 0.01328, 4, 27, -3.81, 8.89, 0.42201, 26, 43.12, 9.25, 0.38353, 25, 96.25, 21.23, 0.19422, 24, 142.15, 33.2, 2.4E-4, 3, 27, 18.4, 9.04, 0.65037, 26, 65.23, 6.99, 0.28207, 25, 118.04, 25.53, 0.06756, 3, 27, 39, 5.53, 0.83458, 26, 85.33, 1.27, 0.15073, 25, 138.94, 25.94, 0.01469, 3, 27, 58.88, 0.6, 0.93202, 26, 104.55, -5.79, 0.06739, 25, 159.39, 24.81, 5.9E-4, 3, 27, 57.8, -3.34, 0.92735, 26, 103.05, -9.58, 0.07262, 25, 159.06, 20.74, 3.0E-5, 3, 27, 40.54, -8.25, 0.82583, 26, 85.35, -12.6, 0.17262, 25, 143.02, 12.68, 0.00156, 5, 27, 18.22, -16.4, 0.55497, 26, 62.29, -18.28, 0.30258, 25, 122.62, 0.5, 0.00978, 23, 95.67, 63.89, 0.13233, 22, 132.8, 63, 3.3E-4, 7, 27, -12.3, -30.06, 0.262, 26, 30.46, -28.55, 0.41819, 25, 95.19, -18.62, 0.03411, 24, 146.13, -6.46, 4.8E-4, 23, 71.16, 41.13, 0.28066, 22, 108.09, 40.47, 0.00454, 21, 143.89, 59.06, 2.0E-5, 5, 27, -34.49, -45.31, 0.13114, 26, 6.75, -41.31, 0.35185, 25, 76.24, -37.76, 0.01001, 23, 55.06, 19.55, 0.49293, 22, 91.79, 19.04, 0.01407, 4, 26, -12.14, -57.55, 0.07733, 23, 44.8, -3.15, 0.83927, 22, 81.31, -3.56, 0.07829, 21, 125.38, 10.96, 0.00511, 3, 23, 25.65, -4.96, 0.78274, 22, 62.15, -5.19, 0.185, 21, 106.81, 5.94, 0.03226, 3, 23, 6.07, -6.61, 0.59553, 22, 42.56, -6.67, 0.29884, 21, 87.79, 1.01, 0.10563, 4, 23, -14.01, -8.31, 0.37296, 22, 22.46, -8.18, 0.37626, 21, 68.28, -4.05, 0.24649, 20, -73.92, -35.65, 0.00429, 4, 23, -35.34, -8.77, 0.18163, 22, 1.12, -8.45, 0.35971, 21, 47.33, -8.11, 0.43243, 20, -60.89, -18.75, 0.02623, 4, 23, -58.43, -7.51, 0.06041, 22, -21.95, -6.96, 0.25876, 21, 24.36, -10.76, 0.5902, 20, -45.4, -1.58, 0.09063, 4, 23, -80.19, -2.91, 0.01212, 22, -43.67, -2.17, 0.13459, 21, 2.14, -9.9, 0.63945, 20, -28.16, 12.47, 0.21384, 3, 22, -58.57, 6.59, 0.0479, 21, -14.08, -3.94, 0.56668, 20, -12.05, 18.71, 0.38541, 7, 26, -120.07, 25.81, 2.0E-5, 25, -64.66, -10.65, 0.02018, 24, -13.45, -18.72, 0.29167, 23, -88.24, 26.8, 0.00244, 22, -51.44, 27.62, 0.03934, 21, -10.81, 18.02, 0.23781, 20, 0.02, 0.07, 0.40854, 7, 26, -103.49, 17.22, 0.00117, 25, -46.29, -14.02, 0.04734, 24, 5.19, -19.75, 0.30327, 23, -69.59, 26.02, 0.01134, 22, -32.8, 26.66, 0.06472, 21, 7.71, 20.4, 0.23401, 20, -12.31, -13.95, 0.33815, 7, 26, -87.09, 9, 0.01107, 25, -28.21, -17.08, 0.1121, 24, 23.52, -20.5, 0.30353, 23, -51.25, 25.5, 0.03967, 22, -14.47, 25.97, 0.11167, 21, 25.87, 22.99, 0.21196, 20, -24.22, -27.9, 0.21, 7, 26, -68.21, -0.13, 0.04731, 25, -7.48, -20.29, 0.19381, 24, 44.49, -21.07, 0.26133, 23, -30.28, 25.21, 0.09332, 22, 6.5, 25.49, 0.14859, 21, 46.59, 26.24, 0.16228, 20, -37.62, -44.03, 0.09336, 8, 27, -92.86, -18.54, 5.1E-4, 26, -48.37, -8.36, 0.13376, 25, 13.9, -22.36, 0.25298, 24, 65.96, -20.43, 0.17824, 23, -8.81, 26.12, 0.16001, 22, 27.97, 26.2, 0.14936, 21, 67.59, 30.76, 0.09729, 20, -50.39, -61.31, 0.02785, 8, 27, -70.04, -24.24, 0.01049, 26, -26.3, -16.51, 0.26859, 25, 37.38, -23.7, 0.25337, 24, 89.42, -18.8, 0.09226, 23, 14.63, 28.06, 0.2152, 22, 51.43, 27.92, 0.11307, 21, 90.37, 36.63, 0.04273, 20, -63.6, -80.77, 0.0043, 8, 27, -49.02, -26.14, 0.04616, 26, -5.62, -20.67, 0.40856, 25, 58.38, -21.63, 0.19483, 24, 109.99, -14.09, 0.03339, 23, 35.13, 33.03, 0.24119, 22, 71.98, 32.71, 0.06325, 21, 109.74, 44.99, 0.01234, 20, -72.61, -99.85, 2.8E-4, 7, 27, -30.1, -26.85, 0.13114, 26, 13.12, -23.43, 0.47232, 25, 77.11, -18.8, 0.11007, 24, 128.21, -8.92, 0.00766, 23, 53.28, 38.44, 0.25264, 22, 90.18, 37.95, 0.02432, 21, 126.72, 53.39, 0.00186 ],
+				"hull": 27,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 32, 32, 34, 34, 36, 36, 38, 38, 40, 40, 42, 42, 44, 44, 46, 46, 48, 48, 50, 50, 52, 0, 52, 54, 56, 56, 58, 58, 60, 60, 62, 62, 64, 64, 66, 66, 68, 68, 34 ],
+				"width": 89,
+				"height": 233
+			}
+		},
+		"Folder18": {
+			"Folder18": {
+				"name": "skin_1/Folder18",
+				"type": "mesh",
+				"uvs": [ 0.29023, 0.78601, 0.39974, 0.89916, 0.5616, 1, 0.64454, 1, 0.86116, 0.84793, 0.87911, 0.79176, 0.91593, 0.69575, 0.9729, 0.71355, 0.93955, 0.66198, 0.95499, 0.62559, 0.97915, 0.56866, 0.99096, 0.49621, 1, 0.43605, 1, 0.3473, 0.95553, 0.23187, 0.8318, 0.1087, 0.6734, 0.03319, 0.53306, 0, 0.37327, 0, 0.19591, 0.05755, 0.0521, 0.17543, 0, 0.29945, 0, 0.47108, 0.05558, 0.62613, 0.20772, 0.75199, 0.19452, 0.80295, 0.4242, 0.57633, 0.49165, 0.57426, 0.57175, 0.57716, 0.60969, 0.59289, 0.64154, 0.64794, 0.64951, 0.67485, 0.63405, 0.67857, 0.57503, 0.67319, 0.49821, 0.6645, 0.44528, 0.63925, 0.42748, 0.60241, 0.90289, 0.67804, 0.89941, 0.6541, 0.87405, 0.64059, 0.83445, 0.64305, 0.79312, 0.66116, 0.7764, 0.67746, 0.7754, 0.69892, 0.80632, 0.72348, 0.84349, 0.73545, 0.87058, 0.72962, 0.88934, 0.70322, 0.41965, 0.49906, 0.56352, 0.5503, 0.69183, 0.6096, 0.69666, 0.68788, 0.62258, 0.74528, 0.46474, 0.74671, 0.35147, 0.68598, 0.33644, 0.54603, 0.90242, 0.62147, 0.84011, 0.63226, 0.78579, 0.6531, 0.77737, 0.73608, 0.82327, 0.78371 ],
+				"triangles": [ 43, 42, 41, 59, 43, 44, 44, 41, 40, 45, 44, 40, 60, 44, 45, 40, 47, 45, 45, 46, 5, 6, 46, 47, 47, 46, 45, 47, 40, 39, 37, 38, 8, 37, 47, 39, 38, 39, 56, 37, 39, 38, 47, 37, 6, 44, 43, 41, 40, 57, 39, 41, 58, 40, 42, 58, 41, 43, 51, 42, 49, 50, 29, 26, 48, 27, 27, 49, 28, 29, 28, 49, 30, 29, 50, 51, 31, 30, 33, 29, 30, 52, 32, 31, 31, 32, 30, 32, 33, 30, 52, 33, 32, 53, 35, 34, 35, 36, 27, 36, 26, 27, 36, 55, 26, 54, 36, 35, 35, 27, 34, 34, 28, 33, 53, 34, 33, 34, 27, 28, 33, 28, 29, 27, 48, 49, 53, 33, 52, 49, 14, 13, 21, 55, 22, 13, 12, 49, 48, 18, 17, 48, 17, 16, 19, 18, 48, 20, 19, 48, 20, 55, 21, 20, 48, 55, 49, 48, 16, 49, 16, 15, 49, 15, 14, 50, 49, 12, 55, 48, 26, 57, 50, 12, 57, 12, 11, 10, 56, 11, 9, 56, 10, 23, 22, 55, 56, 57, 11, 39, 57, 56, 57, 58, 50, 40, 58, 57, 8, 56, 9, 38, 56, 8, 42, 50, 58, 50, 51, 30, 36, 54, 55, 24, 23, 55, 42, 51, 50, 6, 37, 8, 6, 8, 7, 52, 31, 51, 54, 35, 53, 54, 24, 55, 59, 44, 60, 0, 24, 54, 6, 5, 46, 60, 45, 5, 25, 24, 0, 4, 60, 5, 53, 0, 54, 1, 0, 53, 2, 53, 52, 1, 53, 2, 59, 52, 51, 59, 51, 43, 60, 3, 52, 60, 52, 59, 3, 60, 4, 2, 52, 3 ],
+				"vertices": [ 1, 18, -34.73, 15.65, 1, 1, 18, -31.13, -16.16, 1, 1, 18, -17.8, -51.35, 1, 1, 18, -4.74, -60.18, 1, 1, 18, 47.67, -56.15, 1, 1, 18, 57.26, -48.06, 1, 1, 18, 74.62, -34.88, 1, 1, 18, 81.44, -44.12, 1, 1, 18, 82.4, -31.38, 1, 1, 18, 89.21, -26.55, 1, 1, 18, 99.87, -18.98, 1, 1, 18, 110.46, -7.33, 1, 1, 18, 119.13, 2.42, 1, 1, 18, 129.82, 18.22, 1, 1, 18, 136.72, 43.51, 1, 1, 18, 132.08, 78.62, 1, 1, 18, 116.25, 108.93, 1, 1, 18, 98.16, 129.78, 1, 1, 18, 73.01, 146.79, 1, 1, 18, 38.17, 155.42, 1, 1, 18, 1.34, 149.73, 1, 1, 18, -21.8, 133.19, 1, 1, 18, -42.47, 102.63, 1, 1, 18, -52.4, 69.1, 1, 1, 18, -43.62, 30.49, 1, 1, 18, -51.83, 22.82, 1, 1, 89, -24.66, 5.94, 1, 1, 89, -12.07, 8.37, 1, 1, 89, 3.06, 10.13, 1, 1, 89, 10.7, 7.91, 1, 1, 89, 18.53, -2.84, 1, 1, 89, 20.92, -8.31, 1, 1, 89, 18.15, -9.56, 1, 1, 89, 6.89, -10.17, 1, 1, 89, -7.82, -10.6, 1, 1, 89, -18.6, -6.8, 1, 1, 89, -23.17, 0.5, 1, 1, 88, -11.11, -3.87, 1, 1, 88, -9.52, -8.81, 1, 1, 88, -4.25, -10.79, 1, 1, 88, 3.05, -8.9, 1, 1, 88, 10.06, -3.63, 1, 1, 88, 12.55, 0.39, 1, 1, 88, 11.89, 4.96, 1, 1, 88, 5.15, 9.08, 1, 1, 88, -2.26, 10.32, 1, 2, 18, 63.4, -36.09, 0.01264, 88, -7.09, 8.15, 0.98736, 1, 88, -9.56, 1.92, 1, 2, 18, 20.2, 52.97, 0.72068, 89, -28.11, 22.21, 0.27932, 2, 18, 36.67, 28.53, 0.67233, 89, 0.61, 15.59, 0.32767, 2, 18, 49.72, 4.31, 0.71572, 89, 26.68, 6.8, 0.28428, 1, 18, 41.05, -10.14, 1, 1, 18, 22.48, -12.48, 1, 2, 18, -2.53, 4.07, 0.7874, 89, -11.34, -29.05, 0.2126, 2, 18, -13.04, 26.94, 0.89008, 89, -34.64, -19.5, 0.10992, 1, 18, 1.45, 53.47, 1, 2, 18, 81.44, -20.22, 0.82178, 88, -8.8, -15.81, 0.17822, 2, 18, 70.33, -15.51, 0.83637, 88, 2.42, -11.37, 0.16363, 2, 18, 59.27, -13.43, 0.73277, 88, 11.75, -5.08, 0.26723, 1, 18, 47.95, -27.32, 1, 1, 18, 49.44, -40.68, 1 ],
+				"hull": 26,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 12, 14, 14, 16, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 32, 32, 34, 34, 36, 36, 38, 38, 40, 40, 42, 42, 44, 44, 46, 46, 48, 48, 50, 0, 50, 52, 54, 54, 56, 56, 58, 58, 60, 60, 62, 62, 64, 64, 66, 66, 68, 68, 70, 70, 72, 72, 52, 74, 76, 76, 78, 78, 80, 80, 82, 82, 84, 84, 86, 86, 88, 88, 90, 90, 92, 92, 94, 94, 74, 96, 98, 98, 100, 100, 102, 102, 104, 104, 106, 106, 108, 108, 110, 110, 96, 16, 18, 18, 20, 18, 112, 112, 114, 114, 116, 116, 84, 86, 118, 118, 120, 8, 10, 120, 10, 10, 12 ],
+				"width": 189,
+				"height": 214
+			}
+		},
+		"Folder24": {
+			"Folder24": { "name": "skin_3/Folder24", "x": 121.23, "y": 26.05, "rotation": -34.07, "width": 45, "height": 118 }
+		},
+		"Folder3": {
+			"Folder3": { "name": "skin_1/Folder3", "x": 18.71, "y": -0.25, "rotation": 100.1, "width": 44, "height": 60 },
+			"Folder5": { "name": "skin_1/Folder5", "x": 7.76, "y": 19.35, "rotation": 101.3, "width": 68, "height": 57 }
+		},
+		"Folder4": {
+			"Folder4": { "name": "skin_1/Folder4", "x": 66.82, "y": 1.3, "rotation": 66.68, "width": 93, "height": 161 }
+		},
+		"Folder46": {
+			"Folder46": { "name": "skin_1/Folder46", "x": -5.44, "y": -6.02, "width": 58, "height": 49 }
+		},
+		"Folder5": {
+			"Folder5": { "name": "skin_1/Folder5", "x": 19.04, "y": 3.94, "rotation": 37.11, "width": 68, "height": 57 }
+		},
+		"FxSlash": {
+			"skin_1/Slash02": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash04": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash06": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash08": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash10": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash12": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash14": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 }
+		},
+		"FxSlash2": {
+			"skin_1/Slash02": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash04": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash06": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash08": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash10": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash12": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 },
+			"skin_1/Slash14": { "x": -6.86, "y": 63.11, "width": 116, "height": 150 }
+		},
+		"Layer 1": {
+			"Layer 1": {
+				"name": "skin_1/Layer 1",
+				"type": "mesh",
+				"uvs": [ 0.23526, 0, 0.25164, 0.02851, 0.28207, 0.04404, 0.29495, 0, 0.31484, 0, 0.3324, 0.04026, 0.35581, 0.06716, 0.35073, 0.1293, 0.30275, 0.16264, 0.23292, 0.15506, 0.2021, 0.13915, 0.19039, 0.11262, 0.16758, 0.14757, 0.14933, 0.1882, 0.13275, 0.2373, 0.12286, 0.28678, 0.11843, 0.34304, 0.12489, 0.40286, 0.14424, 0.46491, 0.18151, 0.52031, 0.24083, 0.57238, 0.32819, 0.59764, 0.42402, 0.60928, 0.51927, 0.60983, 0.62479, 0.60097, 0.7343, 0.59598, 0.84471, 0.6111, 0.94515, 0.65627, 1, 0.73655, 1, 0.83624, 0.98033, 0.89559, 0.9439, 0.95596, 0.87799, 1, 0.85281, 1, 0.88351, 0.94628, 0.87657, 0.88949, 0.86414, 0.93208, 0.8382, 0.96154, 0.83308, 0.91966, 0.82485, 0.86811, 0.79269, 0.82303, 0.74957, 0.78506, 0.6827, 0.7556, 0.59865, 0.74318, 0.51752, 0.74708, 0.42288, 0.74956, 0.318, 0.7446, 0.2354, 0.72543, 0.15647, 0.68994, 0.09066, 0.64238, 0.04169, 0.58098, 0.01011, 0.50608, 0, 0.44007, 0, 0.36124, 0.01413, 0.2938, 0.03747, 0.22541, 0.0678, 0.15904, 0.1047, 0.09313, 0.14673, 0.03918, 0.20191, 0.01504, 0.2147, 0, 0.19024, 0.09586, 0.20857, 0.06446, 0.21564, 0.02252, 0.17906, 0.06691, 0.14151, 0.11443, 0.11277, 0.16282, 0.0869, 0.23632, 0.06774, 0.30425, 0.06008, 0.39078, 0.07714, 0.4683, 0.11332, 0.54931, 0.18869, 0.60885, 0.27612, 0.65179, 0.38465, 0.66741, 0.47811, 0.67033, 0.57257, 0.66936, 0.67106, 0.67131, 0.77356, 0.68205, 0.86839, 0.7295, 0.92185, 0.81487, 0.93091, 0.88968, 0.90826, 0.95216 ],
+				"triangles": [ 9, 10, 11, 9, 11, 62, 7, 2, 6, 8, 2, 7, 9, 2, 8, 63, 60, 0, 59, 60, 63, 63, 0, 1, 62, 59, 63, 64, 58, 59, 62, 64, 59, 61, 64, 62, 11, 61, 62, 6, 2, 5, 62, 63, 1, 62, 1, 2, 9, 62, 2, 2, 3, 4, 5, 2, 4, 65, 57, 58, 64, 65, 58, 65, 64, 61, 65, 61, 11, 12, 65, 11, 66, 56, 57, 65, 66, 57, 66, 65, 12, 13, 66, 12, 67, 56, 66, 14, 67, 66, 55, 56, 67, 13, 14, 66, 15, 67, 14, 68, 55, 67, 68, 67, 15, 54, 55, 68, 16, 68, 15, 68, 53, 54, 69, 68, 16, 69, 53, 68, 69, 16, 17, 52, 53, 69, 70, 69, 17, 70, 17, 18, 52, 69, 70, 51, 52, 70, 71, 70, 18, 71, 18, 19, 51, 70, 71, 50, 51, 71, 71, 19, 72, 49, 50, 71, 72, 19, 20, 49, 71, 72, 73, 20, 21, 72, 20, 73, 48, 49, 72, 47, 48, 72, 73, 47, 72, 47, 73, 46, 74, 21, 22, 73, 21, 74, 76, 23, 24, 75, 22, 23, 75, 23, 76, 74, 22, 75, 46, 73, 74, 44, 75, 76, 44, 76, 43, 45, 74, 75, 45, 75, 44, 46, 74, 45, 77, 24, 25, 76, 24, 77, 78, 25, 26, 77, 25, 78, 78, 26, 79, 43, 76, 77, 42, 77, 78, 43, 77, 42, 41, 42, 78, 41, 78, 79, 79, 26, 27, 79, 27, 28, 80, 79, 28, 40, 41, 79, 40, 79, 80, 80, 28, 29, 39, 40, 80, 35, 39, 80, 81, 80, 29, 35, 80, 81, 30, 81, 29, 38, 39, 35, 36, 38, 35, 34, 35, 81, 37, 38, 36, 82, 34, 81, 31, 81, 30, 82, 81, 31, 33, 34, 82, 32, 33, 82, 32, 82, 31 ],
+				"vertices": [ 4, 60, -84.49, 33.25, 0.00381, 59, -35.77, 4.27, 0.07561, 58, 25.72, -33.58, 0.87215, 57, 11.22, 42.71, 0.04843, 4, 60, -74.54, 42.54, 4.8E-4, 59, -29.34, 16.27, 0.0291, 58, 15.7, -24.36, 0.8753, 57, 10.06, 29.15, 0.09512, 3, 59, -30.54, 30.14, 0.00848, 58, 1.97, -22.07, 0.82502, 57, 16.64, 16.88, 0.1665, 3, 59, -48.81, 24.62, 0.00185, 58, 2.76, -41.14, 0.73272, 57, 31.25, 29.17, 0.26543, 3, 59, -53.16, 31.41, 9.4E-4, 58, -4.9, -43.66, 0.60844, 57, 37.92, 24.65, 0.39062, 3, 59, -42.86, 46.45, 0.0038, 58, -16.9, -29.94, 0.46501, 57, 34.41, 6.77, 0.5312, 3, 59, -38.53, 60.48, 0.01429, 58, -29.41, -22.25, 0.3234, 57, 35.97, -7.84, 0.66231, 4, 60, -43.36, 91.57, 3.9E-4, 59, -15.61, 72.73, 0.04116, 58, -35.57, 3, 0.20995, 57, 19.76, -28.15, 0.7485, 4, 60, -25.2, 76.04, 0.00329, 59, 6.58, 63.87, 0.09416, 58, -21.46, 22.29, 0.14677, 57, -4.13, -28.78, 0.75578, 5, 61, -61.71, 86.15, 0, 60, -21.49, 47.82, 0.01472, 59, 19.18, 38.35, 0.17514, 58, 6.4, 28.13, 0.14235, 57, -25.79, -10.32, 0.6678, 5, 61, -71.11, 75.59, 4.6E-4, 60, -24.94, 34.11, 0.045, 59, 20.33, 24.26, 0.27136, 58, 20.33, 25.73, 0.18723, 57, -32.41, 2.17, 0.49596, 5, 61, -82.98, 73.6, 0.00356, 60, -34.54, 26.86, 0.10421, 59, 13.57, 14.31, 0.35663, 58, 28.29, 16.71, 0.2586, 57, -30.14, 13.99, 0.277, 6, 63, -65.07, 160.52, 5.0E-5, 61, -71, 61.18, 0.02154, 60, -18.18, 21.38, 0.25544, 59, 30.83, 14.39, 0.38601, 58, 32.51, 33.44, 0.16605, 57, -45.96, 7.09, 0.17091, 6, 63, -63.3, 142.12, 0.00108, 61, -56.3, 49.99, 0.06585, 60, 0.04, 18.27, 0.40384, 59, 49.08, 17.31, 0.35127, 58, 34.23, 51.84, 0.08969, 57, -61.57, -2.8, 0.08826, 6, 63, -59.23, 120.96, 0.00718, 61, -37.99, 38.61, 0.15058, 60, 21.53, 16.65, 0.50313, 59, 69.94, 22.7, 0.26274, 58, 34.21, 73.39, 0.03936, 57, -78.6, -15.99, 0.03702, 7, 64, -80.4, 157.72, 6.2E-4, 63, -52.71, 100.98, 0.02825, 61, -18.89, 29.84, 0.27183, 60, 42.52, 17.71, 0.5153, 59, 89.48, 30.46, 0.15845, 58, 31.55, 94.25, 0.01354, 57, -93.48, -30.84, 0.01201, 7, 64, -81.88, 134.24, 0.00508, 63, -42.89, 79.6, 0.07786, 61, 3.47, 22.54, 0.39799, 60, 65.72, 21.59, 0.43785, 59, 110.2, 41.6, 0.07511, 58, 25.92, 117.09, 0.00333, 57, -108.11, -49.27, 0.00278, 8, 69, -184.88, 101.22, 4.0E-5, 64, -78.93, 109.33, 0.02254, 63, -28.48, 59.07, 0.16291, 61, 28.33, 19.18, 0.4796, 60, 89.32, 30.11, 0.30727, 59, 129.79, 57.27, 0.02675, 58, 15.63, 139.96, 5.1E-4, 57, -119.92, -71.4, 3.8E-4, 8, 69, -175.61, 75.83, 0.00152, 64, -70.75, 83.56, 0.06775, 63, -9.07, 40.25, 0.26941, 61, 55.33, 20.67, 0.47886, 60, 112.56, 43.92, 0.17591, 59, 147.35, 77.83, 0.00653, 58, 0.1, 162.09, 2.0E-5, 57, -127.92, -97.22, 2.0E-5, 7, 70, -234.34, -99.14, 3.0E-5, 69, -159.24, 53.61, 0.00991, 64, -55.36, 60.66, 0.15255, 63, 15.35, 27.39, 0.36038, 61, 81.34, 29.86, 0.39614, 60, 131.37, 64.11, 0.08011, 59, 158.65, 103, 8.8E-4, 7, 70, -202.03, -101.28, 0.00124, 69, -134.04, 33.28, 0.03751, 64, -31.05, 39.27, 0.26933, 63, 46.89, 20.08, 0.39437, 61, 108.13, 48.06, 0.26968, 60, 146.69, 92.63, 0.02787, 59, 163.98, 134.94, 1.0E-5, 7, 71, -105.31, -224.22, 4.0E-5, 70, -167.74, -87.61, 0.0084, 69, -98.12, 24.75, 0.09834, 64, 4.47, 29.2, 0.38329, 63, 82.94, 28.05, 0.35428, 61, 126.74, 79.95, 0.14885, 60, 148.44, 129.51, 0.0068, 7, 71, -95.39, -186.39, 9.6E-4, 70, -134.28, -67.36, 0.03279, 69, -59.1, 22.08, 0.19504, 64, 43.34, 24.87, 0.44536, 63, 119.22, 42.66, 0.26004, 61, 140.64, 116.5, 0.06483, 60, 143.85, 168.35, 9.8E-4, 7, 71, -90.09, -148.18, 0.00645, 70, -103.86, -43.63, 0.0887, 69, -20.57, 24.01, 0.30456, 64, 81.92, 25.14, 0.42506, 63, 153.05, 61.19, 0.15395, 61, 150, 153.93, 0.02125, 60, 134.83, 205.86, 3.0E-5, 7, 72, -32.42, -176.55, 1.6E-4, 71, -88.13, -105.33, 0.02617, 70, -72.62, -14.24, 0.18187, 69, 21.89, 30.1, 0.38338, 64, 124.6, 29.4, 0.33203, 63, 188.62, 85.17, 0.07162, 61, 156.52, 196.32, 0.00476, 7, 72, -60.23, -141.94, 0.00234, 71, -84.35, -61.09, 0.07461, 70, -39.11, 14.89, 0.29428, 69, 66.06, 34.66, 0.39293, 64, 168.92, 32.07, 0.21024, 63, 226.38, 108.53, 0.02502, 61, 165, 239.91, 5.8E-4, 7, 72, -81.49, -102.1, 0.01298, 71, -72.22, -17.59, 0.1618, 70, -0.11, 37.66, 0.38524, 69, 111.06, 30.88, 0.32864, 64, 213.72, 26.36, 0.10538, 63, 268.53, 124.74, 0.00596, 61, 181.71, 281.86, 0, 6, 72, -90.24, -58.13, 0.04644, 71, -48.19, 20.25, 0.27732, 70, 43.48, 48.1, 0.41242, 69, 152.73, 14.35, 0.22276, 64, 254.64, 8.06, 0.04029, 63, 313.24, 128.03, 7.7E-4, 6, 72, -76.29, -20.46, 0.12141, 71, -12.09, 37.87, 0.38487, 70, 81.67, 35.6, 0.36252, 69, 176.78, -17.82, 0.12038, 64, 277.29, -25.12, 0.01081, 63, 348.91, 109.55, 0, 5, 72, -42.7, 4.04, 0.2485, 71, 29.12, 32.4, 0.43917, 70, 107.44, 2.98, 0.2603, 69, 179.12, -59.33, 0.05028, 64, 277.84, -66.69, 0.00174, 5, 72, -18.01, 12.18, 0.41215, 71, 52.61, 21.25, 0.42151, 70, 116.53, -21.38, 0.15095, 69, 172.55, -84.49, 0.01533, 64, 270.2, -91.54, 7.0E-5, 4, 72, 11.03, 15.09, 0.5649, 71, 75.62, 3.31, 0.36169, 70, 120.55, -50.28, 0.07037, 69, 159.23, -110.45, 0.00305, 4, 72, 41.59, 4.35, 0.64592, 71, 90.32, -25.57, 0.32164, 70, 111, -81.24, 0.03123, 69, 133.61, -130.28, 0.00121, 4, 72, 47.6, -3.89, 0.61603, 71, 88.97, -35.68, 0.3487, 70, 102.99, -87.56, 0.02891, 69, 123.43, -130.86, 0.00637, 4, 72, 22.18, -7.04, 0.53902, 71, 68.4, -20.41, 0.44344, 70, 98.86, -62.28, 0.01643, 69, 134.58, -107.79, 0.00111, 4, 72, 4.7, -23.27, 0.39465, 71, 44.56, -20.08, 0.58192, 70, 81.98, -45.44, 0.0219, 69, 130.45, -84.31, 0.00153, 4, 72, 22.02, -16.87, 0.23924, 71, 61.5, -27.4, 0.70939, 70, 89.04, -62.49, 0.04354, 69, 126.42, -102.32, 0.00783, 5, 72, 38.13, -18.12, 0.1173, 71, 72.3, -39.44, 0.77033, 70, 88.41, -78.65, 0.08418, 69, 116.62, -115.17, 0.02795, 64, 213.01, -119.8, 2.4E-4, 5, 72, 25.24, -30.09, 0.04509, 71, 54.71, -39.19, 0.73685, 70, 75.95, -66.23, 0.14058, 69, 113.57, -97.85, 0.07478, 64, 210.71, -102.36, 0.0027, 5, 72, 9.84, -45.45, 0.01274, 71, 32.96, -39.67, 0.61965, 70, 60.01, -51.42, 0.1969, 69, 109.04, -76.58, 0.15677, 64, 207.09, -80.91, 0.01394, 6, 72, 2.33, -67.04, 0.00244, 71, 12.62, -50.11, 0.45597, 70, 38.14, -44.75, 0.22922, 69, 94.98, -58.54, 0.2645, 64, 193.82, -62.29, 0.04748, 63, 293.03, 37.25, 4.0E-4, 6, 72, -0.18, -90.49, 2.7E-4, 71, -5.38, -65.33, 0.29094, 70, 14.62, -43.15, 0.22106, 69, 76.65, -43.71, 0.36527, 64, 176.15, -46.69, 0.11878, 63, 270.08, 42.61, 0.00369, 6, 72, 5.86, -119.61, 5.0E-5, 71, -21.12, -90.57, 0.15838, 70, -14.25, -50.3, 0.17566, 69, 48.92, -32.96, 0.41639, 64, 148.9, -34.76, 0.23198, 63, 240.43, 40.2, 0.01755, 7, 72, 21.73, -150.16, 1.0E-5, 71, -30.74, -123.63, 0.07191, 70, -44.17, -67.33, 0.11383, 69, 14.65, -29.7, 0.39287, 64, 114.8, -30.03, 0.36446, 63, 208.16, 28.19, 0.05679, 61, 211.63, 172, 1.3E-4, 7, 72, 42.41, -175.75, 0, 71, -33.45, -156.41, 0.02632, 70, -68.94, -88.98, 0.05897, 69, -18.07, -33.17, 0.3055, 64, 81.97, -32.09, 0.46965, 63, 180.23, 10.82, 0.13777, 61, 205.44, 139.69, 0.00179, 6, 71, -37.46, -194.55, 0.00739, 70, -98.38, -113.55, 0.02364, 69, -56.28, -36.35, 0.19376, 64, 43.65, -33.64, 0.50041, 63, 147.23, -8.71, 0.26463, 61, 197.37, 102.21, 0.01017, 6, 71, -45.11, -236.38, 0.00146, 70, -132.99, -138.26, 0.00688, 69, -98.8, -36.67, 0.09809, 64, 1.15, -32.13, 0.44222, 63, 109.09, -27.52, 0.414, 61, 185.3, 61.43, 0.03734, 7, 71, -57.43, -268.49, 1.7E-4, 70, -164.19, -152.72, 0.00129, 69, -132.65, -30.57, 0.03828, 64, -32.4, -24.58, 0.32237, 63, 75.97, -36.78, 0.53719, 61, 169.62, 30.82, 0.1003, 60, 209.18, 105.8, 3.9E-4, 7, 71, -76.31, -298.23, 1.0E-5, 70, -198.45, -160.93, 1.1E-4, 69, -165.4, -17.58, 0.01074, 64, -64.56, -10.2, 0.19175, 63, 40.83, -39.37, 0.58294, 61, 147.67, 3.26, 0.21077, 60, 202.47, 71.21, 0.00368, 5, 69, -193.12, 0.72, 0.0019, 64, -91.48, 9.28, 0.09086, 63, 7.9, -34.98, 0.53093, 61, 122.09, -17.94, 0.35875, 60, 189.61, 40.58, 0.01756, 6, 69, -214.36, 25.18, 1.3E-4, 64, -111.65, 34.62, 0.03306, 63, -21.87, -22.23, 0.40442, 61, 92.52, -31.14, 0.50538, 60, 169.5, 15.19, 0.05628, 59, 210.51, 68.97, 7.3E-4, 5, 64, -124.85, 65.68, 0.00853, 63, -48.22, -1.14, 0.25552, 61, 59.15, -36.18, 0.5961, 60, 142.24, -4.71, 0.13412, 59, 191.11, 41.35, 0.00574, 6, 64, -129.31, 93.15, 0.00135, 63, -65.16, 20.94, 0.13149, 61, 31.43, -33.64, 0.59172, 60, 116.5, -15.28, 0.25055, 59, 170.14, 23.05, 0.02455, 58, 58.83, 170.52, 3.4E-4, 6, 64, -129.74, 126.02, 6.0E-5, 63, -81.13, 49.68, 0.05358, 61, -0.51, -25.86, 0.494, 60, 84.59, -23.16, 0.37755, 59, 142.46, 5.31, 0.07147, 58, 69.11, 139.3, 0.00334, 5, 63, -89.78, 77.04, 0.01637, 61, -26.47, -13.64, 0.34453, 60, 55.91, -24.34, 0.46659, 59, 115.7, -5.04, 0.15604, 58, 72.47, 110.8, 0.01647, 5, 63, -95.37, 106.56, 0.0034, 61, -51.94, 2.29, 0.19806, 60, 25.96, -22, 0.47637, 59, 86.59, -12.47, 0.26667, 58, 72.41, 80.75, 0.0555, 6, 63, -98.07, 136.71, 3.6E-4, 61, -75.92, 20.78, 0.09154, 60, -3.85, -16.71, 0.40201, 59, 56.66, -17.06, 0.36525, 58, 69.4, 50.62, 0.14077, 57, -82.11, 25.77, 8.0E-5, 5, 61, -99.09, 41.81, 0.03269, 60, -34.12, -8.78, 0.27745, 59, 25.45, -19.3, 0.40428, 58, 63.79, 19.84, 0.28482, 57, -54.33, 40.17, 7.6E-4, 5, 61, -116.92, 63.67, 0.0083, 60, -60.04, 2.35, 0.15003, 59, -2.67, -17.11, 0.36383, 58, 54.66, -6.85, 0.47399, 57, -27.63, 49.27, 0.00385, 5, 61, -121.41, 87.77, 9.5E-4, 60, -75.17, 21.64, 0.0497, 59, -23.2, -3.72, 0.27169, 58, 36.58, -23.4, 0.66414, 57, -3.48, 45.08, 0.01351, 5, 61, -126.28, 94.28, 4.0E-5, 60, -82.5, 25.16, 0.01647, 59, -31.28, -2.74, 0.15787, 58, 33.63, -30.98, 0.80304, 57, 4.33, 47.38, 0.02258, 5, 61, -89.78, 75.2, 4.6E-4, 60, -41.32, 25.13, 0.05142, 59, 7.72, 10.48, 0.36698, 58, 30.53, 10.09, 0.41632, 57, -26.27, 19.82, 0.16482, 5, 61, -100.75, 85.51, 0.00103, 60, -55.81, 29.2, 0.03961, 59, -7.31, 9.67, 0.36808, 58, 27.58, -4.67, 0.5237, 57, -12.79, 26.5, 0.06758, 5, 61, -117.06, 92.43, 4.0E-5, 60, -73.47, 27.78, 0.0257, 59, -23.58, 2.64, 0.3064, 58, 30.33, -22.18, 0.63603, 57, -0.62, 39.39, 0.03183, 5, 61, -102.58, 73.66, 0.0096, 60, -51.95, 17.84, 0.09758, 59, 0, 0.16, 0.43915, 58, 38.61, 0.04, 0.42202, 57, -23.26, 32.35, 0.03165, 6, 63, -81.01, 167.47, 2.5E-4, 61, -86.93, 54.19, 0.03816, 60, -29.07, 7.82, 0.19212, 59, 24.89, -1.96, 0.47177, 58, 46.86, 23.62, 0.2855, 57, -46.96, 24.46, 0.0122, 6, 63, -81.39, 144.18, 0.00289, 61, -70.08, 38.1, 0.10411, 60, -6.69, 1.36, 0.29644, 59, 48.16, -0.87, 0.43411, 58, 51.6, 46.42, 0.15875, 57, -67.91, 14.26, 0.0037, 6, 63, -75.66, 112.3, 0.0149, 61, -42.78, 20.67, 0.21555, 60, 25.58, -1.47, 0.36638, 59, 79.62, 6.85, 0.33177, 58, 51.97, 78.81, 0.07059, 57, -93.76, -5.26, 8.0E-4, 7, 64, -102.62, 150.14, 0.00137, 63, -68.69, 83.77, 0.04966, 61, -17.1, 6.42, 0.35226, 60, 54.94, -2.22, 0.36635, 59, 107.65, 15.59, 0.20644, 58, 50.48, 108.14, 0.02382, 57, -116.05, -24.37, 1.0E-4, 6, 64, -105.25, 114.02, 0.0096, 63, -53.87, 50.72, 0.12012, 61, 17.22, -5.13, 0.46699, 60, 90.72, 3.42, 0.29635, 59, 139.71, 32.45, 0.10139, 58, 42.14, 143.39, 0.00555, 7, 69, -202.66, 72.89, 8.7E-4, 64, -97.91, 81.79, 0.03754, 63, -32.14, 25.82, 0.22386, 61, 50.27, -6.07, 0.50728, 60, 120.44, 17.87, 0.19207, 59, 163.2, 55.71, 0.03769, 58, 25.47, 171.93, 7.0E-4, 6, 69, -186.14, 39.99, 0.00656, 64, -82.81, 48.21, 0.10042, 63, -2.92, 3.41, 0.33191, 61, 86.56, 0.17, 0.45411, 60, 149.73, 40.19, 0.0974, 59, 183.74, 86.27, 0.0096, 8, 71, -108.11, -280.85, 0, 70, -209.18, -126.3, 1.4E-4, 69, -154.27, 16.91, 0.02764, 64, -51.96, 23.79, 0.20265, 63, 35.82, -3.47, 0.39809, 61, 117.9, 23.95, 0.33307, 60, 166.52, 75.78, 0.03704, 59, 188.17, 125.36, 0.00137, 7, 71, -85.7, -248.1, 0, 70, -170.29, -118.41, 0.00219, 69, -117.91, 1.02, 0.07948, 64, -16.32, 6.35, 0.32158, 63, 75.47, -1.93, 0.38902, 61, 143.68, 54.11, 0.19813, 60, 175.42, 114.45, 0.0096, 7, 71, -73.46, -205.39, 0.00137, 70, -131.76, -96.27, 0.01108, 69, -73.66, -3.02, 0.17242, 64, 27.72, 0.42, 0.4118, 63, 117.06, 13.72, 0.30896, 61, 160.42, 95.27, 0.093, 60, 171.21, 158.68, 0.00137, 6, 71, -67.27, -168.02, 0.00961, 70, -101.3, -73.76, 0.03559, 69, -35.8, -2.11, 0.29428, 64, 65.58, -0.3, 0.43004, 63, 150.74, 31.04, 0.19739, 61, 170.56, 131.76, 0.03311, 7, 72, 3.08, -176.83, 0.00137, 71, -62.64, -130.05, 0.03704, 70, -71.54, -49.73, 0.08079, 69, 2.38, 0.44, 0.40608, 64, 103.83, 0.61, 0.36769, 63, 183.98, 49.97, 0.09894, 61, 179.22, 169.03, 0.00809, 7, 72, -19.76, -144.13, 0.0096, 71, -56.58, -90.61, 0.0974, 70, -39.73, -25.64, 0.14054, 69, 42.25, 1.86, 0.45818, 64, 143.72, 0.32, 0.25585, 63, 219.24, 68.63, 0.03731, 61, 189.46, 207.59, 0.00112, 6, 72, -40.61, -107.95, 0.03837, 71, -46.68, -50.05, 0.1921, 70, -4.38, -3.42, 0.19196, 69, 83.95, -0.28, 0.425, 64, 185.29, -3.61, 0.14297, 63, 257.71, 84.88, 0.00961, 6, 72, -47.25, -65.26, 0.10618, 71, -22.01, -14.58, 0.29709, 70, 38.02, 4.86, 0.21054, 69, 123.4, -17.88, 0.32246, 64, 223.96, -22.89, 0.06236, 63, 300.89, 86.23, 0.00137, 6, 72, -31.25, -26.79, 0.22505, 71, 16.12, 2.2, 0.37144, 70, 77.08, -9.65, 0.18527, 69, 147.02, -52.21, 0.198, 64, 246.08, -58.19, 0.02024, 63, 337.11, 65.63, 0, 5, 72, -8.21, -5.44, 0.38101, 71, 47.53, 1.73, 0.38808, 70, 99.3, -31.85, 0.1307, 69, 152.43, -83.15, 0.0958, 64, 250.16, -89.34, 0.00441, 5, 72, 18.25, 2.5, 0.53058, 71, 72.15, -10.79, 0.36257, 70, 108.25, -57.99, 0.0716, 69, 144.73, -109.68, 0.03474, 64, 241.33, -115.51, 5.1E-4 ],
+				"hull": 61,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 32, 32, 34, 34, 36, 36, 38, 38, 40, 40, 42, 42, 44, 44, 46, 46, 48, 48, 50, 50, 52, 52, 54, 54, 56, 56, 58, 58, 60, 60, 62, 62, 64, 64, 66, 66, 68, 68, 70, 70, 72, 72, 74, 74, 76, 76, 78, 78, 80, 80, 82, 82, 84, 84, 86, 86, 88, 88, 90, 90, 92, 92, 94, 94, 96, 96, 98, 98, 100, 100, 102, 102, 104, 104, 106, 106, 108, 108, 110, 110, 112, 112, 114, 114, 116, 116, 118, 118, 120, 0, 120, 22, 122, 122, 124, 124, 126, 126, 118, 124, 128, 128, 130, 130, 132, 132, 134, 134, 136, 136, 138, 138, 140, 140, 142, 142, 144, 144, 146, 146, 148, 148, 150, 150, 152, 152, 154, 154, 156, 156, 158, 158, 160, 160, 162, 162, 164, 164, 66 ],
+				"width": 405,
+				"height": 417
+			}
+		},
+		"Layer 10": {
+			"Layer 10": {
+				"name": "skin_1/Layer 10",
+				"type": "mesh",
+				"uvs": [ 0.27238, 0, 0.34303, 0, 0.40485, 0, 0.54228, 0.08116, 0.68837, 0.16724, 0.84437, 0.26386, 0.96075, 0.39562, 1, 0.54494, 1, 0.73643, 0.93228, 0.89695, 0.80723, 0.99357, 0.66733, 0.98479, 0.55466, 0.88641, 0.45933, 0.96371, 0.36647, 1, 0.21047, 1, 0.08542, 0.89344, 0.01362, 0.73533, 0, 0.53858, 0.0359, 0.32601, 0.14609, 0.14682, 0.39552, 0.14252, 0.46518, 0.25711, 0.53282, 0.41038, 0.56916, 0.54217, 0.58026, 0.71406, 0.25538, 0.76627, 0.88561, 0.78178, 0.5968, 0.32297, 0.73, 0.27197, 0.42138, 0.35116, 0.25989, 0.32635, 0.12515, 0.37743 ],
+				"triangles": [ 24, 30, 23, 24, 28, 29, 24, 23, 28, 28, 23, 22, 31, 32, 20, 22, 30, 31, 0, 21, 20, 0, 1, 21, 23, 30, 22, 22, 31, 21, 32, 19, 20, 21, 31, 20, 29, 28, 4, 28, 22, 4, 22, 3, 4, 22, 21, 3, 21, 2, 3, 21, 1, 2, 29, 4, 5, 11, 12, 25, 9, 10, 27, 10, 11, 27, 27, 11, 25, 9, 27, 8, 27, 25, 7, 8, 27, 7, 7, 24, 6, 29, 6, 24, 29, 5, 6, 7, 25, 24, 13, 14, 26, 14, 15, 26, 15, 16, 26, 13, 26, 12, 16, 17, 26, 12, 26, 25, 26, 18, 32, 26, 24, 25, 24, 26, 30, 26, 31, 30, 26, 32, 31, 26, 17, 18, 18, 19, 32 ],
+				"vertices": [ 1, 65, 15.17, 3.96, 1, 1, 65, 11.15, -2.28, 1, 2, 68, 76, 10.99, 0.00388, 65, 7.63, -7.73, 0.99612, 1, 65, -5.24, -16.6, 1, 3, 66, 12.52, -62.12, 0.01454, 68, 49.46, -7.31, 0.25279, 65, -18.91, -26.04, 0.73267, 3, 66, -2.37, -72.01, 0.00841, 68, 34.57, -17.2, 0.54884, 65, -33.8, -35.93, 0.44275, 3, 66, -17.19, -76.99, 3.0E-4, 68, 19.75, -22.18, 0.63736, 65, -48.61, -40.91, 0.36235, 2, 68, 8.23, -19.66, 0.92232, 65, -60.13, -38.38, 0.07768, 2, 68, -3.68, -11.97, 0.89084, 65, -72.04, -30.7, 0.10916, 3, 66, -46.74, -54.36, 8.7E-4, 68, -9.8, 0.44, 0.66077, 65, -78.17, -18.28, 0.33836, 3, 66, -45.63, -39.46, 0.03337, 68, -8.69, 15.35, 0.50362, 65, -77.06, -3.37, 0.46301, 3, 66, -37.12, -27.46, 0.0736, 68, -0.18, 27.34, 0.29124, 65, -68.55, 8.62, 0.63516, 3, 66, -24.59, -21.47, 0.26173, 68, 12.35, 33.34, 0.24403, 65, -56.02, 14.61, 0.49425, 3, 66, -23.97, -9.96, 0.32985, 68, 12.97, 44.85, 0.07872, 65, -55.4, 26.12, 0.59142, 3, 66, -20.94, -0.31, 0.45035, 68, 16, 54.5, 0.03876, 65, -52.37, 35.77, 0.51089, 3, 66, -12.06, 13.45, 0.37777, 68, 24.88, 68.26, 0.00151, 65, -43.49, 49.54, 0.62071, 2, 66, 1.68, 20.21, 0.40153, 65, -29.74, 56.29, 0.59847, 2, 66, 15.6, 20.21, 0.39407, 65, -15.82, 56.29, 0.60593, 2, 66, 28.61, 13.51, 0.57503, 65, -2.81, 49.59, 0.42497, 2, 66, 39.79, 1.82, 0.55543, 65, 8.36, 37.9, 0.44457, 2, 66, 44.66, -15.09, 0.06174, 65, 13.23, 20.99, 0.93826, 2, 68, 67.66, 17.53, 0.00462, 65, -0.7, -1.19, 0.99538, 3, 66, 19.64, -38.82, 0.08224, 68, 56.57, 15.99, 0.10055, 65, -11.79, -2.74, 0.81721, 3, 66, 6.25, -38.64, 0.19816, 68, 43.19, 16.17, 0.26397, 65, -25.17, -2.56, 0.53788, 3, 66, -4.01, -36.56, 0.27919, 68, 32.93, 18.25, 0.38836, 65, -35.44, -0.48, 0.33244, 3, 66, -15.33, -30.64, 0.3755, 68, 21.61, 24.16, 0.47849, 65, -46.76, 5.44, 0.14601, 1, 66, -0.08, 0.12, 1, 2, 68, 0.02, -0.06, 0.99995, 65, -68.35, -18.79, 5.0E-5, 3, 66, 8.05, -47.79, 0.08598, 68, 44.99, 7.01, 0.3237, 65, -23.38, -11.71, 0.59032, 3, 66, 3.64, -61.59, 0.02693, 68, 40.58, -6.78, 0.52109, 65, -27.79, -25.51, 0.45198, 3, 66, 16.28, -31.18, 0.38907, 68, 53.22, 23.62, 0.07222, 65, -15.15, 4.9, 0.5387, 3, 66, 27.02, -17.93, 0.50417, 68, 63.95, 36.88, 0.00448, 65, -4.41, 18.15, 0.49134, 2, 66, 31.51, -3.99, 0.54667, 65, 0.08, 32.09, 0.45333 ],
+				"hull": 21,
+				"edges": [ 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 32, 32, 34, 34, 36, 36, 38, 38, 40, 0, 40, 0, 2, 2, 4, 2, 42, 42, 44, 44, 46, 46, 48, 48, 50, 50, 24, 46, 56, 56, 58, 58, 10, 46, 60, 60, 62, 62, 64, 64, 36 ],
+				"width": 105,
+				"height": 74
+			}
+		},
+		"Layer 12": {
+			"Layer 12": { "name": "skin_1/Layer 12", "x": 16.94, "y": -27.7, "rotation": -29.98, "width": 78, "height": 66 }
+		},
+		"Layer 13": {
+			"Layer 13": { "name": "skin_1/Layer 13", "x": 39.07, "y": -0.42, "rotation": 63.88, "width": 59, "height": 85 }
+		},
+		"Layer 14": {
+			"Layer 14": { "name": "skin_1/Layer 14", "x": 42.83, "y": 1.66, "rotation": 68.6, "width": 60, "height": 99 }
+		},
+		"Layer 15": {
+			"Layer 15": {
+				"name": "skin_1/Layer 15",
+				"type": "mesh",
+				"uvs": [ 1, 0.2614, 0.8395, 0.12302, 0.50218, 0, 0.15282, 0, 0, 0.14561, 0, 0.39272, 0.22109, 0.93941, 0.38573, 1, 0.65879, 1, 0.81139, 0.93094, 1, 0.42117 ],
+				"triangles": [ 9, 8, 10, 10, 8, 7, 7, 6, 5, 2, 10, 7, 2, 5, 3, 10, 2, 1, 7, 5, 2, 1, 0, 10, 5, 4, 3 ],
+				"vertices": [ 1, 8, 16.12, 27.42, 1, 1, 8, -8.71, 16.32, 1, 1, 8, -30.37, -6, 1, 1, 8, -29.63, -28.35, 1, 1, 8, -2.82, -37.25, 1, 1, 8, 42.13, -35.75, 1, 1, 86, 2.15, -18.47, 1, 1, 86, 12.82, -7.57, 1, 1, 86, 12.23, 9.9, 1, 1, 86, -0.67, 19.23, 1, 1, 8, 45.18, 28.39, 1 ],
+				"hull": 11,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 12, 14, 14, 16, 16, 18, 0, 20, 10, 12, 18, 20 ],
+				"width": 64,
+				"height": 182
+			}
+		},
+		"Layer 16": {
+			"Layer 16": { "name": "skin_1/Layer 16", "x": 40.62, "y": -5.86, "rotation": 64.62, "width": 91, "height": 150 }
+		},
+		"Layer 17": {
+			"Layer 16": { "name": "skin_1/Layer 16", "x": 39.08, "y": -8.15, "rotation": 66.25, "width": 91, "height": 150 },
+			"Layer 17": { "name": "skin_1/Layer 17", "x": 49.58, "y": -1.72, "rotation": 88.65, "width": 54, "height": 150 }
+		},
+		"Layer 18": {
+			"Layer 18": { "name": "skin_1/Layer 18", "x": 26.84, "y": -9.01, "rotation": 69.35, "width": 28, "height": 28 }
+		},
+		"Layer 3": {
+			"Layer 2": { "name": "skin_1/Layer 2", "x": -10.09, "y": 118.48, "rotation": -34.07, "width": 82, "height": 90 }
+		},
+		"Layer 4": {
+			"Layer 4": {
+				"name": "skin_1/Layer 4",
+				"type": "mesh",
+				"uvs": [ 1, 0.18485, 0.82764, 0.2079, 0.75711, 0.2798, 0.70015, 0.38678, 0.66217, 0.49464, 0.65675, 0.59512, 0.68116, 0.71884, 0.711, 0.82393, 0.71643, 0.92165, 0.70286, 1, 0.62691, 1, 0.49942, 0.88201, 0.33666, 0.7677, 0.17661, 0.68104, 0.01657, 0.6285, 0, 0.5502, 0, 0.45801, 0, 0.35015, 0.02742, 0.24874, 0.10608, 0.14868, 0.22544, 0.06386, 0.4099, 0, 0.64318, 0, 0.85206, 0.02883, 1, 0.07769, 0.63137, 0.06164, 0.49757, 0.12757, 0.40727, 0.21965, 0.36044, 0.31399, 0.33033, 0.41062, 0.32364, 0.52201, 0.33702, 0.62887 ],
+				"triangles": [ 2, 26, 25, 25, 21, 22, 0, 1, 24, 1, 25, 23, 1, 23, 24, 25, 22, 23, 26, 21, 25, 2, 25, 1, 28, 18, 19, 19, 20, 28, 28, 20, 27, 27, 21, 26, 27, 20, 21, 17, 18, 29, 29, 18, 28, 12, 13, 31, 31, 13, 30, 30, 13, 15, 13, 14, 15, 15, 16, 30, 30, 16, 29, 16, 17, 29, 28, 27, 3, 27, 26, 3, 3, 26, 2, 5, 30, 4, 30, 29, 4, 29, 28, 4, 4, 28, 3, 6, 31, 5, 31, 6, 12, 31, 30, 5, 9, 10, 8, 10, 11, 8, 11, 7, 8, 11, 12, 6, 11, 6, 7 ],
+				"vertices": [ 5, 74, -45.82, 34.73, 0.00104, 73, -1.72, 27.06, 0.00813, 84, -22, 73.69, 0, 83, 3.23, 63.6, 0.00107, 19, 1.31, -26.75, 0.98976, 4, 75, -93.16, 35.78, 0.00575, 74, -38.99, 20.14, 0.09885, 73, 7.36, 13.75, 0.32908, 19, -14.41, -23.24, 0.56632, 4, 75, -75.46, 27.83, 0.0482, 74, -20.23, 15.18, 0.29901, 73, 26.67, 11.84, 0.49644, 19, -29.81, -35.05, 0.15635, 5, 76, -102.05, 22.62, 0.01187, 75, -48.71, 20.15, 0.13934, 74, 7.42, 11.96, 0.42337, 73, 54.47, 13.06, 0.36814, 19, -49.26, -54.96, 0.05727, 5, 76, -75.06, 15.91, 0.05984, 75, -21.57, 14.1, 0.26853, 74, 35.18, 10.41, 0.45049, 73, 82.13, 15.95, 0.20714, 19, -67.46, -75.98, 0.014, 5, 76, -49.59, 12.25, 0.18046, 75, 3.98, 11.06, 0.37228, 74, 60.88, 11.56, 0.36305, 73, 107.32, 21.19, 0.08237, 19, -82.26, -97.02, 0.00184, 4, 76, -17.9, 10.43, 0.37516, 75, 35.71, 10, 0.38531, 74, 92.36, 15.68, 0.2182, 73, 137.73, 30.27, 0.02134, 4, 76, 9.12, 9.67, 0.60831, 75, 62.73, 9.89, 0.296, 74, 119.05, 19.96, 0.09345, 73, 163.4, 38.75, 0.00225, 3, 76, 34, 7.04, 0.79639, 75, 87.67, 7.85, 0.17766, 74, 143.98, 22.01, 0.02595, 3, 76, 53.75, 3.38, 0.88198, 75, 107.51, 4.67, 0.11416, 74, 164.07, 22.1, 0.00387, 3, 76, 52.93, -3.18, 0.83447, 75, 106.85, -1.9, 0.15853, 74, 164.49, 15.51, 0.00701, 6, 76, 21.59, -10.44, 0.57442, 75, 75.69, -9.91, 0.24455, 74, 135.04, 2.53, 0.02777, 73, 181.97, 24.09, 1.8E-4, 85, 116.24, 30.25, 0.14951, 84, 160.43, 52.04, 0.00357, 6, 76, -9.21, -20.86, 0.27812, 75, 45.15, -21.07, 0.32223, 74, 106.73, -13.45, 0.07228, 73, 156.57, 3.81, 0.00451, 85, 86.03, 18.24, 0.30532, 84, 133.09, 34.45, 0.01754, 6, 76, -32.95, -31.92, 0.14281, 75, 21.68, -32.71, 0.29512, 74, 85.47, -28.74, 0.02777, 73, 138.01, -14.68, 1.8E-4, 85, 62.9, 5.96, 0.51822, 84, 112.75, 17.94, 0.01591, 4, 75, 6.91, -45.21, 0.09369, 85, 48.47, -6.96, 0.83031, 84, 101.08, 2.49, 0.07412, 83, 142.37, 34.28, 0.00188, 3, 85, 28.38, -6.95, 0.79103, 84, 81.36, -1.36, 0.18817, 83, 124.83, 24.47, 0.0208, 3, 85, 4.84, -5.24, 0.6037, 84, 57.93, -4.21, 0.31665, 83, 103.46, 14.46, 0.07964, 4, 85, -22.7, -3.25, 0.37919, 84, 30.52, -7.55, 0.41018, 83, 78.45, 2.75, 0.20872, 19, -94.46, -13.06, 0.0019, 4, 85, -48.42, 1.01, 0.18519, 84, 4.46, -8.32, 0.40338, 83, 53.93, -6.1, 0.39722, 19, -77.94, 7.1, 0.01421, 4, 85, -73.48, 9.69, 0.06173, 84, -21.79, -4.63, 0.29689, 83, 27.83, -10.76, 0.58479, 19, -57.92, 24.49, 0.05659, 4, 85, -94.38, 21.61, 0.0104, 84, -44.6, 3.06, 0.13292, 83, 3.76, -10.56, 0.57119, 19, -37.15, 36.66, 0.2855, 3, 84, -62.77, 17.01, 0.04068, 83, -17.85, -2.96, 0.46429, 19, -14.7, 41.21, 0.49503, 3, 84, -65.22, 37.16, 0.00243, 83, -26.46, 15.42, 0.08627, 19, 2.11, 29.84, 0.9113, 5, 74, -84.87, 19.37, 1.0E-5, 73, -37.82, 5.67, 0.00242, 84, -60.09, 56.09, 2.6E-4, 83, -27.48, 35, 0.00522, 19, 13.03, 13.54, 0.99209, 1, 19, 16.68, -4.03, 1, 6, 74, -75.27, 0.74, 0.00717, 73, -25.38, -11.19, 0.12027, 85, -92.4, 56.88, 8.1E-4, 84, -49.43, 38.04, 0.04147, 83, -11.73, 21.18, 0.19448, 19, -7.58, 17.34, 0.63581, 7, 75, -116.5, 9.26, 1.4E-4, 74, -57.7, -9.81, 0.04427, 73, -6.34, -18.81, 0.25247, 85, -76.4, 44.05, 0.01037, 84, -31.27, 28.53, 0.13604, 83, 8.49, 17.79, 0.27918, 19, -26.68, 9.88, 0.27753, 7, 75, -93.83, -0.91, 0.00778, 74, -33.68, -16.17, 0.11102, 73, 18.38, -21.25, 0.28079, 85, -53.46, 34.51, 0.03853, 84, -6.92, 23.58, 0.20893, 83, 33.17, 20.67, 0.21827, 19, -46.39, -5.24, 0.13468, 8, 76, -124.2, -4.4, 8.8E-4, 75, -70.21, -7.39, 0.04097, 74, -9.31, -18.71, 0.19563, 73, 42.84, -19.88, 0.24659, 85, -29.67, 28.7, 0.0927, 84, 17.54, 22.46, 0.24272, 83, 56.77, 27.23, 0.13384, 19, -63.3, -22.96, 0.04668, 8, 76, -99.98, -10.07, 0.01255, 75, -45.86, -12.47, 0.11696, 74, 15.54, -19.76, 0.25536, 73, 67.54, -16.96, 0.16561, 85, -5.18, 24.3, 0.16204, 84, 42.41, 22.85, 0.21663, 83, 80.28, 35.34, 0.06054, 19, -79.32, -41.99, 0.01031, 8, 76, -71.76, -14.18, 0.05215, 75, -17.54, -15.9, 0.22508, 74, 44.03, -18.55, 0.25029, 73, 95.48, -11.22, 0.08354, 85, 23.22, 21.66, 0.22346, 84, 70.79, 25.72, 0.14628, 83, 106.35, 46.91, 0.01827, 19, -95.78, -65.28, 9.4E-4, 7, 76, -44.47, -16.42, 0.14281, 75, 9.79, -17.48, 0.31065, 74, 71.26, -15.66, 0.17684, 73, 121.9, -4.03, 0.02878, 85, 50.58, 20.84, 0.26629, 84, 97.81, 30.18, 0.07174, 83, 130.63, 59.56, 0.0029 ],
+				"hull": 25,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 32, 32, 34, 34, 36, 36, 38, 38, 40, 40, 42, 42, 44, 44, 46, 46, 48, 0, 48, 46, 50, 50, 52, 52, 54, 54, 56, 56, 58, 58, 60, 60, 62, 62, 24 ],
+				"width": 86,
+				"height": 254
+			}
+		},
+		"Layer 49": {
+			"Layer 49": { "name": "skin_1/Layer 49", "x": 1.27, "y": -1.39, "rotation": 13.71, "width": 41, "height": 20 },
+			"mom2": { "name": "skin_3/mom2", "x": 3.33, "y": -1.4, "rotation": 13.71, "width": 35, "height": 33 }
+		},
+		"Layer 50": {
+			"Layer 50": { "name": "skin_1/Layer 50", "x": 54.41, "rotation": 116.4, "width": 74, "height": 119 }
+		},
+		"Layer 52": {
+			"Layer 52": { "name": "skin_1/Layer 52", "x": 24.51, "y": 17.82, "rotation": -34.07, "width": 46, "height": 40 }
+		},
+		"Layer 53": {
+			"Layer 53": { "name": "skin_1/Layer 53", "x": 63.34, "y": -24.74, "rotation": -34.07, "width": 24, "height": 25 }
+		},
+		"Layer 60": {
+			"Layer 60": { "name": "skin_1/Layer 60", "x": 41.87, "y": 8.68, "rotation": 133.45, "width": 108, "height": 136 }
+		},
+		"Layer 61": {
+			"Layer 61": { "name": "skin_1/Layer 61", "x": 43.64, "y": 6.46, "rotation": 57.5, "width": 79, "height": 106 }
+		},
+		"Layer 7": {
+			"Layer 7": { "name": "skin_1/Layer 7", "x": 20.06, "y": 24.62, "rotation": -161.8, "width": 93, "height": 75 }
+		},
+		"Layer 9 copy": {
+			"Layer 9 copy": { "name": "skin_1/Layer 9 copy", "x": 90.8, "y": -48.54, "rotation": -109.8, "width": 222, "height": 578 }
+		},
+		"Layer 9 copy2": {
+			"Layer 9 copy": { "name": "skin_1/Layer 9 copy", "x": 101.88, "y": -46.05, "rotation": -109.8, "width": 222, "height": 578 }
+		},
+		"Layer102": {
+			"Layer102": { "name": "skin_1/Layer102", "x": 20.59, "y": 1.36, "rotation": 69.35, "width": 23, "height": 38 }
+		},
+		"Layer793": {
+			"Layer793": { "name": "skin_1/Layer793", "x": 45.47, "y": -0.94, "rotation": 124.61, "width": 74, "height": 94 }
+		},
+		"Layer98": {
+			"Layer98": { "name": "skin_1/Layer98", "x": 17.73, "y": 0.84, "rotation": 69.35, "width": 36, "height": 51 }
+		},
+		"giap co": {
+			"giap co": { "name": "skin_1/giap co", "x": -0.85, "y": -5.72, "rotation": -122.83, "width": 113, "height": 56 }
+		},
+		"skin_1/Folder46b": {
+			"skin_1/Folder46b": {
+				"type": "mesh",
+				"uvs": [ 0.08371, 0, 0.07649, 0.10885, 0, 0.14402, 0, 0.17449, 0.07339, 0.21212, 0.07745, 0.28625, 0.07927, 0.36323, 0.08655, 0.45924, 0.10294, 0.55495, 0.13208, 0.65676, 0.15939, 0.75527, 0.19582, 0.85644, 0.22495, 0.89037, 0.67611, 1, 0.75135, 1, 0.80091, 1, 1, 0.85468, 1, 0.81031, 0.95167, 0.74216, 0.89887, 0.67234, 0.85087, 0.59016, 0.81407, 0.51578, 0.78047, 0.43069, 0.75167, 0.3456, 0.73247, 0.27288, 0.71807, 0.19942, 0.77567, 0.14924, 0.69887, 0.11288, 0.67327, 0, 0.42621, 0.20132, 0.43627, 0.27233, 0.44797, 0.3548, 0.47138, 0.44392, 0.50065, 0.53969, 0.52991, 0.63147, 0.57966, 0.73123, 0.65282, 0.84429, 0.70842, 0.93341 ],
+				"triangles": [ 30, 29, 25, 5, 4, 29, 4, 3, 1, 29, 0, 28, 29, 28, 27, 1, 0, 29, 3, 2, 1, 25, 27, 26, 29, 27, 25, 4, 1, 29, 30, 25, 24, 5, 29, 30, 31, 30, 24, 31, 24, 23, 6, 5, 30, 6, 30, 31, 32, 31, 23, 32, 23, 22, 7, 6, 31, 7, 31, 32, 33, 32, 22, 8, 7, 32, 21, 34, 33, 21, 33, 22, 33, 9, 8, 33, 8, 32, 35, 34, 21, 35, 21, 20, 34, 10, 9, 34, 9, 33, 36, 35, 20, 36, 20, 19, 18, 17, 16, 11, 10, 34, 12, 11, 34, 35, 12, 34, 18, 37, 36, 18, 36, 19, 15, 37, 18, 13, 36, 37, 12, 35, 36, 13, 12, 36, 15, 14, 37, 13, 37, 14, 18, 16, 15 ],
+				"vertices": [ 1, 28, -33.84, 9.35, 1, 1, 28, -34.53, -13.4, 1, 1, 28, -41.79, -20.75, 1, 1, 28, -41.79, -27.12, 1, 4, 31, -114.92, -15.57, 0, 30, -57.38, -28.67, 0.00324, 29, -0.1, -33.87, 0.15191, 28, -34.82, -34.98, 0.84485, 4, 31, -99.94, -19.53, 7.5E-4, 30, -42.04, -30.88, 0.09165, 29, 15.38, -34.65, 0.82611, 28, -34.44, -50.47, 0.08148, 4, 31, -84.45, -23.86, 0.00926, 30, -26.15, -33.4, 0.22866, 29, 31.43, -35.69, 0.72732, 28, -34.26, -66.56, 0.03476, 4, 31, -64.99, -28.81, 0.04745, 30, -6.25, -36.08, 0.40321, 29, 51.5, -36.51, 0.53871, 28, -33.57, -86.63, 0.01063, 4, 31, -45.34, -32.91, 0.14712, 30, 13.73, -37.9, 0.53085, 29, 71.56, -36.46, 0.32079, 28, -32.02, -106.63, 0.00125, 4, 31, -24.14, -36.2, 0.32276, 30, 35.17, -38.73, 0.53296, 29, 92.99, -35.3, 0.14425, 28, -29.25, -127.91, 2.0E-5, 3, 31, -3.65, -39.46, 0.54565, 30, 55.9, -39.62, 0.40911, 29, 113.71, -34.26, 0.04524, 3, 31, 17.62, -42.05, 0.75291, 30, 77.33, -39.75, 0.23887, 29, 135.05, -32.4, 0.00822, 3, 31, 25.2, -41.37, 0.89606, 30, 84.78, -38.2, 0.10344, 29, 142.34, -30.18, 5.0E-4, 2, 31, 59.18, -6.63, 0.96607, 30, 114.55, 0.21, 0.03393, 2, 31, 61.18, 0.24, 0.9892, 30, 115.74, 7.26, 0.0108, 2, 31, 62.5, 4.76, 0.97054, 30, 116.53, 11.9, 0.02946, 2, 31, 38.62, 31.41, 0.91551, 30, 89.76, 35.63, 0.08449, 3, 31, 29.72, 34, 0.79946, 30, 80.61, 37.19, 0.20049, 29, 131.19, 44.5, 5.0E-5, 3, 31, 14.76, 33.57, 0.61721, 30, 65.8, 35.04, 0.37992, 29, 116.64, 41, 0.00288, 3, 31, -0.65, 32.83, 0.3995, 30, 50.58, 32.54, 0.57474, 29, 101.71, 37.09, 0.02576, 3, 31, -18.42, 33.26, 0.20514, 30, 32.88, 30.92, 0.69364, 29, 84.24, 33.84, 0.10122, 4, 31, -34.32, 34.25, 0.07709, 30, 16.97, 30.08, 0.66522, 29, 68.48, 31.52, 0.25728, 28, 35.54, -98.45, 4.1E-4, 4, 31, -52.29, 36.15, 0.01874, 30, -1.1, 29.91, 0.50091, 29, 50.51, 29.68, 0.47366, 28, 32.35, -80.66, 0.00669, 4, 31, -70.13, 38.5, 0.00193, 30, -19.09, 30.19, 0.28955, 29, 32.57, 28.29, 0.68287, 28, 29.61, -62.88, 0.02565, 4, 31, -85.23, 40.99, 2.0E-5, 30, -34.38, 30.93, 0.12126, 29, 17.27, 27.61, 0.80675, 28, 27.79, -47.68, 0.07197, 3, 30, -49.74, 32.16, 0.00283, 29, 1.86, 27.4, 0.09068, 28, 26.42, -32.33, 0.90649, 1, 28, 31.89, -21.84, 1, 1, 28, 24.6, -14.24, 1, 1, 28, 22.17, 9.35, 1, 3, 30, -54, 4.75, 7.8E-4, 29, 0.17, -0.27, 0.1436, 28, -1.31, -32.72, 0.85562, 4, 31, -93.21, 14.01, 0, 30, -39.2, 3.21, 0.03737, 29, 15.04, -0.44, 0.92572, 28, -0.35, -47.56, 0.03691, 4, 31, -76.35, 10.26, 3.0E-5, 30, -22.02, 1.42, 0.14812, 29, 32.31, -0.63, 0.84254, 28, 0.76, -64.8, 0.00931, 3, 31, -57.84, 7.19, 0.03711, 30, -3.29, 0.5, 0.33325, 29, 51.05, 0.19, 0.62963, 3, 31, -37.85, 4.26, 0.14829, 30, 16.91, -0.11, 0.48134, 29, 71.22, 1.46, 0.37037, 3, 31, -18.65, 1.57, 0.37051, 30, 36.29, -0.58, 0.48134, 29, 90.56, 2.78, 0.14815, 3, 31, 2.69, 0.28, 0.62971, 30, 57.63, 0.59, 0.33325, 29, 111.7, 5.93, 0.03704, 3, 31, 27.32, 0.35, 0.85185, 30, 82.09, 3.48, 0.14815, 29, 135.79, 11.08, 0, 2, 31, 46.68, 0.21, 0.9607, 30, 101.34, 5.57, 0.0393 ],
+				"hull": 29,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 30, 32, 32, 34, 34, 36, 36, 38, 38, 40, 40, 42, 42, 44, 44, 46, 46, 48, 48, 50, 50, 52, 52, 54, 54, 56, 0, 56, 58, 60, 60, 62, 62, 64, 64, 66, 66, 68, 68, 70, 70, 72, 72, 74, 26, 28, 28, 30, 74, 28, 58, 8, 58, 50 ],
+				"width": 95,
+				"height": 209
+			}
+		},
+		"tay": {
+			"tay": { "name": "skin_1/tay", "x": 17.73, "y": 6.97, "rotation": 124.63, "width": 45, "height": 56 }
+		},
+		"torso": {
+			"torso": {
+				"name": "skin_1/Folder11",
+				"type": "mesh",
+				"uvs": [ 0.48894, 0, 0.33908, 0, 0.2788, 0.03807, 0.27796, 0.19418, 0.26122, 0.22908, 0.22103, 0.23474, 0.08624, 0.23804, 0.03685, 0.28048, 0.03601, 0.36066, 0.10885, 0.44743, 0.3014, 0.56439, 0.27378, 0.5842, 0.27796, 0.61297, 0.18469, 0.64924, 0.04237, 0.70253, 0, 0.75441, 0, 0.83079, 0.0992, 0.91749, 0.2499, 0.97833, 0.34618, 1, 0.47427, 1, 0.6526, 0.94626, 0.76069, 0.87457, 0.8193, 0.79959, 0.78951, 0.72229, 0.79537, 0.69823, 0.8816, 0.69258, 0.92598, 0.66899, 0.93686, 0.60863, 0.97584, 0.55482, 0.975, 0.4539, 0.92896, 0.35996, 0.84859, 0.28921, 0.75314, 0.25337, 0.61249, 0.24111, 0.5857, 0.22507, 0.58738, 0.19159, 0.57482, 0.04209, 0.41936, 0.23265, 0.43867, 0.02417, 0.52698, 0.30266, 0.62, 0.37183, 0.67395, 0.45463, 0.65535, 0.54685, 0.6293, 0.6286, 0.58279, 0.69777, 0.51953, 0.7638, 0.44325, 0.81515 ],
+				"triangles": [ 21, 47, 46, 21, 20, 47, 16, 15, 14, 17, 13, 18, 19, 47, 20, 19, 18, 47, 16, 14, 17, 17, 14, 13, 22, 21, 45, 47, 18, 13, 45, 10, 44, 47, 13, 12, 21, 46, 45, 22, 45, 24, 22, 24, 23, 24, 45, 44, 47, 12, 46, 12, 10, 46, 46, 10, 45, 24, 44, 25, 26, 25, 43, 43, 44, 40, 28, 27, 26, 43, 25, 44, 28, 26, 43, 30, 28, 42, 42, 28, 43, 42, 32, 31, 12, 11, 10, 28, 30, 29, 30, 42, 31, 40, 44, 10, 42, 33, 32, 43, 40, 41, 9, 5, 10, 10, 38, 40, 10, 5, 38, 43, 41, 42, 42, 41, 33, 9, 8, 6, 8, 7, 6, 9, 6, 5, 40, 34, 41, 41, 34, 33, 40, 38, 34, 38, 35, 34, 5, 4, 38, 4, 3, 38, 35, 38, 36, 36, 38, 39, 39, 0, 37, 38, 3, 39, 39, 3, 2, 37, 36, 39, 2, 1, 39, 39, 1, 0 ],
+				"vertices": [ 1, 17, 52.51, -5.75, 1, 1, 17, 51.06, 13.53, 1, 1, 17, 41.78, 20.63, 1, 2, 17, 6.13, 18.06, 0.83577, 16, 76.54, 10.71, 0.16423, 2, 17, -2, 19.61, 0.42621, 16, 70.99, 16.86, 0.57379, 2, 17, -3.69, 24.68, 0.23634, 16, 72.71, 21.92, 0.76366, 2, 17, -5.74, 41.97, 0.08269, 16, 81.51, 36.94, 0.91731, 3, 17, -15.91, 47.59, 0.05493, 16, 76.79, 47.57, 0.945, 15, 79.37, 86.99, 8.0E-5, 3, 17, -34.23, 46.32, 0.01744, 16, 61.42, 57.61, 0.97561, 15, 61.26, 83.95, 0.00695, 4, 17, -53.34, 35.46, 2.6E-4, 16, 39.63, 60.49, 0.94665, 15, 43.3, 71.28, 0.05074, 14, 44.74, 82.69, 0.00234, 3, 16, 3.66, 54.14, 0.42283, 15, 21.18, 42.21, 0.38251, 14, 36.23, 47.16, 0.19465, 3, 16, 1.78, 59.59, 0.2927, 15, 16.1, 44.94, 0.39327, 14, 30.48, 47.61, 0.31402, 3, 16, -4.05, 62.71, 0.17896, 15, 9.7, 43.27, 0.34877, 14, 25.3, 43.51, 0.47227, 4, 16, -4.5, 77.32, 0.04115, 15, -0.54, 53.7, 0.13993, 14, 11.72, 48.91, 0.64509, 7, -34.17, 37.08, 0.17382, 4, 16, -4.81, 99.36, 0.00356, 15, -15.72, 69.69, 0.02827, 14, -8.62, 57.42, 0.50347, 7, -52.53, 24.88, 0.46471, 4, 16, -11.83, 110.4, 3.2E-4, 15, -28.36, 73.04, 0.00626, 14, -21.54, 55.38, 0.21977, 7, -58, 13, 0.77365, 1, 7, -58, -4.5, 1, 1, 7, -45.2, -24.35, 1, 1, 7, -25.76, -38.28, 1, 1, 7, -13.34, -43.25, 1, 1, 7, 3.18, -43.25, 1, 1, 7, 26.19, -30.94, 1, 3, 15, -38.62, -28.36, 0.00156, 14, 10, -41.53, 0.46279, 7, 40.13, -14.52, 0.53565, 3, 15, -20.4, -32.86, 0.05093, 14, 28.48, -38.3, 0.5878, 7, 47.69, 2.65, 0.36127, 2, 15, -3.62, -26.03, 0.23232, 14, 41.08, -25.28, 0.76768, 2, 15, 1.93, -25.83, 0.60909, 14, 46.08, -22.86, 0.39091, 2, 15, 5.12, -36.57, 0.65534, 14, 53.33, -31.39, 0.34466, 2, 15, 11.42, -41.28, 0.78247, 14, 60.99, -33.16, 0.21753, 2, 15, 25.28, -40.29, 0.87575, 14, 73.28, -26.66, 0.12425, 1, 15, 38.28, -43.13, 1, 1, 15, 61.03, -39.05, 1, 2, 16, -0.89, -39.27, 0.07063, 15, 81.21, -29.51, 0.92937, 2, 16, 18.34, -39.34, 0.34059, 15, 95.38, -16.51, 0.65941, 3, 17, -2.79, -44.08, 3.0E-4, 16, 31.92, -33.45, 0.58903, 15, 101.36, -2.97, 0.41068, 3, 17, -1.35, -25.78, 0.09656, 16, 44.11, -19.72, 0.81133, 15, 101.01, 15.39, 0.09212, 3, 17, 2.05, -22.06, 0.27543, 16, 49.07, -18.81, 0.69246, 15, 104.03, 19.42, 0.0321, 3, 17, 9.71, -21.7, 0.61822, 16, 55.4, -23.15, 0.37639, 15, 111.62, 20.53, 0.0054, 1, 17, 43.73, -17.52, 1, 3, 17, -1.29, -0.79, 0.1979, 16, 59.24, 0.16, 0.8021, 15, 98.63, 40.26, 0, 1, 17, 46.5, 0.31, 1, 3, 17, -16.24, -15.84, 0.00185, 16, 38.25, -2.81, 0.99009, 15, 85.23, 23.83, 0.00806, 2, 16, 18.43, -4.31, 0.91401, 15, 71.68, 9.29, 0.08599, 2, 16, -1.27, 0.12, 0.91655, 15, 54.2, -0.82, 0.08345, 2, 15, 32.98, -2.09, 0.90433, 14, 64.9, 11.4, 0.09567, 2, 15, 13.96, -1.99, 0.72917, 14, 47.46, 3.81, 0.27083, 2, 16, -41.69, 40.19, 2.0E-5, 14, 30.95, 0.02, 0.99998, 2, 14, 13.85, -1.58, 0.79998, 7, 9.02, 10.84, 0.20002, 2, 14, -1.4, 0.09, 0.48007, 7, -0.82, -0.92, 0.51993 ],
+				"hull": 38,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 32, 32, 34, 34, 36, 36, 38, 38, 40, 40, 42, 42, 44, 44, 46, 46, 48, 48, 50, 50, 52, 52, 54, 54, 56, 56, 58, 58, 60, 60, 62, 62, 64, 64, 66, 66, 68, 68, 70, 70, 72, 72, 74, 0, 74, 8, 76, 76, 70, 6, 76, 76, 10, 76, 72, 76, 68, 76, 78, 76, 80, 80, 82, 82, 84, 84, 86, 86, 88, 88, 90, 90, 92, 92, 94 ],
+				"width": 129,
+				"height": 229
+			}
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"bones": {
+			"torso": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 4.82,
+						"y": -2.64,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"x": 0,
+						"y": -0.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.3333, "x": 4.82, "y": -2.64 }
+				]
+			},
+			"Layer 18": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -0.99,
+						"y": -0.03,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.3333, "x": -0.99, "y": -0.03 }
+				]
+			},
+			"Layer 16": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -1.97,
+						"y": 0.76,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.3333, "x": -1.97, "y": 0.76 }
+				]
+			},
+			"Folder12": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.02,
+						"curve": [ 0.36, 0.64, 0.695, 1 ]
+					},
+					{
+						"time": 0.1,
+						"angle": -0.01,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"angle": 0.83,
+						"curve": [ 0.245, 0, 0.711, 0.83 ]
+					},
+					{ "time": 2.3333, "angle": 0.02 }
+				]
+			},
+			"Folder13": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.1,
+						"curve": [ 0.375, 0.62, 0.716, 1 ]
+					},
+					{
+						"time": 0.2,
+						"angle": -0.01,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5333,
+						"angle": 0.83,
+						"curve": [ 0.243, 0, 0.68, 0.71 ]
+					},
+					{ "time": 2.3333, "angle": 0.1 }
+				]
+			},
+			"Folder14": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.19,
+						"curve": [ 0.382, 0.58, 0.731, 1 ]
+					},
+					{
+						"time": 0.3,
+						"angle": -0.01,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"angle": 0.83,
+						"curve": [ 0.243, 0, 0.655, 0.63 ]
+					},
+					{ "time": 2.3333, "angle": 0.19 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0.37,
+						"y": 0.16,
+						"curve": [ 0.382, 0.58, 0.731, 1 ]
+					},
+					{
+						"time": 0.3,
+						"x": -1,
+						"y": -0.18,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"x": 4.68,
+						"y": 1.24,
+						"curve": [ 0.243, 0, 0.655, 0.63 ]
+					},
+					{ "time": 2.3333, "x": 0.37, "y": 0.16 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.974,
+						"y": 0.974,
+						"curve": [ 0.382, 0.58, 0.731, 1 ]
+					},
+					{
+						"time": 0.3,
+						"x": 0.948,
+						"y": 0.948,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"x": 1.055,
+						"y": 1.055,
+						"curve": [ 0.243, 0, 0.655, 0.63 ]
+					},
+					{ "time": 2.3333, "x": 0.974, "y": 0.974 }
+				]
+			},
+			"Folder15": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.3,
+						"curve": [ 0.381, 0.55, 0.742, 1 ]
+					},
+					{
+						"time": 0.4,
+						"angle": -0.01,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.7333,
+						"angle": 0.83,
+						"curve": [ 0.245, 0, 0.637, 0.56 ]
+					},
+					{ "time": 2.3333, "angle": 0.3 }
+				]
+			},
+			"Layer 52": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.98,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": -0.01,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8333,
+						"angle": 1.97,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2.3333, "angle": 0.98 }
+				]
+			},
+			"Layer 50": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.2,
+						"curve": [ 0.381, 0.55, 0.742, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"angle": 0.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"angle": -1.17,
+						"curve": [ 0.245, 0, 0.637, 0.56 ]
+					},
+					{ "time": 2.3333, "angle": 0.2 }
+				]
+			},
+			"Layer793": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.05,
+						"curve": [ 0.376, 0.51, 0.749, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"angle": 0.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.7333,
+						"angle": -1.17,
+						"curve": [ 0.249, 0, 0.626, 0.51 ]
+					},
+					{ "time": 2.3333, "angle": -0.05 }
+				]
+			},
+			"tay": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.45,
+						"curve": [ 0.358, 0.43, 0.756, 1 ]
+					},
+					{
+						"time": 0.7333,
+						"angle": 0.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9,
+						"angle": -1.17,
+						"curve": [ 0.261, 0, 0.618, 0.44 ]
+					},
+					{ "time": 2.3333, "angle": -0.45 }
+				]
+			},
+			"Layer 14": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.2,
+						"curve": [ 0.381, 0.55, 0.742, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"angle": 0.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"angle": -1.17,
+						"curve": [ 0.245, 0, 0.637, 0.56 ]
+					},
+					{ "time": 2.3333, "angle": 0.2 }
+				]
+			},
+			"Layer 13": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.05,
+						"curve": [ 0.376, 0.51, 0.749, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"angle": 0.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.7333,
+						"angle": -1.17,
+						"curve": [ 0.249, 0, 0.626, 0.51 ]
+					},
+					{ "time": 2.3333, "angle": -0.05 }
+				]
+			},
+			"Layer98": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.45,
+						"curve": [ 0.358, 0.43, 0.756, 1 ]
+					},
+					{
+						"time": 0.7333,
+						"angle": 0.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9,
+						"angle": -1.17,
+						"curve": [ 0.261, 0, 0.618, 0.44 ]
+					},
+					{ "time": 2.3333, "angle": -0.45 }
+				]
+			},
+			"Layer 11": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.72,
+						"curve": [ 0.316, 0.27, 0.653, 0.62 ]
+					},
+					{
+						"time": 0.1667,
+						"angle": 1.47,
+						"curve": [ 0.353, 0.41, 0.757, 1 ]
+					},
+					{
+						"time": 0.9333,
+						"angle": -3.78,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.1,
+						"angle": 3.67,
+						"curve": [ 0.284, 0, 0.625, 0.38 ]
+					},
+					{ "time": 2.3333, "angle": 2.72 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 2.01,
+						"y": -1.47,
+						"curve": [ 0.326, 0.31, 0.663, 0.65 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 0.57,
+						"y": -0.5,
+						"curve": [ 0.374, 0.49, 0.751, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": -3.42,
+						"y": 2.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9333,
+						"x": 4.28,
+						"y": -3.01,
+						"curve": [ 0.264, 0, 0.618, 0.43 ]
+					},
+					{ "time": 2.3333, "x": 2.01, "y": -1.47 }
+				]
+			},
+			"Layer 17": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.72,
+						"curve": [ 0.316, 0.27, 0.653, 0.62 ]
+					},
+					{
+						"time": 0.1667,
+						"angle": 1.47,
+						"curve": [ 0.353, 0.41, 0.757, 1 ]
+					},
+					{
+						"time": 0.9333,
+						"angle": -3.78,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.1,
+						"angle": 3.67,
+						"curve": [ 0.284, 0, 0.625, 0.38 ]
+					},
+					{ "time": 2.3333, "angle": 2.72 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 2.01,
+						"y": -1.47,
+						"curve": [ 0.326, 0.31, 0.663, 0.65 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 0.57,
+						"y": -0.5,
+						"curve": [ 0.374, 0.49, 0.751, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": -3.42,
+						"y": 2.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9333,
+						"x": 4.28,
+						"y": -3.01,
+						"curve": [ 0.264, 0, 0.618, 0.43 ]
+					},
+					{ "time": 2.3333, "x": 2.01, "y": -1.47 }
+				]
+			},
+			"Layer 33": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.38,
+						"curve": [ 0.284, 0.15, 0.754, 1 ]
+					},
+					{
+						"time": 1.0667,
+						"angle": -0.84,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.2333,
+						"angle": 1.45,
+						"curve": [ 0.308, 0, 0.643, 0.35 ]
+					},
+					{ "time": 2.3333, "angle": 1.38 }
+				]
+			},
+			"Layer 23": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.45,
+						"curve": [ 0.271, 0, 0.619, 0.41 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 0.94,
+						"curve": [ 0.342, 0.36, 0.757, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"angle": -0.84,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.3333, "angle": 1.45 }
+				]
+			},
+			"Layer 24": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.08,
+						"curve": [ 0.378, 0.61, 0.721, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"angle": 1.45,
+						"curve": [ 0.316, 0, 0.65, 0.35 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 1.41,
+						"curve": [ 0.264, 0.09, 0.678, 0.71 ]
+					},
+					{
+						"time": 1.1667,
+						"angle": -0.47,
+						"curve": [ 0.378, 0.61, 0.721, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"angle": -0.84,
+						"curve": [ 0.242, 0, 0.672, 0.69 ]
+					},
+					{ "time": 2.3333, "angle": 1.08 }
+				]
+			},
+			"Layer 25": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.32,
+						"curve": [ 0.352, 0.4, 0.698, 0.77 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 3.66,
+						"curve": [ 0.372, 0.62, 0.711, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"angle": 4.84,
+						"curve": [ 0.248, 0, 0.63, 0.52 ]
+					},
+					{
+						"time": 1.1667,
+						"angle": -1.73,
+						"curve": [ 0.378, 0.52, 0.747, 1 ]
+					},
+					{
+						"time": 1.7,
+						"angle": -6.96,
+						"curve": [ 0.248, 0, 0.63, 0.52 ]
+					},
+					{ "time": 2.3333, "angle": -0.32 }
+				]
+			},
+			"Layer 34": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.88,
+						"curve": [ 0.375, 0.62, 0.716, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"angle": 1.45,
+						"curve": [ 0.243, 0, 0.658, 0.64 ]
+					},
+					{
+						"time": 1.0667,
+						"angle": -1.97,
+						"curve": [ 0.381, 0.59, 0.729, 1 ]
+					},
+					{
+						"time": 1.4,
+						"angle": -2.96,
+						"curve": [ 0.243, 0, 0.68, 0.71 ]
+					},
+					{ "time": 2.3333, "angle": 0.88 }
+				]
+			},
+			"Layer 35": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -5.17,
+						"curve": [ 0.376, 0.51, 0.749, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"angle": 3.6,
+						"curve": [ 0.255, 0, 0.62, 0.47 ]
+					},
+					{
+						"time": 1.0667,
+						"angle": -3.79,
+						"curve": [ 0.367, 0.46, 0.754, 1 ]
+					},
+					{
+						"time": 1.7333,
+						"angle": -14.62,
+						"curve": [ 0.249, 0, 0.626, 0.51 ]
+					},
+					{ "time": 2.3333, "angle": -5.17 }
+				]
+			},
+			"Layer 26": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -3.71,
+						"curve": [ 0.322, 0.3, 0.667, 0.67 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 4.52,
+						"curve": [ 0.381, 0.55, 0.742, 1 ]
+					},
+					{
+						"time": 0.8,
+						"angle": 12.66,
+						"curve": [ 0.267, 0, 0.618, 0.42 ]
+					},
+					{
+						"time": 1.1667,
+						"angle": 6.9,
+						"curve": [ 0.348, 0.39, 0.757, 1 ]
+					},
+					{
+						"time": 1.9667,
+						"angle": -9.47,
+						"curve": [ 0.267, 0, 0.618, 0.42 ]
+					},
+					{ "time": 2.3333, "angle": -3.71 }
+				]
+			},
+			"Folder20": {
+				"rotate": [
+					{ "time": 0, "angle": 1.12 },
+					{
+						"time": 0.1667,
+						"angle": 1.45,
+						"curve": [ 0.295, 0, 0.633, 0.37 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 1.27,
+						"curve": [ 0.303, 0.22, 0.756, 1 ]
+					},
+					{ "time": 1.3333, "angle": -0.84 },
+					{ "time": 2.3333, "angle": 1.12 }
+				]
+			},
+			"Folder21": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.71,
+						"curve": [ 0.365, 0.46, 0.712, 0.85 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 1.38,
+						"curve": [ 0.357, 0.65, 0.692, 1 ]
+					},
+					{
+						"time": 0.4333,
+						"angle": 1.45,
+						"curve": [ 0.242, 0, 0.672, 0.69 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": -0.47,
+						"curve": [ 0.378, 0.61, 0.721, 1 ]
+					},
+					{
+						"time": 1.6,
+						"angle": -0.84,
+						"curve": [ 0.244, 0, 0.642, 0.57 ]
+					},
+					{ "time": 2.3333, "angle": 0.71 }
+				]
+			},
+			"Folder22": {
+				"rotate": [
+					{ "time": 0, "angle": -2.24 },
+					{ "time": 0.3333, "angle": 1.13 },
+					{
+						"time": 0.7,
+						"angle": 4.84,
+						"curve": [ 0.248, 0, 0.63, 0.52 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": -1.73,
+						"curve": [ 0.378, 0.52, 0.747, 1 ]
+					},
+					{ "time": 1.8667, "angle": -6.96 },
+					{ "time": 2.3333, "angle": -2.24 }
+				]
+			},
+			"Folder23": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -7.26,
+						"curve": [ 0.302, 0.23, 0.648, 0.6 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 0.34,
+						"curve": [ 0.37, 0.48, 0.752, 1 ]
+					},
+					{
+						"time": 0.9667,
+						"angle": 12.66,
+						"curve": [ 0.267, 0, 0.618, 0.42 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 6.9,
+						"curve": [ 0.348, 0.39, 0.757, 1 ]
+					},
+					{
+						"time": 2.1333,
+						"angle": -9.47,
+						"curve": [ 0.289, 0, 0.628, 0.38 ]
+					},
+					{ "time": 2.3333, "angle": -7.26 }
+				]
+			},
+			"Folder19": {
+				"rotate": [
+					{ "time": 0, "angle": -9.41 },
+					{
+						"time": 0.8333,
+						"angle": 3.6,
+						"curve": [ 0.255, 0, 0.62, 0.47 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": -3.79,
+						"curve": [ 0.367, 0.46, 0.754, 1 ]
+					},
+					{ "time": 2, "angle": -14.62 },
+					{ "time": 2.3333, "angle": -9.41 }
+				]
+			},
+			"Folder18": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.34,
+						"curve": [ 0.38, 0.53, 0.745, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 1.45,
+						"curve": [ 0.243, 0, 0.658, 0.64 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": -1.97,
+						"curve": [ 0.381, 0.59, 0.729, 1 ]
+					},
+					{
+						"time": 1.6667,
+						"angle": -2.96,
+						"curve": [ 0.246, 0, 0.633, 0.54 ]
+					},
+					{ "time": 2.3333, "angle": -0.34 }
+				]
+			},
+			"Folder17": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.27,
+						"curve": [ 0.367, 0.63, 0.705, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"angle": 1.45,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": -0.84,
+						"curve": [ 0.244, 0, 0.697, 0.78 ]
+					},
+					{ "time": 2.3333, "angle": 1.27 }
+				]
+			},
+			"Layer 30": {
+				"rotate": [
+					{ "time": 0, "angle": 0.62 },
+					{ "time": 0.2667, "angle": 2.48 },
+					{
+						"time": 0.4333,
+						"angle": 3.64,
+						"curve": [ 0.295, 0, 0.633, 0.37 ]
+					},
+					{
+						"time": 0.6,
+						"angle": 3.01,
+						"curve": [ 0.303, 0.22, 0.756, 1 ]
+					},
+					{ "time": 1.6, "angle": -4.47 },
+					{ "time": 2.3333, "angle": 0.62 }
+				]
+			},
+			"Layer 32": {
+				"rotate": [
+					{ "time": 0, "angle": -7.69 },
+					{ "time": 0.2667, "angle": -2.89 },
+					{ "time": 0.6, "angle": 3.12 },
+					{
+						"time": 1.1,
+						"angle": 12.13,
+						"curve": [ 0.255, 0, 0.62, 0.47 ]
+					},
+					{
+						"time": 1.6,
+						"angle": 3.6,
+						"curve": [ 0.367, 0.46, 0.754, 1 ]
+					},
+					{ "time": 2.2667, "angle": -8.9 },
+					{ "time": 2.3333, "angle": -7.69 }
+				]
+			},
+			"Layer 31": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -1.87,
+						"curve": [ 0.325, 0.31, 0.666, 0.67 ]
+					},
+					{
+						"time": 0.2667,
+						"angle": 0.76,
+						"curve": [ 0.356, 0.41, 0.702, 0.79 ]
+					},
+					{ "time": 0.6, "angle": 3.57 },
+					{
+						"time": 0.7667,
+						"angle": 4.25,
+						"curve": [ 0.243, 0, 0.658, 0.64 ]
+					},
+					{
+						"time": 1.6,
+						"angle": -2.51,
+						"curve": [ 0.381, 0.59, 0.729, 1 ]
+					},
+					{
+						"time": 1.9333,
+						"angle": -4.47,
+						"curve": [ 0.264, 0, 0.618, 0.43 ]
+					},
+					{ "time": 2.3333, "angle": -1.87 }
+				]
+			},
+			"Layer 29": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -5.53,
+						"curve": [ 0.313, 0.27, 0.654, 0.63 ]
+					},
+					{
+						"time": 0.2667,
+						"angle": 0.49,
+						"curve": [ 0.34, 0.35, 0.686, 0.73 ]
+					},
+					{
+						"time": 0.6,
+						"angle": 8.08,
+						"curve": [ 0.38, 0.6, 0.725, 1 ]
+					},
+					{
+						"time": 0.9,
+						"angle": 12.13,
+						"curve": [ 0.255, 0, 0.62, 0.47 ]
+					},
+					{
+						"time": 1.4,
+						"angle": 3.6,
+						"curve": [ 0.367, 0.46, 0.754, 1 ]
+					},
+					{
+						"time": 2.0667,
+						"angle": -8.9,
+						"curve": [ 0.279, 0, 0.622, 0.39 ]
+					},
+					{ "time": 2.3333, "angle": -5.53 }
+				]
+			},
+			"Layer 28": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.08,
+						"curve": [ 0.343, 0.36, 0.684, 0.72 ]
+					},
+					{
+						"time": 0.2667,
+						"angle": 2.57,
+						"curve": [ 0.38, 0.6, 0.725, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"angle": 4.25,
+						"curve": [ 0.324, 0, 0.658, 0.34 ]
+					},
+					{
+						"time": 0.6,
+						"angle": 4.18,
+						"curve": [ 0.253, 0.05, 0.662, 0.65 ]
+					},
+					{
+						"time": 1.4,
+						"angle": -2.51,
+						"curve": [ 0.381, 0.59, 0.729, 1 ]
+					},
+					{
+						"time": 1.7333,
+						"angle": -4.47,
+						"curve": [ 0.249, 0, 0.626, 0.51 ]
+					},
+					{ "time": 2.3333, "angle": 0.08 }
+				]
+			},
+			"Layer 27": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.58,
+						"curve": [ 0.375, 0.62, 0.716, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"angle": 3.64,
+						"curve": [ 0.324, 0, 0.658, 0.34 ]
+					},
+					{
+						"time": 0.2667,
+						"angle": 3.6,
+						"curve": [ 0.277, 0.07, 0.625, 0.47 ]
+					},
+					{
+						"time": 0.6,
+						"angle": 1.53,
+						"curve": [ 0.348, 0.39, 0.757, 1 ]
+					},
+					{
+						"time": 1.4,
+						"angle": -4.47,
+						"curve": [ 0.243, 0, 0.68, 0.71 ]
+					},
+					{ "time": 2.3333, "angle": 2.58 }
+				]
+			},
+			"Folder47": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.55,
+						"curve": [ 0.38, 0.53, 0.745, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": -2.51,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6667,
+						"angle": 2.33,
+						"curve": [ 0.246, 0, 0.633, 0.54 ]
+					},
+					{ "time": 2.3333, "angle": -0.55 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.999,
+						"y": 1.001,
+						"curve": [ 0.367, 0.46, 0.754, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.006,
+						"y": 1.012,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8333,
+						"x": 0.994,
+						"y": 0.994,
+						"curve": [ 0.255, 0, 0.62, 0.47 ]
+					},
+					{ "time": 2.3333, "x": 0.999, "y": 1.001 }
+				]
+			},
+			"Folder48": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.73,
+						"curve": [ 0.319, 0.29, 0.681, 0.71 ]
+					},
+					{
+						"time": 0.5,
+						"angle": -3.92,
+						"curve": [ 0.381, 0.59, 0.729, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"angle": -5.83,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2,
+						"angle": 2.66,
+						"curve": [ 0.271, 0, 0.619, 0.41 ]
+					},
+					{ "time": 2.3333, "angle": 0.73 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.995,
+						"y": 0.984,
+						"curve": [ 0.289, 0.19, 0.673, 0.69 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.003,
+						"y": 1.005,
+						"curve": [ 0.381, 0.59, 0.729, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 1.006,
+						"y": 1.012,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.1667,
+						"x": 0.994,
+						"y": 0.982,
+						"curve": [ 0.295, 0, 0.633, 0.37 ]
+					},
+					{ "time": 2.3333, "x": 0.995, "y": 0.984 }
+				]
+			},
+			"Folder49": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 4.99,
+						"curve": [ 0.255, 0, 0.62, 0.47 ]
+					},
+					{
+						"time": 0.5,
+						"angle": -1.97,
+						"curve": [ 0.367, 0.46, 0.754, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"angle": -12.16,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.3333, "angle": 4.99 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.929,
+						"y": 0.958,
+						"curve": [ 0.367, 0.63, 0.705, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 0.922,
+						"y": 0.951,
+						"curve": [ 0.255, 0, 0.62, 0.47 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 0.956,
+						"y": 0.985,
+						"curve": [ 0.367, 0.46, 0.754, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"x": 1.006,
+						"y": 1.035,
+						"curve": [ 0.244, 0, 0.697, 0.78 ]
+					},
+					{ "time": 2.3333, "x": 0.929, "y": 0.958 }
+				]
+			},
+			"Layer 3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.44,
+						"curve": [ 0.381, 0.59, 0.729, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": -0.92,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 1.22,
+						"curve": [ 0.243, 0, 0.658, 0.64 ]
+					},
+					{ "time": 2.3333, "angle": -0.44 }
+				]
+			},
+			"Layer 5": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.01,
+						"curve": [ 0.352, 0.4, 0.698, 0.77 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": -0.7,
+						"curve": [ 0.372, 0.62, 0.711, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"angle": -0.92,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.7,
+						"angle": 1.22,
+						"curve": [ 0.248, 0, 0.63, 0.52 ]
+					},
+					{ "time": 2.3333, "angle": 0.01 }
+				]
+			},
+			"Layer 6": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.3,
+						"curve": [ 0.329, 0.32, 0.675, 0.69 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": -0.73,
+						"curve": [ 0.382, 0.57, 0.736, 1 ]
+					},
+					{
+						"time": 0.7333,
+						"angle": -1.54,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9,
+						"angle": 1.22,
+						"curve": [ 0.261, 0, 0.618, 0.44 ]
+					},
+					{ "time": 2.3333, "angle": 0.3 }
+				]
+			},
+			"Layer 8": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.84,
+						"curve": [ 0.306, 0.24, 0.652, 0.62 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": -0.2,
+						"curve": [ 0.374, 0.49, 0.751, 1 ]
+					},
+					{
+						"time": 0.9333,
+						"angle": -1.73,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.1,
+						"angle": 1.22,
+						"curve": [ 0.284, 0, 0.625, 0.38 ]
+					},
+					{ "time": 2.3333, "angle": 0.84 }
+				]
+			},
+			"Layer 9": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.57,
+						"curve": [ 0.342, 0.66, 0.676, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"angle": 1.61,
+						"curve": [ 0.275, 0, 0.62, 0.4 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 0.82,
+						"curve": [ 0.335, 0.34, 0.758, 1 ]
+					},
+					{
+						"time": 1.2,
+						"angle": -2.5,
+						"curve": [ 0.248, 0, 0.738, 0.95 ]
+					},
+					{ "time": 2.3333, "angle": 1.57 }
+				]
+			},
+			"Layer 19": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 5.37,
+						"curve": [ 0.375, 0.62, 0.716, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"angle": 6.97,
+						"curve": [ 0.308, 0, 0.643, 0.35 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 6.59,
+						"curve": [ 0.284, 0.15, 0.754, 1 ]
+					},
+					{
+						"time": 1.4,
+						"angle": -5.36,
+						"curve": [ 0.243, 0, 0.68, 0.71 ]
+					},
+					{ "time": 2.3333, "angle": 5.37 }
+				]
+			},
+			"Layer 20": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 5.23,
+						"curve": [ 0.382, 0.58, 0.733, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 9.47,
+						"curve": [ 0.357, 0.65, 0.692, 1 ]
+					},
+					{
+						"time": 0.4333,
+						"angle": 9.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6,
+						"angle": -6.95,
+						"curve": [ 0.243, 0, 0.653, 0.62 ]
+					},
+					{ "time": 2.3333, "angle": 5.23 }
+				]
+			},
+			"Layer 21": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 3.04,
+						"curve": [ 0.34, 0.35, 0.686, 0.73 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 10.05,
+						"curve": [ 0.38, 0.6, 0.725, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"angle": 13.78,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8,
+						"angle": -5.62,
+						"curve": [ 0.253, 0, 0.622, 0.48 ]
+					},
+					{ "time": 2.3333, "angle": 3.04 }
+				]
+			},
+			"Layer 22": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.78,
+						"curve": [ 0.318, 0.29, 0.664, 0.66 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 9.88,
+						"curve": [ 0.38, 0.53, 0.745, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"angle": 21.59,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2,
+						"angle": -7.28,
+						"curve": [ 0.271, 0, 0.619, 0.41 ]
+					},
+					{ "time": 2.3333, "angle": -0.78 }
+				]
+			},
+			"Layer 54": {
+				"scale": [
+					{
+						"time": 2,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.159, 0.15, 0.576, 1 ]
+					},
+					{
+						"time": 2.1333,
+						"x": 1,
+						"y": -0.065,
+						"curve": [ 0.574, 0.01, 0.809, 0.82 ]
+					},
+					{ "time": 2.3333, "x": 1, "y": 1 }
+				]
+			},
+			"Layer 53": {
+				"scale": [
+					{
+						"time": 2,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.159, 0.15, 0.576, 1 ]
+					},
+					{
+						"time": 2.1333,
+						"x": 1,
+						"y": -0.065,
+						"curve": [ 0.574, 0.01, 0.809, 0.82 ]
+					},
+					{ "time": 2.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

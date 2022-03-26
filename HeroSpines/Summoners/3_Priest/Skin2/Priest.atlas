@@ -1,0 +1,307 @@
+
+Priest.png
+size: 1937,665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/Book_Glow
+  rotate: false
+  xy: 917, 181
+  size: 250, 155
+  orig: 250, 155
+  offset: 0, 0
+  index: -1
+fx/aura (79)
+  rotate: false
+  xy: 1495, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/glow (107)
+  rotate: false
+  xy: 1253, 191
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1625, 201
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/Layer 22a
+  rotate: false
+  xy: 2, 38
+  size: 276, 625
+  orig: 276, 625
+  offset: 0, 0
+  index: -1
+skin_2/Layer 23
+  rotate: false
+  xy: 280, 143
+  size: 343, 520
+  orig: 343, 520
+  offset: 0, 0
+  index: -1
+skin_2/Layer 24
+  rotate: false
+  xy: 1405, 193
+  size: 77, 163
+  orig: 77, 163
+  offset: 0, 0
+  index: -1
+skin_2/Layer 25a
+  rotate: true
+  xy: 1702, 23
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+skin_2/Layer 25b
+  rotate: false
+  xy: 280, 40
+  size: 35, 101
+  orig: 35, 101
+  offset: 0, 0
+  index: -1
+skin_2/Layer 26
+  rotate: true
+  xy: 471, 13
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+skin_2/Layer 27
+  rotate: false
+  xy: 1484, 187
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+skin_2/Layer 30
+  rotate: false
+  xy: 1637, 438
+  size: 285, 225
+  orig: 285, 225
+  offset: 0, 0
+  index: -1
+skin_2/Layer 31
+  rotate: false
+  xy: 1251, 6
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+skin_2/Layer 66 copy 2
+  rotate: false
+  xy: 286, 2
+  size: 97, 36
+  orig: 97, 36
+  offset: 0, 0
+  index: -1
+skin_2/Layer61
+  rotate: false
+  xy: 625, 175
+  size: 290, 488
+  orig: 290, 488
+  offset: 0, 0
+  index: -1
+skin_2/Layer853
+  rotate: true
+  xy: 1625, 115
+  size: 84, 241
+  orig: 84, 241
+  offset: 0, 0
+  index: -1
+skin_2/Layer895
+  rotate: true
+  xy: 1534, 161
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+skin_2/Set11
+  rotate: false
+  xy: 1422, 367
+  size: 213, 296
+  orig: 213, 296
+  offset: 0, 0
+  index: -1
+skin_2/Set13
+  rotate: true
+  xy: 1050, 4
+  size: 175, 199
+  orig: 175, 199
+  offset: 0, 0
+  index: -1
+skin_2/Set7
+  rotate: false
+  xy: 1158, 358
+  size: 262, 305
+  orig: 262, 305
+  offset: 0, 0
+  index: -1
+skin_2/lv3
+  rotate: true
+  xy: 1625, 278
+  size: 84, 250
+  orig: 84, 250
+  offset: 0, 0
+  index: -1
+skin_2/lv3a
+  rotate: false
+  xy: 1495, 3
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+skin_2/nguc
+  rotate: true
+  xy: 1621, 8
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+skin_2/sach
+  rotate: false
+  xy: 673, 9
+  size: 259, 164
+  orig: 259, 164
+  offset: 0, 0
+  index: -1
+skin_2/ta
+  rotate: true
+  xy: 917, 338
+  size: 325, 239
+  orig: 325, 239
+  offset: 0, 0
+  index: -1
+skin_3/Layer 14
+  rotate: false
+  xy: 22, 3
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin_3/Layer 15
+  rotate: true
+  xy: 1572, 82
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+skin_3/Layer 16
+  rotate: false
+  xy: 1158, 342
+  size: 53, 14
+  orig: 53, 14
+  offset: 0, 0
+  index: -1
+skin_3/Layer 17
+  rotate: false
+  xy: 1213, 343
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+skin_3/Layer 18
+  rotate: true
+  xy: 2, 2
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+skin_3/Layer 21
+  rotate: true
+  xy: 1572, 25
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+skin_3/Layer 28
+  rotate: false
+  xy: 1871, 95
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+skin_3/Layer 29
+  rotate: true
+  xy: 317, 41
+  size: 100, 58
+  orig: 100, 58
+  offset: 0, 0
+  index: -1
+skin_3/Layer 65
+  rotate: false
+  xy: 625, 149
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+skin_3/Layer111
+  rotate: false
+  xy: 934, 3
+  size: 114, 176
+  orig: 114, 176
+  offset: 0, 0
+  index: -1
+skin_3/Layer309
+  rotate: true
+  xy: 431, 11
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+skin_3/Layer66
+  rotate: false
+  xy: 1871, 213
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+skin_3/Layer76
+  rotate: false
+  xy: 385, 6
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+skin_3/Layer892
+  rotate: true
+  xy: 1637, 364
+  size: 72, 277
+  orig: 72, 277
+  offset: 0, 0
+  index: -1
+skin_3/Layer901
+  rotate: false
+  xy: 377, 43
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+skin_3/Layer903
+  rotate: true
+  xy: 1877, 272
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+skin_3/Layer94
+  rotate: false
+  xy: 1169, 186
+  size: 82, 154
+  orig: 82, 154
+  offset: 0, 0
+  index: -1
+skin_3/sachb
+  rotate: true
+  xy: 77, 6
+  size: 30, 207
+  orig: 30, 207
+  offset: 0, 0
+  index: -1

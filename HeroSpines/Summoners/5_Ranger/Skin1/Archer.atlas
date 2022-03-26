@@ -1,0 +1,216 @@
+
+Archer.png
+size: 1996,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 548, 94
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/arrow
+  rotate: true
+  xy: 832, 345
+  size: 52, 490
+  orig: 52, 490
+  offset: 0, 0
+  index: -1
+skin_1/chanL1
+  rotate: true
+  xy: 1256, 47
+  size: 81, 149
+  orig: 81, 149
+  offset: 0, 0
+  index: -1
+skin_1/chanL2
+  rotate: false
+  xy: 1775, 71
+  size: 108, 133
+  orig: 108, 133
+  offset: 0, 0
+  index: -1
+skin_1/chanR1
+  rotate: true
+  xy: 957, 28
+  size: 122, 157
+  orig: 122, 157
+  offset: 0, 0
+  index: -1
+skin_1/chanR2
+  rotate: false
+  xy: 2, 2
+  size: 118, 160
+  orig: 118, 160
+  offset: 0, 0
+  index: -1
+skin_1/coao1
+  rotate: false
+  xy: 1522, 3
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+skin_1/cungten
+  rotate: true
+  xy: 2, 171
+  size: 226, 828
+  orig: 226, 828
+  offset: 0, 0
+  index: -1
+skin_1/daycung
+  rotate: true
+  xy: 2, 164
+  size: 5, 544
+  orig: 5, 544
+  offset: 0, 0
+  index: -1
+skin_1/eye
+  rotate: false
+  xy: 1256, 15
+  size: 99, 30
+  orig: 99, 30
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 1160, 143
+  size: 165, 200
+  orig: 165, 200
+  offset: 0, 0
+  index: -1
+skin_1/mom1
+  rotate: false
+  xy: 1357, 25
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+skin_1/ongten1
+  rotate: false
+  xy: 832, 152
+  size: 326, 191
+  orig: 326, 191
+  offset: 0, 0
+  index: -1
+skin_1/ongten2
+  rotate: false
+  xy: 1612, 5
+  size: 88, 95
+  orig: 88, 95
+  offset: 0, 0
+  index: -1
+skin_1/quan
+  rotate: false
+  xy: 1611, 102
+  size: 162, 102
+  orig: 162, 102
+  offset: 0, 0
+  index: -1
+skin_1/tayL1
+  rotate: false
+  xy: 1883, 227
+  size: 99, 170
+  orig: 99, 170
+  offset: 0, 0
+  index: -1
+skin_1/tayL2
+  rotate: true
+  xy: 1407, 40
+  size: 88, 113
+  orig: 88, 113
+  offset: 0, 0
+  index: -1
+skin_1/tayL3
+  rotate: true
+  xy: 1702, 34
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+skin_1/tayR1
+  rotate: true
+  xy: 1116, 7
+  size: 134, 138
+  orig: 134, 138
+  offset: 0, 0
+  index: -1
+skin_1/tayR2
+  rotate: false
+  xy: 1522, 97
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+skin_1/tayR3a
+  rotate: true
+  xy: 1775, 7
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+skin_1/tayR3b
+  rotate: false
+  xy: 1702, 2
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+skin_1/thatlung
+  rotate: false
+  xy: 122, 18
+  size: 215, 144
+  orig: 215, 144
+  offset: 0, 0
+  index: -1
+skin_1/toc1
+  rotate: true
+  xy: 1611, 206
+  size: 191, 270
+  orig: 191, 270
+  offset: 0, 0
+  index: -1
+skin_1/toc2
+  rotate: true
+  xy: 794, 23
+  size: 127, 161
+  orig: 127, 161
+  offset: 0, 0
+  index: -1
+skin_1/toc3
+  rotate: true
+  xy: 548, 40
+  size: 52, 228
+  orig: 52, 228
+  offset: 0, 0
+  index: -1
+skin_1/toc4
+  rotate: false
+  xy: 1885, 69
+  size: 109, 156
+  orig: 109, 156
+  offset: 0, 0
+  index: -1
+skin_1/torso
+  rotate: true
+  xy: 1327, 182
+  size: 215, 282
+  orig: 215, 282
+  offset: 0, 0
+  index: -1
+skin_1/vataoL
+  rotate: true
+  xy: 1327, 130
+  size: 50, 190
+  orig: 50, 190
+  offset: 0, 0
+  index: -1
+skin_1/vataoR
+  rotate: true
+  xy: 339, 35
+  size: 127, 207
+  orig: 127, 207
+  offset: 0, 0
+  index: -1

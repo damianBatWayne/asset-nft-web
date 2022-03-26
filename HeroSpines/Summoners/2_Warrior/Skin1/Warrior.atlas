@@ -1,0 +1,237 @@
+
+Warrior.png
+size: 1371,778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/Glow
+  rotate: true
+  xy: 1090, 294
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+fx/Lion
+  rotate: false
+  xy: 835, 129
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+fx/Lion2
+  rotate: false
+  xy: 986, 132
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+fx/glow (113)
+  rotate: false
+  xy: 1119, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/glow (148)
+  rotate: false
+  xy: 1319, 351
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 568, 393
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/aochoang
+  rotate: false
+  xy: 213, 386
+  size: 353, 390
+  orig: 353, 390
+  offset: 0, 0
+  index: -1
+skin_1/chanL1
+  rotate: false
+  xy: 1212, 178
+  size: 77, 123
+  orig: 77, 123
+  offset: 0, 0
+  index: -1
+skin_1/chanL2
+  rotate: true
+  xy: 1195, 303
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+skin_1/chanR1
+  rotate: true
+  xy: 827, 14
+  size: 113, 149
+  orig: 113, 149
+  offset: 0, 0
+  index: -1
+skin_1/chanR2
+  rotate: true
+  xy: 986, 2
+  size: 128, 131
+  orig: 128, 131
+  offset: 0, 0
+  index: -1
+skin_1/chechym
+  rotate: true
+  xy: 2, 23
+  size: 97, 189
+  orig: 97, 189
+  offset: 0, 0
+  index: -1
+skin_1/eye
+  rotate: false
+  xy: 396, 2
+  size: 80, 31
+  orig: 80, 31
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 513, 2
+  size: 153, 172
+  orig: 153, 172
+  offset: 0, 0
+  index: -1
+skin_1/giapco
+  rotate: true
+  xy: 1137, 154
+  size: 138, 73
+  orig: 138, 73
+  offset: 0, 0
+  index: -1
+skin_1/giapvaiL1
+  rotate: false
+  xy: 835, 281
+  size: 137, 187
+  orig: 137, 187
+  offset: 0, 0
+  index: -1
+skin_1/giapvaiL2
+  rotate: false
+  xy: 1291, 186
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+skin_1/giapvaiL3
+  rotate: false
+  xy: 974, 284
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+skin_1/giapvaiR1
+  rotate: false
+  xy: 213, 163
+  size: 298, 221
+  orig: 298, 221
+  offset: 0, 0
+  index: -1
+skin_1/giapvaiR2
+  rotate: true
+  xy: 668, 3
+  size: 184, 157
+  orig: 184, 157
+  offset: 0, 0
+  index: -1
+skin_1/giapvaiR3
+  rotate: false
+  xy: 1163, 403
+  size: 193, 161
+  orig: 193, 161
+  offset: 0, 0
+  index: -1
+skin_1/mom
+  rotate: true
+  xy: 1319, 303
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+skin_1/mom2
+  rotate: false
+  xy: 1249, 52
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skin_1/tayL1
+  rotate: false
+  xy: 983, 483
+  size: 178, 293
+  orig: 178, 293
+  offset: 0, 0
+  index: -1
+skin_1/tayL3
+  rotate: false
+  xy: 1249, 90
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+skin_1/tayR1
+  rotate: true
+  xy: 654, 189
+  size: 202, 179
+  orig: 202, 179
+  offset: 0, 0
+  index: -1
+skin_1/tayR3
+  rotate: true
+  xy: 396, 35
+  size: 126, 108
+  orig: 126, 108
+  offset: 0, 0
+  index: -1
+skin_1/thatlung
+  rotate: true
+  xy: 513, 176
+  size: 208, 139
+  orig: 208, 139
+  offset: 0, 0
+  index: -1
+skin_1/toc
+  rotate: false
+  xy: 213, 30
+  size: 181, 131
+  orig: 181, 131
+  offset: 0, 0
+  index: -1
+skin_1/torso1
+  rotate: true
+  xy: 568, 470
+  size: 306, 413
+  orig: 306, 413
+  offset: 0, 0
+  index: -1
+skin_1/vai2
+  rotate: true
+  xy: 983, 400
+  size: 81, 156
+  orig: 81, 156
+  offset: 0, 0
+  index: -1
+skin_1/vaico
+  rotate: true
+  xy: 1163, 566
+  size: 210, 192
+  orig: 210, 192
+  offset: 0, 0
+  index: -1
+skin_1/weapon
+  rotate: false
+  xy: 2, 122
+  size: 209, 654
+  orig: 209, 654
+  offset: 0, 0
+  index: -1

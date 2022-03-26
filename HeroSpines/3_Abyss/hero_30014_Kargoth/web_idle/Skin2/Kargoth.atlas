@@ -1,0 +1,643 @@
+
+Kargoth.png
+size: 2017,1593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kargoth/Atlas_axe_1/Kargoth_export_riu10000
+  rotate: false
+  xy: 855, 905
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10001
+  rotate: false
+  xy: 1007, 905
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10002
+  rotate: false
+  xy: 1159, 905
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10003
+  rotate: false
+  xy: 702, 738
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10004
+  rotate: false
+  xy: 1311, 891
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10005
+  rotate: false
+  xy: 1463, 891
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10006
+  rotate: false
+  xy: 1615, 891
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10007
+  rotate: false
+  xy: 1767, 891
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10008
+  rotate: false
+  xy: 761, 157
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10009
+  rotate: false
+  xy: 756, 10
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10010
+  rotate: true
+  xy: 789, 586
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10011
+  rotate: true
+  xy: 877, 304
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10012
+  rotate: false
+  xy: 913, 157
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10013
+  rotate: false
+  xy: 908, 10
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10014
+  rotate: false
+  xy: 854, 738
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10015
+  rotate: false
+  xy: 1006, 758
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10016
+  rotate: false
+  xy: 1158, 758
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10017
+  rotate: false
+  xy: 1310, 744
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10018
+  rotate: false
+  xy: 1462, 744
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10019
+  rotate: false
+  xy: 1614, 744
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10020
+  rotate: false
+  xy: 1766, 744
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10021
+  rotate: true
+  xy: 936, 586
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_1/Kargoth_export_riu10022
+  rotate: false
+  xy: 1083, 611
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20000
+  rotate: false
+  xy: 1235, 598
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20001
+  rotate: false
+  xy: 1387, 598
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20002
+  rotate: false
+  xy: 1539, 598
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20003
+  rotate: false
+  xy: 1691, 598
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20004
+  rotate: false
+  xy: 1843, 598
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20005
+  rotate: false
+  xy: 1083, 465
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20006
+  rotate: false
+  xy: 1235, 452
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20007
+  rotate: false
+  xy: 1387, 452
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20008
+  rotate: false
+  xy: 1539, 452
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20009
+  rotate: false
+  xy: 1691, 452
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20010
+  rotate: false
+  xy: 1843, 452
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20011
+  rotate: true
+  xy: 1024, 309
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20012
+  rotate: true
+  xy: 1065, 157
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20013
+  rotate: false
+  xy: 1060, 11
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20014
+  rotate: false
+  xy: 1317, 306
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20015
+  rotate: false
+  xy: 1469, 306
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20016
+  rotate: false
+  xy: 1621, 306
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20017
+  rotate: false
+  xy: 1773, 306
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20018
+  rotate: false
+  xy: 1211, 160
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20019
+  rotate: false
+  xy: 1363, 160
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20020
+  rotate: false
+  xy: 1515, 160
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20021
+  rotate: false
+  xy: 1667, 160
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Kargoth/Atlas_axe_2/Kargoth_v20022
+  rotate: false
+  xy: 1212, 14
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+SlashFire/Slash_00000
+  rotate: false
+  xy: 507, 1059
+  size: 250, 244
+  orig: 250, 244
+  offset: 0, 0
+  index: -1
+SlashFire/Slash_00002
+  rotate: false
+  xy: 759, 1052
+  size: 250, 244
+  orig: 250, 244
+  offset: 0, 0
+  index: -1
+SlashFire/Slash_00004
+  rotate: false
+  xy: 1011, 1052
+  size: 250, 244
+  orig: 250, 244
+  offset: 0, 0
+  index: -1
+SlashFire/Slash_00006
+  rotate: false
+  xy: 1396, 1038
+  size: 250, 244
+  orig: 250, 244
+  offset: 0, 0
+  index: -1
+SlashFire/Slash_00008
+  rotate: false
+  xy: 1648, 1038
+  size: 250, 244
+  orig: 250, 244
+  offset: 0, 0
+  index: -1
+SlashFire/Slash_00010
+  rotate: true
+  xy: 363, 705
+  size: 250, 244
+  orig: 250, 244
+  offset: 0, 0
+  index: -1
+SlashFire/Slash_00012
+  rotate: true
+  xy: 297, 417
+  size: 250, 244
+  orig: 250, 244
+  offset: 0, 0
+  index: -1
+SlashFire/Slash_00014
+  rotate: false
+  xy: 297, 171
+  size: 250, 244
+  orig: 250, 244
+  offset: 0, 0
+  index: -1
+SlashFire/Slash_00016
+  rotate: true
+  xy: 543, 453
+  size: 250, 244
+  orig: 250, 244
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 431, 982
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/armor_hand
+  rotate: true
+  xy: 1900, 1194
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+skin_2/armor_hand_L
+  rotate: true
+  xy: 1170, 317
+  size: 133, 145
+  orig: 133, 145
+  offset: 0, 0
+  index: -1
+skin_2/armor_hand_R
+  rotate: false
+  xy: 444, 3
+  size: 158, 166
+  orig: 158, 166
+  offset: 0, 0
+  index: -1
+skin_2/armor_leg_L
+  rotate: false
+  xy: 1364, 26
+  size: 142, 132
+  orig: 142, 132
+  offset: 0, 0
+  index: -1
+skin_2/armor_leg_R
+  rotate: false
+  xy: 1508, 47
+  size: 117, 111
+  orig: 117, 111
+  offset: 0, 0
+  index: -1
+skin_2/axes_L
+  rotate: false
+  xy: 2, 957
+  size: 427, 268
+  orig: 427, 268
+  offset: 0, 0
+  index: -1
+skin_2/axes_R
+  rotate: false
+  xy: 1215, 1330
+  size: 282, 261
+  orig: 282, 261
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: false
+  xy: 2, 1227
+  size: 503, 364
+  orig: 503, 364
+  offset: 0, 0
+  index: -1
+skin_2/body_frame
+  rotate: false
+  xy: 2, 323
+  size: 293, 344
+  orig: 293, 344
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: false
+  xy: 2, 669
+  size: 359, 286
+  orig: 359, 286
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_01
+  rotate: false
+  xy: 1835, 1329
+  size: 177, 262
+  orig: 177, 262
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_02
+  rotate: false
+  xy: 929, 461
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_03
+  rotate: false
+  xy: 1627, 50
+  size: 105, 108
+  orig: 105, 108
+  offset: 0, 0
+  index: -1
+skin_2/hand_R
+  rotate: true
+  xy: 1900, 1111
+  size: 81, 115
+  orig: 81, 115
+  offset: 0, 0
+  index: -1
+skin_2/ho
+  rotate: false
+  xy: 1499, 1284
+  size: 273, 136
+  orig: 273, 136
+  offset: 0, 0
+  index: -1
+skin_2/khuy
+  rotate: false
+  xy: 746, 304
+  size: 129, 147
+  orig: 129, 147
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_01
+  rotate: false
+  xy: 249, 4
+  size: 193, 165
+  orig: 193, 165
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_02
+  rotate: true
+  xy: 431, 1109
+  size: 116, 61
+  orig: 116, 61
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_03
+  rotate: false
+  xy: 702, 885
+  size: 151, 165
+  orig: 151, 165
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_01
+  rotate: false
+  xy: 549, 303
+  size: 195, 148
+  orig: 195, 148
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_02
+  rotate: false
+  xy: 609, 720
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_03
+  rotate: true
+  xy: 604, 8
+  size: 171, 150
+  orig: 171, 150
+  offset: 0, 0
+  index: -1
+skin_2/long
+  rotate: false
+  xy: 789, 456
+  size: 138, 128
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: false
+  xy: 431, 1059
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_3
+  rotate: false
+  xy: 1396, 1284
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 1311, 1038
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_2
+  rotate: false
+  xy: 1900, 1061
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: false
+  xy: 507, 1305
+  size: 360, 286
+  orig: 360, 286
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: true
+  xy: 609, 792
+  size: 188, 91
+  orig: 188, 91
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_3
+  rotate: true
+  xy: 869, 1298
+  size: 293, 344
+  orig: 293, 344
+  offset: 0, 0
+  index: -1
+skin_2/rau
+  rotate: false
+  xy: 1774, 1296
+  size: 59, 124
+  orig: 59, 124
+  offset: 0, 0
+  index: -1
+skin_2/sip
+  rotate: true
+  xy: 549, 181
+  size: 120, 210
+  orig: 120, 210
+  offset: 0, 0
+  index: -1
+skin_2/sung
+  rotate: false
+  xy: 1263, 1098
+  size: 131, 230
+  orig: 131, 230
+  offset: 0, 0
+  index: -1
+skin_2/tail
+  rotate: false
+  xy: 1499, 1422
+  size: 334, 169
+  orig: 334, 169
+  offset: 0, 0
+  index: -1
+sung_skill
+  rotate: true
+  xy: 2, 2
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1

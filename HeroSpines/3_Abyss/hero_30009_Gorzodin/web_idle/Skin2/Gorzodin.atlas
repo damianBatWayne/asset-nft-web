@@ -1,0 +1,251 @@
+
+Gorzodin.png
+size: 798,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 484, 858
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/Ammo
+  rotate: false
+  xy: 2, 54
+  size: 146, 165
+  orig: 146, 165
+  offset: 0, 0
+  index: -1
+skin_2/Belt
+  rotate: true
+  xy: 150, 65
+  size: 154, 73
+  orig: 154, 73
+  offset: 0, 0
+  index: -1
+skin_2/Belt_2
+  rotate: false
+  xy: 655, 221
+  size: 139, 135
+  orig: 139, 135
+  offset: 0, 0
+  index: -1
+skin_2/Belt_3
+  rotate: false
+  xy: 737, 1004
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+skin_2/Cannon
+  rotate: false
+  xy: 2, 700
+  size: 480, 328
+  orig: 480, 328
+  offset: 0, 0
+  index: -1
+skin_2/Helmet_2
+  rotate: false
+  xy: 484, 268
+  size: 169, 103
+  orig: 169, 103
+  offset: 0, 0
+  index: -1
+skin_2/L_Behind_wrist
+  rotate: false
+  xy: 335, 258
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1
+skin_2/L_Leg
+  rotate: false
+  xy: 697, 468
+  size: 97, 124
+  orig: 97, 124
+  offset: 0, 0
+  index: -1
+skin_2/L_arm_01
+  rotate: true
+  xy: 225, 157
+  size: 76, 108
+  orig: 76, 108
+  offset: 0, 0
+  index: -1
+skin_2/L_arm_02
+  rotate: false
+  xy: 601, 144
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+skin_2/L_arm_03
+  rotate: false
+  xy: 730, 821
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+skin_2/L_wrist
+  rotate: false
+  xy: 469, 143
+  size: 130, 123
+  orig: 130, 123
+  offset: 0, 0
+  index: -1
+skin_2/Lower_part
+  rotate: false
+  xy: 484, 539
+  size: 211, 110
+  orig: 211, 110
+  offset: 0, 0
+  index: -1
+skin_2/R_Behind_wrist_2
+  rotate: false
+  xy: 677, 358
+  size: 119, 108
+  orig: 119, 108
+  offset: 0, 0
+  index: -1
+skin_2/R_arm_01
+  rotate: false
+  xy: 446, 22
+  size: 96, 119
+  orig: 96, 119
+  offset: 0, 0
+  index: -1
+skin_2/R_arm_02
+  rotate: false
+  xy: 635, 56
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+skin_2/R_arm_03
+  rotate: true
+  xy: 711, 594
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+skin_2/R_leg
+  rotate: false
+  xy: 330, 16
+  size: 114, 125
+  orig: 114, 125
+  offset: 0, 0
+  index: -1
+skin_2/R_wrist
+  rotate: false
+  xy: 335, 143
+  size: 127, 113
+  orig: 127, 113
+  offset: 0, 0
+  index: -1
+skin_2/Rope
+  rotate: true
+  xy: 484, 935
+  size: 93, 251
+  orig: 93, 251
+  offset: 0, 0
+  index: -1
+skin_2/Scarf
+  rotate: true
+  xy: 544, 26
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+skin_2/Shoulder
+  rotate: true
+  xy: 711, 744
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+skin_2/be_L
+  rotate: false
+  xy: 2, 230
+  size: 109, 138
+  orig: 109, 138
+  offset: 0, 0
+  index: -1
+skin_2/be_R
+  rotate: false
+  xy: 225, 36
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: true
+  xy: 484, 373
+  size: 164, 191
+  orig: 164, 191
+  offset: 0, 0
+  index: -1
+skin_2/bom
+  rotate: false
+  xy: 700, 133
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: true
+  xy: 484, 651
+  size: 205, 225
+  orig: 205, 225
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: false
+  xy: 711, 666
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: true
+  xy: 711, 58
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 2, 370
+  size: 480, 328
+  orig: 480, 328
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: false
+  xy: 737, 903
+  size: 49, 99
+  orig: 49, 99
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 113, 235
+  size: 133, 109
+  orig: 133, 109
+  offset: 0, 0
+  index: -1
+skin_2/sip
+  rotate: true
+  xy: 224, 235
+  size: 133, 109
+  orig: 133, 109
+  offset: 0, 0
+  index: -1
+skin_2/skull
+  rotate: true
+  xy: 150, 2
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,461 @@
+
+Eitri.png
+size: 1985,867
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 2, 4
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/belt
+  rotate: true
+  xy: 1016, 461
+  size: 166, 100
+  orig: 166, 100
+  offset: 0, 0
+  index: -1
+skin_1/goat_r_stifle
+  rotate: false
+  xy: 871, 458
+  size: 143, 169
+  orig: 143, 169
+  offset: 0, 0
+  index: -1
+skin_1/goat_skull
+  rotate: true
+  xy: 1641, 691
+  size: 174, 245
+  orig: 174, 245
+  offset: 0, 0
+  index: -1
+skin_2/goat_skull
+  rotate: true
+  xy: 1641, 691
+  size: 174, 245
+  orig: 174, 245
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon00
+  rotate: false
+  xy: 894, 176
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon02
+  rotate: true
+  xy: 1046, 149
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon04
+  rotate: true
+  xy: 1288, 166
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon06
+  rotate: false
+  xy: 1374, 583
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon08
+  rotate: false
+  xy: 1641, 569
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon10
+  rotate: false
+  xy: 1793, 569
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon12
+  rotate: true
+  xy: 1394, 338
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon14
+  rotate: true
+  xy: 1410, 186
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon16
+  rotate: true
+  xy: 1516, 409
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon18
+  rotate: true
+  xy: 1532, 257
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon20
+  rotate: false
+  xy: 1532, 135
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon22
+  rotate: true
+  xy: 1410, 34
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon24
+  rotate: false
+  xy: 1532, 13
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon26
+  rotate: false
+  xy: 825, 54
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon28
+  rotate: false
+  xy: 1046, 27
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon30
+  rotate: true
+  xy: 1638, 409
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon32
+  rotate: true
+  xy: 1654, 257
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon34
+  rotate: false
+  xy: 1760, 447
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon36
+  rotate: true
+  xy: 1684, 105
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon38
+  rotate: true
+  xy: 1776, 295
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/New folder/Fxweapon40
+  rotate: true
+  xy: 1806, 143
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+skin_2/b_beard
+  rotate: false
+  xy: 1912, 429
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+skin_2/beard
+  rotate: false
+  xy: 493, 180
+  size: 213, 200
+  orig: 213, 200
+  offset: 0, 0
+  index: -1
+skin_2/belt
+  rotate: true
+  xy: 1293, 318
+  size: 166, 99
+  orig: 166, 99
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: false
+  xy: 1127, 669
+  size: 245, 196
+  orig: 245, 196
+  offset: 0, 0
+  index: -1
+skin_2/eyes
+  rotate: false
+  xy: 1888, 693
+  size: 88, 34
+  orig: 88, 34
+  offset: 0, 0
+  index: -1
+skin_2/forearm
+  rotate: false
+  xy: 1039, 301
+  size: 107, 158
+  orig: 107, 158
+  offset: 0, 0
+  index: -1
+skin_2/goat_b_armour
+  rotate: false
+  xy: 1198, 48
+  size: 76, 120
+  orig: 76, 120
+  offset: 0, 0
+  index: -1
+skin_2/goat_body
+  rotate: false
+  xy: 2, 461
+  size: 320, 404
+  orig: 320, 404
+  offset: 0, 0
+  index: -1
+skin_2/goat_body_armour
+  rotate: false
+  xy: 573, 620
+  size: 278, 245
+  orig: 278, 245
+  offset: 0, 0
+  index: -1
+skin_2/goat_core
+  rotate: false
+  xy: 2, 81
+  size: 268, 378
+  orig: 268, 378
+  offset: 0, 0
+  index: -1
+skin_2/goat_d_horn
+  rotate: false
+  xy: 272, 169
+  size: 219, 211
+  orig: 219, 211
+  offset: 0, 0
+  index: -1
+skin_2/goat_eye
+  rotate: false
+  xy: 272, 414
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+skin_2/goat_f_armour
+  rotate: true
+  xy: 272, 15
+  size: 152, 235
+  orig: 152, 235
+  offset: 0, 0
+  index: -1
+skin_2/goat_head
+  rotate: true
+  xy: 324, 382
+  size: 139, 246
+  orig: 139, 246
+  offset: 0, 0
+  index: -1
+skin_2/goat_l_b_cannon
+  rotate: true
+  xy: 1684, 6
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+skin_2/goat_l_b_stifle
+  rotate: true
+  xy: 1898, 340
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+skin_2/goat_l_f_cannon
+  rotate: false
+  xy: 1806, 20
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1
+skin_2/goat_l_forearm
+  rotate: false
+  xy: 977, 83
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+skin_2/goat_r_b_cannon
+  rotate: true
+  xy: 1365, 490
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+skin_2/goat_r_f_cannon
+  rotate: false
+  xy: 1526, 561
+  size: 113, 142
+  orig: 113, 142
+  offset: 0, 0
+  index: -1
+skin_2/goat_r_forearm
+  rotate: false
+  xy: 1888, 729
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1
+skin_2/goat_saddle
+  rotate: false
+  xy: 509, 25
+  size: 178, 153
+  orig: 178, 153
+  offset: 0, 0
+  index: -1
+skin_2/goat_shaffron
+  rotate: true
+  xy: 1374, 705
+  size: 160, 265
+  orig: 160, 265
+  offset: 0, 0
+  index: -1
+skin_2/goat_silk
+  rotate: false
+  xy: 1168, 170
+  size: 118, 154
+  orig: 118, 154
+  offset: 0, 0
+  index: -1
+skin_2/goat_u_horn
+  rotate: true
+  xy: 853, 629
+  size: 236, 272
+  orig: 236, 272
+  offset: 0, 0
+  index: -1
+skin_2/hammer
+  rotate: false
+  xy: 1127, 486
+  size: 236, 181
+  orig: 236, 181
+  offset: 0, 0
+  index: -1
+skin_2/handle
+  rotate: true
+  xy: 573, 531
+  size: 87, 259
+  orig: 87, 259
+  offset: 0, 0
+  index: -1
+skin_2/head
+  rotate: false
+  xy: 708, 181
+  size: 184, 199
+  orig: 184, 199
+  offset: 0, 0
+  index: -1
+skin_2/leg
+  rotate: false
+  xy: 894, 298
+  size: 143, 158
+  orig: 143, 158
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: true
+  xy: 1928, 257
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 1912, 508
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: false
+  xy: 977, 27
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_2
+  rotate: true
+  xy: 825, 2
+  size: 50, 139
+  orig: 50, 139
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: false
+  xy: 1148, 326
+  size: 143, 158
+  orig: 143, 158
+  offset: 0, 0
+  index: -1
+skin_2/shoulder
+  rotate: false
+  xy: 748, 382
+  size: 121, 147
+  orig: 121, 147
+  offset: 0, 0
+  index: -1
+skin_2/shoulder_armour
+  rotate: true
+  xy: 689, 2
+  size: 145, 134
+  orig: 145, 134
+  offset: 0, 0
+  index: -1
+skin_2/sung
+  rotate: true
+  xy: 573, 382
+  size: 147, 173
+  orig: 147, 173
+  offset: 0, 0
+  index: -1
+skin_2/sung2
+  rotate: true
+  xy: 1276, 30
+  size: 134, 130
+  orig: 134, 130
+  offset: 0, 0
+  index: -1
+skin_3/demo_fx_1
+  rotate: false
+  xy: 324, 523
+  size: 247, 342
+  orig: 247, 342
+  offset: 0, 0
+  index: -1

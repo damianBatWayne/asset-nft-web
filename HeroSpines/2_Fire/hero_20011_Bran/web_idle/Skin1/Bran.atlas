@@ -1,0 +1,272 @@
+
+Bran.png
+size: 1014,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/flare (47)
+  rotate: false
+  xy: 590, 14
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx/smoke
+  rotate: false
+  xy: 606, 394
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 377, 596
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Layer 128
+  rotate: false
+  xy: 2, 920
+  size: 738, 114
+  orig: 738, 114
+  offset: 0, 0
+  index: -1
+skin_1/Layer 153 copy
+  rotate: false
+  xy: 603, 116
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+skin_1/Layer 154 copy
+  rotate: true
+  xy: 469, 3
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+skin_1/Layer 159 copy
+  rotate: true
+  xy: 692, 16
+  size: 98, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+skin_1/Layer 160 copy
+  rotate: true
+  xy: 739, 2
+  size: 138, 114
+  orig: 138, 114
+  offset: 0, 0
+  index: -1
+skin_1/Layer 161 copy
+  rotate: true
+  xy: 336, 238
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+skin_1/Layer 162
+  rotate: true
+  xy: 606, 225
+  size: 167, 127
+  orig: 167, 127
+  offset: 0, 0
+  index: -1
+skin_1/Layer 166
+  rotate: true
+  xy: 623, 524
+  size: 147, 112
+  orig: 147, 112
+  offset: 0, 0
+  index: -1
+skin_1/Layer 168
+  rotate: true
+  xy: 2, 15
+  size: 191, 151
+  orig: 191, 151
+  offset: 0, 0
+  index: -1
+skin_1/Layer 169
+  rotate: false
+  xy: 2, 390
+  size: 178, 166
+  orig: 178, 166
+  offset: 0, 0
+  index: -1
+skin_1/Layer 170
+  rotate: true
+  xy: 941, 431
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+skin_1/Layer 173
+  rotate: false
+  xy: 737, 405
+  size: 202, 195
+  orig: 202, 195
+  offset: 0, 0
+  index: -1
+skin_1/Layer 176
+  rotate: true
+  xy: 2, 558
+  size: 360, 373
+  orig: 360, 373
+  offset: 0, 0
+  index: -1
+skin_1/Layer 177
+  rotate: false
+  xy: 2, 208
+  size: 144, 180
+  orig: 144, 180
+  offset: 0, 0
+  index: -1
+skin_1/Layer 179
+  rotate: false
+  xy: 155, 11
+  size: 153, 175
+  orig: 153, 175
+  offset: 0, 0
+  index: -1
+skin_1/Layer 180
+  rotate: false
+  xy: 182, 392
+  size: 160, 164
+  orig: 160, 164
+  offset: 0, 0
+  index: -1
+skin_1/Layer 181
+  rotate: false
+  xy: 377, 390
+  size: 227, 204
+  orig: 227, 204
+  offset: 0, 0
+  index: -1
+skin_1/Layer 182
+  rotate: true
+  xy: 148, 209
+  size: 179, 186
+  orig: 179, 186
+  offset: 0, 0
+  index: -1
+skin_1/Layer 183
+  rotate: false
+  xy: 377, 673
+  size: 323, 245
+  orig: 323, 245
+  offset: 0, 0
+  index: -1
+skin_1/Layer 186
+  rotate: true
+  xy: 469, 141
+  size: 122, 132
+  orig: 122, 132
+  offset: 0, 0
+  index: -1
+skin_1/Layer 187
+  rotate: false
+  xy: 855, 37
+  size: 152, 149
+  orig: 152, 149
+  offset: 0, 0
+  index: -1
+skin_1/Layer 53
+  rotate: false
+  xy: 310, 25
+  size: 157, 161
+  orig: 157, 161
+  offset: 0, 0
+  index: -1
+skin_1/Layer 84
+  rotate: false
+  xy: 738, 602
+  size: 274, 257
+  orig: 274, 257
+  offset: 0, 0
+  index: -1
+skin_1/Layer 91 copy
+  rotate: false
+  xy: 742, 861
+  size: 262, 173
+  orig: 262, 173
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 469, 265
+  size: 123, 134
+  orig: 123, 134
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: true
+  xy: 941, 537
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: true
+  xy: 941, 372
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 736, 208
+  size: 202, 195
+  orig: 202, 195
+  offset: 0, 0
+  index: -1
+skin_2/Layer 114
+  rotate: false
+  xy: 336, 191
+  size: 102, 45
+  orig: 102, 45
+  offset: 0, 0
+  index: -1
+skin_2/Layer 114 copy
+  rotate: false
+  xy: 727, 142
+  size: 97, 44
+  orig: 97, 44
+  offset: 0, 0
+  index: -1
+skin_2/Layer 164
+  rotate: false
+  xy: 702, 883
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+skin_2/Layer 65
+  rotate: false
+  xy: 702, 798
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+skin_2/Layer 81 copy
+  rotate: true
+  xy: 702, 868
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+skin_2/Layer 82
+  rotate: false
+  xy: 702, 824
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: true
+  xy: 940, 188
+  size: 182, 53
+  orig: 182, 53
+  offset: 0, 0
+  index: -1

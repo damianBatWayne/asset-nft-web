@@ -1,0 +1,237 @@
+
+Defronowe.png
+size: 951,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 695, 683
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Face
+  rotate: true
+  xy: 804, 364
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+skin_1/back_hair
+  rotate: false
+  xy: 465, 668
+  size: 228, 362
+  orig: 228, 362
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: true
+  xy: 804, 234
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+skin_1/chest
+  rotate: false
+  xy: 738, 294
+  size: 64, 127
+  orig: 64, 127
+  offset: 0, 0
+  index: -1
+skin_1/front_hair
+  rotate: false
+  xy: 324, 39
+  size: 185, 153
+  orig: 185, 153
+  offset: 0, 0
+  index: -1
+skin_1/fx_motion_blur
+  rotate: true
+  xy: 695, 760
+  size: 270, 247
+  orig: 270, 247
+  offset: 0, 0
+  index: -1
+skin_1/fx_motion_blur_2
+  rotate: false
+  xy: 2, 41
+  size: 320, 142
+  orig: 320, 142
+  offset: 0, 0
+  index: -1
+skin_1/fx_motion_blur_3
+  rotate: false
+  xy: 2, 185
+  size: 308, 243
+  orig: 308, 243
+  offset: 0, 0
+  index: -1
+skin_1/left_arm
+  rotate: true
+  xy: 511, 9
+  size: 104, 118
+  orig: 104, 118
+  offset: 0, 0
+  index: -1
+skin_1/left_arm_up
+  rotate: true
+  xy: 896, 128
+  size: 104, 39
+  orig: 104, 39
+  offset: 0, 0
+  index: -1
+skin_1/left_eye
+  rotate: false
+  xy: 71, 19
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+skin_1/left_eyelid
+  rotate: false
+  xy: 631, 2
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+skin_1/left_hand_attack
+  rotate: false
+  xy: 812, 85
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+skin_1/left_horn
+  rotate: false
+  xy: 511, 115
+  size: 125, 150
+  orig: 125, 150
+  offset: 0, 0
+  index: -1
+skin_1/left_leg
+  rotate: false
+  xy: 717, 423
+  size: 85, 258
+  orig: 85, 258
+  offset: 0, 0
+  index: -1
+skin_1/mouth
+  rotate: false
+  xy: 465, 243
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 747, 33
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 2, 731
+  size: 461, 299
+  orig: 461, 299
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: true
+  xy: 2, 10
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: true
+  xy: 738, 268
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 638, 135
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+skin_1/right_arm
+  rotate: true
+  xy: 768, 120
+  size: 112, 126
+  orig: 112, 126
+  offset: 0, 0
+  index: -1
+skin_1/right_arm_attack
+  rotate: true
+  xy: 804, 488
+  size: 193, 145
+  orig: 193, 145
+  offset: 0, 0
+  index: -1
+skin_1/right_arm_up
+  rotate: false
+  xy: 638, 27
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+skin_1/right_eye
+  rotate: false
+  xy: 71, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+skin_1/right_eyelid
+  rotate: false
+  xy: 682, 2
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+skin_1/right_hand_2
+  rotate: false
+  xy: 747, 60
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+skin_1/right_horn
+  rotate: false
+  xy: 673, 279
+  size: 63, 135
+  orig: 63, 135
+  offset: 0, 0
+  index: -1
+skin_1/right_leg
+  rotate: false
+  xy: 312, 194
+  size: 151, 234
+  orig: 151, 234
+  offset: 0, 0
+  index: -1
+skin_1/tail
+  rotate: false
+  xy: 2, 430
+  size: 461, 299
+  orig: 461, 299
+  offset: 0, 0
+  index: -1
+skin_1/wing
+  rotate: false
+  xy: 465, 267
+  size: 206, 147
+  orig: 206, 147
+  offset: 0, 0
+  index: -1
+smoke (5)
+  rotate: false
+  xy: 465, 416
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1

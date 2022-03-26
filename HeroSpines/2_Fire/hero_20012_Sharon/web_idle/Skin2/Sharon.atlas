@@ -1,0 +1,342 @@
+
+Sharon.png
+size: 1898,709
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/Fxweapon01
+  rotate: true
+  xy: 567, 241
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon03
+  rotate: true
+  xy: 597, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon05
+  rotate: true
+  xy: 669, 265
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon07
+  rotate: true
+  xy: 699, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon09
+  rotate: true
+  xy: 771, 265
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon11
+  rotate: true
+  xy: 801, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon13
+  rotate: true
+  xy: 873, 265
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon15
+  rotate: true
+  xy: 903, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon17
+  rotate: true
+  xy: 975, 265
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon19
+  rotate: true
+  xy: 1005, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon21
+  rotate: true
+  xy: 1077, 265
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon23
+  rotate: true
+  xy: 1107, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon25
+  rotate: true
+  xy: 1179, 265
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon27
+  rotate: true
+  xy: 1209, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon29
+  rotate: true
+  xy: 1281, 265
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon31
+  rotate: true
+  xy: 1311, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon33
+  rotate: false
+  xy: 1288, 163
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon35
+  rotate: true
+  xy: 1383, 265
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon37
+  rotate: true
+  xy: 1413, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon39
+  rotate: true
+  xy: 1485, 265
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon41
+  rotate: true
+  xy: 1515, 487
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+Fx/Fxweapon43
+  rotate: false
+  xy: 1510, 163
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 490, 217
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/Layer 124
+  rotate: false
+  xy: 1384, 9
+  size: 211, 152
+  orig: 211, 152
+  offset: 0, 0
+  index: -1
+skin_2/Layer 126
+  rotate: true
+  xy: 812, 144
+  size: 119, 148
+  orig: 119, 148
+  offset: 0, 0
+  index: -1
+skin_2/Layer 154
+  rotate: true
+  xy: 1087, 153
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1
+skin_2/Layer 155
+  rotate: true
+  xy: 1193, 160
+  size: 103, 93
+  orig: 103, 93
+  offset: 0, 0
+  index: -1
+skin_2/Layer 156
+  rotate: false
+  xy: 490, 158
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+skin_2/Layer 165
+  rotate: false
+  xy: 1587, 292
+  size: 184, 193
+  orig: 184, 193
+  offset: 0, 0
+  index: -1
+skin_2/Layer 169
+  rotate: false
+  xy: 1712, 525
+  size: 184, 182
+  orig: 184, 182
+  offset: 0, 0
+  index: -1
+skin_2/Layer 181
+  rotate: false
+  xy: 684, 142
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
+skin_2/Layer 182
+  rotate: false
+  xy: 614, 3
+  size: 120, 136
+  orig: 120, 136
+  offset: 0, 0
+  index: -1
+skin_2/Layer 183
+  rotate: false
+  xy: 962, 146
+  size: 123, 117
+  orig: 123, 117
+  offset: 0, 0
+  index: -1
+skin_2/Layer 184
+  rotate: true
+  xy: 567, 141
+  size: 98, 115
+  orig: 98, 115
+  offset: 0, 0
+  index: -1
+skin_2/Layer 185
+  rotate: false
+  xy: 1211, 5
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+skin_2/Layer 186
+  rotate: false
+  xy: 1732, 165
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+skin_2/Layer 187
+  rotate: true
+  xy: 907, 3
+  size: 139, 161
+  orig: 139, 161
+  offset: 0, 0
+  index: -1
+skin_2/Layer 188
+  rotate: false
+  xy: 1597, 9
+  size: 132, 152
+  orig: 132, 152
+  offset: 0, 0
+  index: -1
+skin_2/Layer 189
+  rotate: false
+  xy: 1070, 2
+  size: 139, 142
+  orig: 139, 142
+  offset: 0, 0
+  index: -1
+skin_2/Layer 57
+  rotate: true
+  xy: 376, 463
+  size: 244, 219
+  orig: 244, 219
+  offset: 0, 0
+  index: -1
+skin_2/Layer 59
+  rotate: false
+  xy: 225, 141
+  size: 263, 276
+  orig: 263, 276
+  offset: 0, 0
+  index: -1
+skin_2/Layer 60
+  rotate: true
+  xy: 1731, 18
+  size: 143, 130
+  orig: 143, 130
+  offset: 0, 0
+  index: -1
+skin_2/Layer 61
+  rotate: true
+  xy: 438, 3
+  size: 136, 174
+  orig: 136, 174
+  offset: 0, 0
+  index: -1
+skin_2/Layer 64
+  rotate: true
+  xy: 1617, 517
+  size: 190, 93
+  orig: 190, 93
+  offset: 0, 0
+  index: -1
+skin_2/Layer 65
+  rotate: true
+  xy: 736, 2
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1
+skin_2/Layer 67
+  rotate: true
+  xy: 225, 419
+  size: 288, 149
+  orig: 288, 149
+  offset: 0, 0
+  index: -1
+skin_2/Layer 68
+  rotate: true
+  xy: 225, 2
+  size: 137, 211
+  orig: 137, 211
+  offset: 0, 0
+  index: -1
+skin_2/Layer 88 copy 6
+  rotate: true
+  xy: 2, 14
+  size: 693, 221
+  orig: 693, 221
+  offset: 0, 0
+  index: -1

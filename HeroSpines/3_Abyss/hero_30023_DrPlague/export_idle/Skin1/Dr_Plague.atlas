@@ -1,0 +1,272 @@
+
+Dr_Plague.png
+size: 969,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fly/1
+  rotate: true
+  xy: 516, 339
+  size: 100, 144
+  orig: 100, 144
+  offset: 0, 0
+  index: -1
+Fly/2
+  rotate: true
+  xy: 626, 237
+  size: 100, 144
+  orig: 100, 144
+  offset: 0, 0
+  index: -1
+Fly/3
+  rotate: true
+  xy: 662, 339
+  size: 100, 144
+  orig: 100, 144
+  offset: 0, 0
+  index: -1
+Fly/4
+  rotate: true
+  xy: 720, 135
+  size: 100, 144
+  orig: 100, 144
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 506, 20
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Layer 9 Copy 4
+  rotate: false
+  xy: 37, 4
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+skin_1/clothB
+  rotate: true
+  xy: 720, 99
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+skin_1/den
+  rotate: true
+  xy: 516, 441
+  size: 82, 216
+  orig: 82, 216
+  offset: 0, 0
+  index: -1
+skin_1/foot
+  rotate: true
+  xy: 2, 221
+  size: 302, 214
+  orig: 302, 214
+  offset: 0, 0
+  index: -1
+skin_1/hand_L1
+  rotate: false
+  xy: 808, 353
+  size: 104, 89
+  orig: 104, 89
+  offset: 0, 0
+  index: -1
+skin_1/hand_L2
+  rotate: true
+  xy: 288, 2
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+skin_1/hand_L3
+  rotate: false
+  xy: 866, 178
+  size: 81, 59
+  orig: 81, 59
+  offset: 0, 0
+  index: -1
+skin_1/hand_L4
+  rotate: true
+  xy: 915, 285
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+skin_1/hand_R1
+  rotate: true
+  xy: 388, 20
+  size: 52, 116
+  orig: 52, 116
+  offset: 0, 0
+  index: -1
+skin_1/hand_R2
+  rotate: false
+  xy: 734, 444
+  size: 104, 79
+  orig: 104, 79
+  offset: 0, 0
+  index: -1
+skin_1/hand_R3
+  rotate: true
+  xy: 841, 7
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+skin_1/hand_R4a
+  rotate: true
+  xy: 2, 4
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+skin_1/hand_R4b
+  rotate: true
+  xy: 914, 354
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+skin_1/hand_R4c
+  rotate: false
+  xy: 924, 106
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+skin_1/hat
+  rotate: false
+  xy: 218, 230
+  size: 202, 104
+  orig: 202, 104
+  offset: 0, 0
+  index: -1
+skin_1/hat back
+  rotate: false
+  xy: 444, 140
+  size: 217, 88
+  orig: 217, 88
+  offset: 0, 0
+  index: -1
+skin_1/head
+  rotate: false
+  xy: 2, 25
+  size: 284, 194
+  orig: 284, 194
+  offset: 0, 0
+  index: -1
+skin_1/kim1
+  rotate: true
+  xy: 444, 97
+  size: 41, 140
+  orig: 41, 140
+  offset: 0, 0
+  index: -1
+skin_1/kim2
+  rotate: true
+  xy: 586, 99
+  size: 39, 132
+  orig: 39, 132
+  offset: 0, 0
+  index: -1
+skin_1/kim3
+  rotate: false
+  xy: 914, 399
+  size: 38, 124
+  orig: 38, 124
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 663, 170
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: false
+  xy: 840, 463
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 924, 141
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_2
+  rotate: true
+  xy: 792, 102
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 422, 230
+  size: 202, 104
+  orig: 202, 104
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: false
+  xy: 663, 140
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: true
+  xy: 772, 239
+  size: 98, 141
+  orig: 98, 141
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: false
+  xy: 218, 336
+  size: 147, 187
+  orig: 147, 187
+  offset: 0, 0
+  index: -1
+skin_1/potion
+  rotate: true
+  xy: 752, 8
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+skin_1/potion_glow
+  rotate: false
+  xy: 866, 120
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+skin_1/torso
+  rotate: false
+  xy: 367, 336
+  size: 147, 187
+  orig: 147, 187
+  offset: 0, 0
+  index: -1
+skin_2/den_glow
+  rotate: false
+  xy: 288, 74
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+skin_2/eye
+  rotate: true
+  xy: 915, 242
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1

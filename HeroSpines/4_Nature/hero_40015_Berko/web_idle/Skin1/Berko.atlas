@@ -1,0 +1,139 @@
+
+Berko.png
+size: 979,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 902, 767
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_01
+  rotate: true
+  xy: 595, 19
+  size: 186, 273
+  orig: 186, 273
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_02
+  rotate: true
+  xy: 512, 22
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+skin_1/arm_R
+  rotate: false
+  xy: 349, 383
+  size: 240, 286
+  orig: 240, 286
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: true
+  xy: 557, 738
+  size: 273, 343
+  orig: 273, 343
+  offset: 0, 0
+  index: -1
+skin_1/eye_L
+  rotate: false
+  xy: 2, 16
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+skin_1/eye_R
+  rotate: false
+  xy: 557, 724
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 591, 455
+  size: 244, 281
+  orig: 244, 281
+  offset: 0, 0
+  index: -1
+skin_1/hair_01
+  rotate: true
+  xy: 322, 12
+  size: 121, 188
+  orig: 121, 188
+  offset: 0, 0
+  index: -1
+skin_1/hair_02
+  rotate: false
+  xy: 115, 671
+  size: 440, 340
+  orig: 440, 340
+  offset: 0, 0
+  index: -1
+skin_1/khien
+  rotate: false
+  xy: 115, 191
+  size: 232, 478
+  orig: 232, 478
+  offset: 0, 0
+  index: -1
+skin_1/leg_L
+  rotate: false
+  xy: 115, 2
+  size: 205, 187
+  orig: 205, 187
+  offset: 0, 0
+  index: -1
+skin_1/leg_R
+  rotate: false
+  xy: 841, 368
+  size: 126, 178
+  orig: 126, 178
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 870, 161
+  size: 104, 77
+  orig: 104, 77
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 841, 267
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 837, 548
+  size: 121, 188
+  orig: 121, 188
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 349, 135
+  size: 244, 246
+  orig: 244, 246
+  offset: 0, 0
+  index: -1
+skin_1/sip
+  rotate: false
+  xy: 595, 207
+  size: 244, 246
+  orig: 244, 246
+  offset: 0, 0
+  index: -1
+skin_1/thuong
+  rotate: false
+  xy: 2, 25
+  size: 111, 986
+  orig: 111, 986
+  offset: 0, 0
+  index: -1

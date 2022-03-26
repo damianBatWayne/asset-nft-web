@@ -1,0 +1,265 @@
+
+Oakroot.png
+size: 1619,557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F2/body_F
+  rotate: false
+  xy: 472, 296
+  size: 330, 259
+  orig: 330, 259
+  offset: 0, 0
+  index: -1
+F2/hand_L_01_F
+  rotate: false
+  xy: 1071, 54
+  size: 134, 87
+  orig: 134, 87
+  offset: 0, 0
+  index: -1
+F2/hand_L_02_F
+  rotate: true
+  xy: 1092, 143
+  size: 167, 307
+  orig: 167, 307
+  offset: 0, 0
+  index: -1
+F2/leaf_F
+  rotate: false
+  xy: 804, 304
+  size: 286, 251
+  orig: 286, 251
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 58
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: true
+  xy: 1401, 118
+  size: 192, 205
+  orig: 192, 205
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: false
+  xy: 472, 2
+  size: 273, 292
+  orig: 273, 292
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_01
+  rotate: true
+  xy: 1207, 47
+  size: 94, 104
+  orig: 94, 104
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_02
+  rotate: false
+  xy: 972, 26
+  size: 97, 132
+  orig: 97, 132
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_03
+  rotate: false
+  xy: 1472, 47
+  size: 85, 69
+  orig: 85, 69
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_04
+  rotate: false
+  xy: 1596, 349
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_05
+  rotate: true
+  xy: 1071, 23
+  size: 29, 96
+  orig: 29, 96
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_06
+  rotate: true
+  xy: 1267, 15
+  size: 30, 87
+  orig: 30, 87
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_07
+  rotate: false
+  xy: 1596, 485
+  size: 21, 70
+  orig: 21, 70
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_01
+  rotate: true
+  xy: 747, 135
+  size: 159, 117
+  orig: 159, 117
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_02
+  rotate: false
+  xy: 2, 135
+  size: 236, 420
+  orig: 236, 420
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_03
+  rotate: false
+  xy: 1313, 51
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_04
+  rotate: true
+  xy: 2, 15
+  size: 41, 96
+  orig: 41, 96
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_05
+  rotate: false
+  xy: 442, 82
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_06
+  rotate: true
+  xy: 1380, 13
+  size: 37, 90
+  orig: 37, 90
+  offset: 0, 0
+  index: -1
+skin_2/leaf
+  rotate: false
+  xy: 1092, 312
+  size: 250, 243
+  orig: 250, 243
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_01
+  rotate: false
+  xy: 866, 162
+  size: 122, 140
+  orig: 122, 140
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_02
+  rotate: true
+  xy: 990, 160
+  size: 142, 93
+  orig: 142, 93
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_01
+  rotate: true
+  xy: 248, 50
+  size: 104, 192
+  orig: 104, 192
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_02
+  rotate: false
+  xy: 747, 5
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: true
+  xy: 100, 16
+  size: 40, 95
+  orig: 40, 95
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: true
+  xy: 289, 22
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_3
+  rotate: true
+  xy: 197, 12
+  size: 36, 90
+  orig: 36, 90
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_4
+  rotate: true
+  xy: 1380, 52
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_5
+  rotate: true
+  xy: 363, 27
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_6
+  rotate: true
+  xy: 1169, 16
+  size: 29, 96
+  orig: 29, 96
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_7
+  rotate: true
+  xy: 1472, 15
+  size: 30, 85
+  orig: 30, 85
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_8
+  rotate: false
+  xy: 1596, 414
+  size: 21, 69
+  orig: 21, 69
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 240, 156
+  size: 230, 399
+  orig: 230, 399
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: false
+  xy: 1344, 312
+  size: 250, 243
+  orig: 250, 243
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: false
+  xy: 1559, 37
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+skin_2/shoulder
+  rotate: true
+  xy: 869, 20
+  size: 140, 101
+  orig: 140, 101
+  offset: 0, 0
+  index: -1

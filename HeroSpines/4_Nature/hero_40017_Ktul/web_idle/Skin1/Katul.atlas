@@ -1,0 +1,174 @@
+
+Katul.png
+size: 1713,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/light
+  rotate: false
+  xy: 1349, 231
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fx/light2
+  rotate: false
+  xy: 321, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 974, 187
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/chanL2
+  rotate: true
+  xy: 1551, 177
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+skin_1/chanR2
+  rotate: false
+  xy: 1392, 110
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 2, 69
+  size: 317, 362
+  orig: 317, 362
+  offset: 0, 0
+  index: -1
+skin_1/jewel
+  rotate: true
+  xy: 777, 4
+  size: 169, 206
+  orig: 169, 206
+  offset: 0, 0
+  index: -1
+skin_1/jewelfx
+  rotate: true
+  xy: 1579, 11
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 651, 7
+  size: 124, 160
+  orig: 124, 160
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 1253, 9
+  size: 137, 209
+  orig: 137, 209
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 985, 2
+  size: 154, 183
+  orig: 154, 183
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 1141, 2
+  size: 110, 211
+  orig: 110, 211
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: false
+  xy: 1051, 215
+  size: 91, 216
+  orig: 91, 216
+  offset: 0, 0
+  index: -1
+skin_1/vai1
+  rotate: false
+  xy: 1237, 220
+  size: 110, 211
+  orig: 110, 211
+  offset: 0, 0
+  index: -1
+skin_1/vai2
+  rotate: false
+  xy: 1144, 215
+  size: 91, 216
+  orig: 91, 216
+  offset: 0, 0
+  index: -1
+skin_2/la1
+  rotate: false
+  xy: 321, 154
+  size: 201, 277
+  orig: 201, 277
+  offset: 0, 0
+  index: -1
+skin_2/la2
+  rotate: false
+  xy: 1504, 23
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+skin_2/la3
+  rotate: false
+  xy: 2, 5
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+skin_2/tayL1
+  rotate: true
+  xy: 1392, 15
+  size: 93, 110
+  orig: 93, 110
+  offset: 0, 0
+  index: -1
+skin_2/tayL2
+  rotate: true
+  xy: 473, 13
+  size: 139, 176
+  orig: 139, 176
+  offset: 0, 0
+  index: -1
+skin_2/tayR1
+  rotate: false
+  xy: 1579, 97
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1
+skin_2/tayR2
+  rotate: true
+  xy: 1551, 307
+  size: 124, 160
+  orig: 124, 160
+  offset: 0, 0
+  index: -1
+skin_2/torso
+  rotate: false
+  xy: 763, 175
+  size: 209, 256
+  orig: 209, 256
+  offset: 0, 0
+  index: -1
+skin_2/vai3
+  rotate: true
+  xy: 524, 169
+  size: 262, 237
+  orig: 262, 237
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+Sylph.png
+size: 885,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/splash
+  rotate: false
+  xy: 572, 249
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: -1
+skin_1/1
+  rotate: true
+  xy: 724, 192
+  size: 71, 122
+  orig: 71, 122
+  offset: 0, 0
+  index: -1
+skin_1/2
+  rotate: true
+  xy: 2, 14
+  size: 223, 142
+  orig: 223, 142
+  offset: 0, 0
+  index: -1
+skin_1/arm_B
+  rotate: true
+  xy: 848, 203
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+skin_1/arm_F
+  rotate: true
+  xy: 815, 148
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 479, 331
+  size: 115, 200
+  orig: 115, 200
+  offset: 0, 0
+  index: -1
+skin_1/ear_R
+  rotate: true
+  xy: 645, 334
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+skin_1/hair
+  rotate: true
+  xy: 299, 329
+  size: 202, 178
+  orig: 202, 178
+  offset: 0, 0
+  index: -1
+skin_1/hand
+  rotate: false
+  xy: 375, 241
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+skin_1/hand2
+  rotate: true
+  xy: 610, 184
+  size: 63, 102
+  orig: 63, 102
+  offset: 0, 0
+  index: -1
+skin_1/head
+  rotate: true
+  xy: 440, 58
+  size: 183, 166
+  orig: 183, 166
+  offset: 0, 0
+  index: -1
+skin_1/leaf_1
+  rotate: false
+  xy: 596, 384
+  size: 123, 147
+  orig: 123, 147
+  offset: 0, 0
+  index: -1
+skin_1/leaf_2
+  rotate: true
+  xy: 724, 467
+  size: 64, 159
+  orig: 64, 159
+  offset: 0, 0
+  index: -1
+skin_1/leaf_3
+  rotate: true
+  xy: 610, 5
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+skin_1/leaf_4
+  rotate: true
+  xy: 677, 343
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+skin_1/leaf_back
+  rotate: true
+  xy: 428, 243
+  size: 84, 142
+  orig: 84, 142
+  offset: 0, 0
+  index: -1
+skin_1/leg_B
+  rotate: false
+  xy: 811, 8
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+skin_1/leg_F
+  rotate: true
+  xy: 440, 2
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+skin_1/necklace
+  rotate: true
+  xy: 596, 331
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 815, 105
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 146, 19
+  size: 292, 218
+  orig: 292, 218
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 724, 366
+  size: 157, 99
+  orig: 157, 99
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 222, 239
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+skin_1/sword
+  rotate: true
+  xy: 2, 239
+  size: 292, 218
+  orig: 292, 218
+  offset: 0, 0
+  index: -1
+skin_1/thatlung
+  rotate: false
+  xy: 714, 144
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+skin_1/thigh_B
+  rotate: false
+  xy: 660, 82
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
+skin_1/thigh_F
+  rotate: false
+  xy: 608, 60
+  size: 50, 122
+  orig: 50, 122
+  offset: 0, 0
+  index: -1
+skin_1/upper_Arm_B
+  rotate: false
+  xy: 711, 18
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+skin_1/upper_Arm_F
+  rotate: false
+  xy: 323, 239
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+skin_2/ear_L
+  rotate: false
+  xy: 711, 97
+  size: 98, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+skin_2/eyes
+  rotate: false
+  xy: 526, 2
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
+skin_2/eyes1
+  rotate: false
+  xy: 724, 265
+  size: 157, 99
+  orig: 157, 99
+  offset: 0, 0
+  index: -1
+skin_2/shadow
+  rotate: true
+  xy: 222, 287
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1

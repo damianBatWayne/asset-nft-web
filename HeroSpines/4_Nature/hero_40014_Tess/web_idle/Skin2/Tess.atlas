@@ -1,0 +1,139 @@
+
+Tess.png
+size: 733,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 631, 301
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: false
+  xy: 2, 5
+  size: 205, 144
+  orig: 205, 144
+  offset: 0, 0
+  index: -1
+skin_2/duoi
+  rotate: true
+  xy: 409, 795
+  size: 238, 275
+  orig: 238, 275
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: true
+  xy: 2, 666
+  size: 367, 405
+  orig: 367, 405
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_01
+  rotate: true
+  xy: 2, 161
+  size: 134, 147
+  orig: 134, 147
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_02
+  rotate: true
+  xy: 209, 17
+  size: 102, 78
+  orig: 102, 78
+  offset: 0, 0
+  index: -1
+skin_2/hand_R
+  rotate: false
+  xy: 409, 607
+  size: 220, 186
+  orig: 220, 186
+  offset: 0, 0
+  index: -1
+skin_2/k_01
+  rotate: true
+  xy: 686, 932
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+skin_2/k_02
+  rotate: true
+  xy: 686, 908
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+skin_2/knife
+  rotate: true
+  xy: 631, 547
+  size: 246, 87
+  orig: 246, 87
+  offset: 0, 0
+  index: -1
+skin_2/leg_L
+  rotate: false
+  xy: 601, 151
+  size: 121, 148
+  orig: 121, 148
+  offset: 0, 0
+  index: -1
+skin_2/leg_R
+  rotate: false
+  xy: 409, 243
+  size: 190, 174
+  orig: 190, 174
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: false
+  xy: 409, 419
+  size: 220, 186
+  orig: 220, 186
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: false
+  xy: 583, 2
+  size: 134, 147
+  orig: 134, 147
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: true
+  xy: 686, 961
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: true
+  xy: 2, 297
+  size: 367, 405
+  orig: 367, 405
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 209, 121
+  size: 174, 185
+  orig: 174, 185
+  offset: 0, 0
+  index: -1
+skin_2/sip
+  rotate: true
+  xy: 396, 67
+  size: 174, 185
+  orig: 174, 185
+  offset: 0, 0
+  index: -1
+skin_2/vong
+  rotate: false
+  xy: 289, 49
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1

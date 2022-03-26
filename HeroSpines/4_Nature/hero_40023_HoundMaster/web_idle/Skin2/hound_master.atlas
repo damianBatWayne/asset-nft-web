@@ -1,0 +1,391 @@
+
+hound_master.png
+size: 1779,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WolfLv2/D_tooth
+  rotate: false
+  xy: 1755, 358
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+WolfLv2/L_leg_1
+  rotate: false
+  xy: 401, 356
+  size: 257, 143
+  orig: 257, 143
+  offset: 0, 0
+  index: -1
+WolfLv2/L_leg_2
+  rotate: true
+  xy: 1301, 309
+  size: 88, 138
+  orig: 88, 138
+  offset: 0, 0
+  index: -1
+WolfLv2/Layer 111 copy
+  rotate: false
+  xy: 376, 2
+  size: 165, 94
+  orig: 165, 94
+  offset: 0, 0
+  index: -1
+WolfLv2/R_leg_1
+  rotate: true
+  xy: 556, 112
+  size: 242, 186
+  orig: 242, 186
+  offset: 0, 0
+  index: -1
+WolfLv2/R_leg_2
+  rotate: false
+  xy: 1691, 109
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+WolfLv2/U_L_leg_1
+  rotate: true
+  xy: 1303, 165
+  size: 142, 137
+  orig: 142, 137
+  offset: 0, 0
+  index: -1
+WolfLv2/U_L_leg_2
+  rotate: false
+  xy: 1646, 396
+  size: 117, 140
+  orig: 117, 140
+  offset: 0, 0
+  index: -1
+WolfLv2/U_R_leg_2
+  rotate: false
+  xy: 1691, 197
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+WolfLv2/body
+  rotate: false
+  xy: 2, 64
+  size: 372, 302
+  orig: 372, 302
+  offset: 0, 0
+  index: -1
+WolfLv2/cheek
+  rotate: false
+  xy: 1470, 315
+  size: 147, 112
+  orig: 147, 112
+  offset: 0, 0
+  index: -1
+WolfLv2/head
+  rotate: false
+  xy: 737, 519
+  size: 284, 256
+  orig: 284, 256
+  offset: 0, 0
+  index: -1
+WolfLv2/jaw
+  rotate: false
+  xy: 744, 75
+  size: 178, 83
+  orig: 178, 83
+  offset: 0, 0
+  index: -1
+WolfLv2/necklace
+  rotate: false
+  xy: 376, 98
+  size: 178, 256
+  orig: 178, 256
+  offset: 0, 0
+  index: -1
+WolfLv2/tail
+  rotate: false
+  xy: 1173, 302
+  size: 126, 186
+  orig: 126, 186
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1023, 490
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 1586, 2
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: false
+  xy: 738, 16
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 1586, 56
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: false
+  xy: 1295, 2
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_3
+  rotate: false
+  xy: 856, 19
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+skin_2/ao_choang
+  rotate: true
+  xy: 1656, 538
+  size: 237, 104
+  orig: 237, 104
+  offset: 0, 0
+  index: -1
+skin_2/ban_tay_sau
+  rotate: false
+  xy: 1496, 11
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+skin_2/ban_tay_truoc
+  rotate: false
+  xy: 660, 400
+  size: 73, 99
+  orig: 73, 99
+  offset: 0, 0
+  index: -1
+skin_2/bap_tay_sau
+  rotate: true
+  xy: 1572, 110
+  size: 81, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+skin_2/bap_tay_truoc
+  rotate: false
+  xy: 633, 9
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+skin_2/cang_chan_sau
+  rotate: true
+  xy: 1470, 429
+  size: 130, 174
+  orig: 130, 174
+  offset: 0, 0
+  index: -1
+skin_2/cang_chan_truoc
+  rotate: false
+  xy: 924, 9
+  size: 177, 141
+  orig: 177, 141
+  offset: 0, 0
+  index: -1
+skin_2/canh_tay_sau
+  rotate: false
+  xy: 1401, 2
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+skin_2/canh_tay_truoc
+  rotate: true
+  xy: 543, 2
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+skin_2/co
+  rotate: false
+  xy: 1442, 86
+  size: 125, 93
+  orig: 125, 93
+  offset: 0, 0
+  index: -1
+skin_2/dau
+  rotate: true
+  xy: 961, 316
+  size: 172, 210
+  orig: 172, 210
+  offset: 0, 0
+  index: -1
+skin_2/dau_lau
+  rotate: false
+  xy: 1643, 23
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+skin_2/dui_sau
+  rotate: false
+  xy: 1116, 27
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1
+skin_2/dui_truoc
+  rotate: false
+  xy: 1572, 193
+  size: 117, 107
+  orig: 117, 107
+  offset: 0, 0
+  index: -1
+skin_2/hoa_tai_sau
+  rotate: false
+  xy: 797, 19
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+skin_2/hoa_tai_truoc
+  rotate: false
+  xy: 309, 11
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+skin_2/la_1
+  rotate: false
+  xy: 1023, 567
+  size: 324, 208
+  orig: 324, 208
+  offset: 0, 0
+  index: -1
+skin_2/la_2
+  rotate: false
+  xy: 1301, 399
+  size: 167, 160
+  orig: 167, 160
+  offset: 0, 0
+  index: -1
+skin_2/la_3
+  rotate: false
+  xy: 1442, 181
+  size: 128, 132
+  orig: 128, 132
+  offset: 0, 0
+  index: -1
+skin_2/la_4
+  rotate: true
+  xy: 2, 4
+  size: 58, 153
+  orig: 58, 153
+  offset: 0, 0
+  index: -1
+skin_2/la_5
+  rotate: true
+  xy: 157, 13
+  size: 49, 150
+  orig: 49, 150
+  offset: 0, 0
+  index: -1
+skin_2/long_chim
+  rotate: false
+  xy: 401, 501
+  size: 334, 274
+  orig: 334, 274
+  offset: 0, 0
+  index: -1
+skin_2/mat_sau
+  rotate: true
+  xy: 1569, 86
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+skin_2/mat_truoc
+  rotate: false
+  xy: 961, 497
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+skin_2/mom
+  rotate: true
+  xy: 924, 334
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+skin_2/mu
+  rotate: false
+  xy: 1116, 153
+  size: 185, 147
+  orig: 185, 147
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 744, 160
+  size: 178, 221
+  orig: 178, 221
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_2
+  rotate: false
+  xy: 1619, 302
+  size: 134, 92
+  orig: 134, 92
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 1103, 2
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+skin_2/than
+  rotate: true
+  xy: 924, 152
+  size: 162, 190
+  orig: 162, 190
+  offset: 0, 0
+  index: -1
+skin_2/toc
+  rotate: false
+  xy: 2, 368
+  size: 397, 407
+  orig: 397, 407
+  offset: 0, 0
+  index: -1
+skin_2/vay
+  rotate: false
+  xy: 737, 383
+  size: 222, 134
+  orig: 222, 134
+  offset: 0, 0
+  index: -1
+skin_2/vong_co
+  rotate: false
+  xy: 1401, 94
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+skin_2/vu_khi
+  rotate: true
+  xy: 1349, 561
+  size: 214, 305
+  orig: 214, 305
+  offset: 0, 0
+  index: -1

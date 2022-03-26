@@ -1,0 +1,314 @@
+
+Lass.png
+size: 1745,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow_1
+  rotate: true
+  xy: 2, 189
+  size: 71, 653
+  orig: 71, 653
+  offset: 0, 0
+  index: -1
+Arrow_2
+  rotate: true
+  xy: 2, 61
+  size: 53, 303
+  orig: 53, 303
+  offset: 0, 0
+  index: -1
+Arrow_3
+  rotate: true
+  xy: 2, 116
+  size: 71, 425
+  orig: 71, 425
+  offset: 0, 0
+  index: -1
+Arrow_4
+  rotate: true
+  xy: 844, 220
+  size: 44, 207
+  orig: 44, 207
+  offset: 0, 0
+  index: -1
+Arrow_5
+  rotate: true
+  xy: 2, 19
+  size: 40, 287
+  orig: 40, 287
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: false
+  xy: 675, 69
+  size: 174, 134
+  orig: 174, 134
+  offset: 0, 0
+  index: -1
+Belt_Fur_1
+  rotate: false
+  xy: 1642, 312
+  size: 101, 226
+  orig: 101, 226
+  offset: 0, 0
+  index: -1
+Belt_Fur_2
+  rotate: true
+  xy: 657, 205
+  size: 55, 175
+  orig: 55, 175
+  offset: 0, 0
+  index: -1
+Belt_Fur_3
+  rotate: true
+  xy: 602, 2
+  size: 65, 123
+  orig: 65, 123
+  offset: 0, 0
+  index: -1
+Belt_Fur_4
+  rotate: true
+  xy: 1154, 196
+  size: 91, 212
+  orig: 91, 212
+  offset: 0, 0
+  index: -1
+Belt_Fur_5
+  rotate: false
+  xy: 1368, 193
+  size: 126, 94
+  orig: 126, 94
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1154, 289
+  size: 152, 249
+  orig: 152, 249
+  offset: 0, 0
+  index: -1
+Cape
+  rotate: false
+  xy: 1462, 325
+  size: 178, 213
+  orig: 178, 213
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 1496, 145
+  size: 131, 59
+  orig: 131, 59
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 1313, 77
+  size: 117, 39
+  orig: 117, 39
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 844, 266
+  size: 308, 272
+  orig: 308, 272
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 1037, 50
+  size: 117, 75
+  orig: 117, 75
+  offset: 0, 0
+  index: -1
+L_Elbow
+  rotate: false
+  xy: 1493, 55
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+L_Elbow_2
+  rotate: true
+  xy: 1634, 183
+  size: 127, 94
+  orig: 127, 94
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 448, 20
+  size: 152, 90
+  orig: 152, 90
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 1230, 10
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+L_Hand_2
+  rotate: true
+  xy: 727, 2
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+L_Knee
+  rotate: true
+  xy: 1595, 14
+  size: 77, 85
+  orig: 77, 85
+  offset: 0, 0
+  index: -1
+L_Thigh
+  rotate: true
+  xy: 1496, 206
+  size: 117, 136
+  orig: 117, 136
+  offset: 0, 0
+  index: -1
+Necklace
+  rotate: true
+  xy: 1436, 27
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 1354, 80
+  size: 80, 111
+  orig: 80, 111
+  offset: 0, 0
+  index: -1
+R_Elbow
+  rotate: true
+  xy: 1385, 11
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 1044, 127
+  size: 144, 67
+  orig: 144, 67
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 1682, 31
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+R_Hand_2
+  rotate: false
+  xy: 851, 141
+  size: 191, 77
+  orig: 191, 77
+  offset: 0, 0
+  index: -1
+R_Hand_3
+  rotate: false
+  xy: 1297, 3
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+R_Knee
+  rotate: false
+  xy: 1053, 196
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+R_Shoulder
+  rotate: false
+  xy: 1190, 83
+  size: 121, 111
+  orig: 121, 111
+  offset: 0, 0
+  index: -1
+R_Thigh
+  rotate: true
+  xy: 307, 2
+  size: 108, 139
+  orig: 108, 139
+  offset: 0, 0
+  index: -1
+String
+  rotate: true
+  xy: 2, 12
+  size: 5, 62
+  orig: 5, 62
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 2, 262
+  size: 276, 840
+  orig: 276, 840
+  offset: 0, 0
+  index: -1
+nft_part1_1
+  rotate: false
+  xy: 1629, 93
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+nft_part2_1
+  rotate: true
+  xy: 1436, 109
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+nft_part2_2
+  rotate: true
+  xy: 1156, 2
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+nft_part2_3
+  rotate: true
+  xy: 448, 13
+  size: 5, 62
+  orig: 5, 62
+  offset: 0, 0
+  index: -1
+nft_part3_1
+  rotate: false
+  xy: 851, 62
+  size: 184, 77
+  orig: 184, 77
+  offset: 0, 0
+  index: -1
+nft_part4_1
+  rotate: false
+  xy: 1308, 289
+  size: 152, 249
+  orig: 152, 249
+  offset: 0, 0
+  index: -1
+nft_part4_2
+  rotate: true
+  xy: 602, 84
+  size: 26, 69
+  orig: 26, 69
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 429, 112
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,334 @@
+
+Murath.png
+size: 2046,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Skin2/Belt
+  rotate: true
+  xy: 1916, 1098
+  size: 129, 117
+  orig: 129, 117
+  offset: 0, 0
+  index: -1
+Skin2/D_Cape
+  rotate: true
+  xy: 568, 1206
+  size: 838, 918
+  orig: 838, 918
+  offset: 0, 0
+  index: -1
+Skin2/D_Hat_1
+  rotate: false
+  xy: 2, 93
+  size: 668, 484
+  orig: 668, 484
+  offset: 0, 0
+  index: -1
+Skin2/Decor
+  rotate: true
+  xy: 1488, 1210
+  size: 186, 235
+  orig: 186, 235
+  offset: 0, 0
+  index: -1
+Skin2/Feather
+  rotate: false
+  xy: 1488, 1398
+  size: 446, 646
+  orig: 446, 646
+  offset: 0, 0
+  index: -1
+Skin2/L_Shoulder_Amor
+  rotate: true
+  xy: 1936, 1417
+  size: 193, 100
+  orig: 193, 100
+  offset: 0, 0
+  index: -1
+Skin2/L_Thigh_Armor
+  rotate: true
+  xy: 672, 2
+  size: 164, 434
+  orig: 164, 434
+  offset: 0, 0
+  index: -1
+Skin2/R_Fly_Wing_Bird
+  rotate: true
+  xy: 672, 168
+  size: 718, 899
+  orig: 718, 899
+  offset: 0, 0
+  index: -1
+Skin2/R_Shoulder_Amor
+  rotate: false
+  xy: 1108, 6
+  size: 449, 160
+  orig: 449, 160
+  offset: 0, 0
+  index: -1
+Skin2/Weapon
+  rotate: false
+  xy: 2, 579
+  size: 564, 1465
+  orig: 564, 1465
+  offset: 0, 0
+  index: -1
+Skin2/arm_L_01
+  rotate: false
+  xy: 1725, 1229
+  size: 284, 167
+  orig: 284, 167
+  offset: 0, 0
+  index: -1
+Skin2/arm_L_03
+  rotate: true
+  xy: 1936, 1612
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+Skin2/eye
+  rotate: false
+  xy: 568, 598
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+Skin2/leg_L_01_C
+  rotate: false
+  xy: 568, 644
+  size: 81, 98
+  orig: 81, 98
+  offset: 0, 0
+  index: -1
+Skin2/leg_L_02_C
+  rotate: false
+  xy: 2, 11
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+Skin2/leg_R_01_C
+  rotate: true
+  xy: 568, 744
+  size: 142, 92
+  orig: 142, 92
+  offset: 0, 0
+  index: -1
+Skin2/leg_R_02_C
+  rotate: true
+  xy: 1916, 972
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+Skin2/mo
+  rotate: false
+  xy: 1573, 798
+  size: 189, 88
+  orig: 189, 88
+  offset: 0, 0
+  index: -1
+Skin2/nft_part1_1
+  rotate: false
+  xy: 1573, 741
+  size: 177, 55
+  orig: 177, 55
+  offset: 0, 0
+  index: -1
+Skin2/nft_part1_4
+  rotate: false
+  xy: 1764, 758
+  size: 78, 128
+  orig: 78, 128
+  offset: 0, 0
+  index: -1
+Skin2/nft_part1_5
+  rotate: true
+  xy: 1936, 1719
+  size: 325, 108
+  orig: 325, 108
+  offset: 0, 0
+  index: -1
+Skin2/nft_part2_1
+  rotate: true
+  xy: 568, 888
+  size: 316, 1346
+  orig: 316, 1346
+  offset: 0, 0
+  index: -1
+Skin2/nft_part3_1
+  rotate: false
+  xy: 1573, 74
+  size: 446, 646
+  orig: 446, 646
+  offset: 0, 0
+  index: -1
+Skin2/nft_part3_2
+  rotate: true
+  xy: 1916, 722
+  size: 248, 113
+  orig: 248, 113
+  offset: 0, 0
+  index: -1
+Skin2/nft_part4_2
+  rotate: true
+  xy: 420, 40
+  size: 51, 222
+  orig: 51, 222
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 174, 16
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+
+Murath2.png
+size: 2003,1798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Skin2/D_Hat_2
+  rotate: false
+  xy: 1515, 2
+  size: 253, 324
+  orig: 253, 324
+  offset: 0, 0
+  index: -1
+Skin2/L_Fly_Wing_Bird
+  rotate: false
+  xy: 530, 79
+  size: 334, 556
+  orig: 334, 556
+  offset: 0, 0
+  index: -1
+Skin2/Mask
+  rotate: true
+  xy: 1532, 982
+  size: 374, 465
+  orig: 374, 465
+  offset: 0, 0
+  index: -1
+Skin2/R_Thigh_Armor
+  rotate: true
+  xy: 998, 670
+  size: 404, 442
+  orig: 404, 442
+  offset: 0, 0
+  index: -1
+Skin2/Rest_Wing_Bird
+  rotate: false
+  xy: 1442, 758
+  size: 518, 222
+  orig: 518, 222
+  offset: 0, 0
+  index: -1
+Skin2/Silk
+  rotate: true
+  xy: 1016, 1076
+  size: 280, 514
+  orig: 280, 514
+  offset: 0, 0
+  index: -1
+Skin2/U_Cape
+  rotate: true
+  xy: 1016, 1358
+  size: 438, 895
+  orig: 438, 895
+  offset: 0, 0
+  index: -1
+Skin2/U_Hat
+  rotate: false
+  xy: 2, 671
+  size: 574, 441
+  orig: 574, 441
+  offset: 0, 0
+  index: -1
+Skin2/arm_L_02
+  rotate: true
+  xy: 866, 181
+  size: 454, 176
+  orig: 454, 176
+  offset: 0, 0
+  index: -1
+Skin2/arm_R
+  rotate: false
+  xy: 2, 28
+  size: 262, 641
+  orig: 262, 641
+  offset: 0, 0
+  index: -1
+Skin2/body
+  rotate: true
+  xy: 578, 637
+  size: 475, 418
+  orig: 475, 418
+  offset: 0, 0
+  index: -1
+Skin2/body_chim
+  rotate: false
+  xy: 2, 1456
+  size: 1012, 340
+  orig: 1012, 340
+  offset: 0, 0
+  index: -1
+Skin2/leg_L_01
+  rotate: false
+  xy: 1515, 328
+  size: 223, 428
+  orig: 223, 428
+  offset: 0, 0
+  index: -1
+Skin2/leg_L_02
+  rotate: false
+  xy: 1770, 135
+  size: 231, 290
+  orig: 231, 290
+  offset: 0, 0
+  index: -1
+Skin2/leg_R_01
+  rotate: false
+  xy: 1044, 223
+  size: 291, 445
+  orig: 291, 445
+  offset: 0, 0
+  index: -1
+Skin2/leg_R_02
+  rotate: false
+  xy: 1740, 427
+  size: 234, 329
+  orig: 234, 329
+  offset: 0, 0
+  index: -1
+Skin2/nft_part1_2
+  rotate: false
+  xy: 266, 28
+  size: 262, 641
+  orig: 262, 641
+  offset: 0, 0
+  index: -1
+Skin2/nft_part1_3
+  rotate: true
+  xy: 1337, 214
+  size: 454, 176
+  orig: 454, 176
+  offset: 0, 0
+  index: -1
+Skin2/nft_part4_1
+  rotate: true
+  xy: 1044, 6
+  size: 215, 283
+  orig: 215, 283
+  offset: 0, 0
+  index: -1
+Skin2/nft_part4_6
+  rotate: false
+  xy: 2, 1114
+  size: 1012, 340
+  orig: 1012, 340
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+Sytak.png
+size: 2030,718
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 1362, 2
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/VK
+  rotate: true
+  xy: 1102, 406
+  size: 310, 921
+  orig: 310, 921
+  offset: 0, 0
+  index: -1
+skin_1/armor_L
+  rotate: false
+  xy: 778, 246
+  size: 112, 132
+  orig: 112, 132
+  offset: 0, 0
+  index: -1
+skin_1/armor_R
+  rotate: true
+  xy: 757, 13
+  size: 226, 164
+  orig: 226, 164
+  offset: 0, 0
+  index: -1
+skin_1/armor_hand_R
+  rotate: true
+  xy: 1811, 246
+  size: 158, 171
+  orig: 158, 171
+  offset: 0, 0
+  index: -1
+skin_1/armor_leg_L
+  rotate: true
+  xy: 1367, 249
+  size: 155, 71
+  orig: 155, 71
+  offset: 0, 0
+  index: -1
+skin_1/armor_leg_R
+  rotate: false
+  xy: 1848, 22
+  size: 141, 78
+  orig: 141, 78
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 2, 241
+  size: 386, 475
+  orig: 386, 475
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 2, 4
+  size: 353, 235
+  orig: 353, 235
+  offset: 0, 0
+  index: -1
+skin_1/hair
+  rotate: false
+  xy: 357, 11
+  size: 398, 228
+  orig: 398, 228
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_01
+  rotate: true
+  xy: 1085, 247
+  size: 131, 154
+  orig: 131, 154
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_02
+  rotate: false
+  xy: 1440, 259
+  size: 246, 145
+  orig: 246, 145
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_01
+  rotate: true
+  xy: 923, 24
+  size: 221, 191
+  orig: 221, 191
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_02
+  rotate: false
+  xy: 1116, 50
+  size: 244, 195
+  orig: 244, 195
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_01
+  rotate: true
+  xy: 1688, 260
+  size: 144, 121
+  orig: 144, 121
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_02
+  rotate: true
+  xy: 1919, 102
+  size: 142, 109
+  orig: 142, 109
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_01
+  rotate: false
+  xy: 892, 247
+  size: 191, 131
+  orig: 191, 131
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_02
+  rotate: true
+  xy: 1439, 69
+  size: 178, 116
+  orig: 178, 116
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 1704, 22
+  size: 115, 142
+  orig: 115, 142
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: true
+  xy: 1557, 11
+  size: 246, 145
+  orig: 246, 145
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 778, 380
+  size: 336, 322
+  orig: 336, 322
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 1704, 139
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: true
+  xy: 1806, 152
+  size: 92, 111
+  orig: 92, 111
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 390, 241
+  size: 386, 475
+  orig: 386, 475
+  offset: 0, 0
+  index: -1
+skin_1/sung
+  rotate: true
+  xy: 1241, 248
+  size: 156, 124
+  orig: 156, 124
+  offset: 0, 0
+  index: -1

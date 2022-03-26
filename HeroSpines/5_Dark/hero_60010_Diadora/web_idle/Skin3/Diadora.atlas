@@ -1,0 +1,496 @@
+
+Diadora.png
+size: 1778,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frames/Diadora_70000
+  rotate: false
+  xy: 218, 983
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70001
+  rotate: false
+  xy: 325, 584
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70002
+  rotate: false
+  xy: 387, 983
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70003
+  rotate: false
+  xy: 494, 588
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70004
+  rotate: false
+  xy: 556, 983
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70005
+  rotate: false
+  xy: 725, 983
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70006
+  rotate: false
+  xy: 457, 219
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70007
+  rotate: false
+  xy: 626, 285
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70008
+  rotate: false
+  xy: 663, 590
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70009
+  rotate: false
+  xy: 795, 287
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70010
+  rotate: false
+  xy: 832, 590
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70011
+  rotate: false
+  xy: 964, 287
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70012
+  rotate: false
+  xy: 894, 983
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70013
+  rotate: false
+  xy: 1001, 591
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70014
+  rotate: false
+  xy: 1133, 288
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70015
+  rotate: false
+  xy: 1063, 983
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70016
+  rotate: false
+  xy: 1232, 983
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70017
+  rotate: false
+  xy: 1170, 596
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70018
+  rotate: false
+  xy: 1302, 293
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70019
+  rotate: false
+  xy: 1339, 598
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+frames/Diadora_70020
+  rotate: false
+  xy: 1401, 983
+  size: 167, 301
+  orig: 167, 301
+  offset: 0, 0
+  index: -1
+glow (29)
+  rotate: false
+  xy: 1570, 987
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1700, 871
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_3/Layer 140 copy
+  rotate: false
+  xy: 1619, 9
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+skin_3/Layer 141 copy
+  rotate: true
+  xy: 626, 231
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+skin_3/Layer 142 copy
+  rotate: false
+  xy: 454, 522
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+skin_3/arm_L_01
+  rotate: true
+  xy: 1013, 896
+  size: 85, 103
+  orig: 85, 103
+  offset: 0, 0
+  index: -1
+skin_3/arm_L_02
+  rotate: false
+  xy: 1383, 902
+  size: 107, 79
+  orig: 107, 79
+  offset: 0, 0
+  index: -1
+skin_3/arm_L_03
+  rotate: true
+  xy: 338, 889
+  size: 92, 55
+  orig: 92, 55
+  offset: 0, 0
+  index: -1
+skin_3/arm_L_04
+  rotate: true
+  xy: 472, 891
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+skin_3/arm_R_01
+  rotate: false
+  xy: 1599, 873
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+skin_3/arm_R_02
+  rotate: true
+  xy: 1552, 5
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+skin_3/arm_R_03
+  rotate: true
+  xy: 395, 890
+  size: 91, 75
+  orig: 91, 75
+  offset: 0, 0
+  index: -1
+skin_3/arm_R_04
+  rotate: true
+  xy: 288, 175
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+skin_3/arm_R_05
+  rotate: false
+  xy: 246, 520
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+skin_3/arm_R_06
+  rotate: true
+  xy: 335, 181
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+skin_3/armor_L_01
+  rotate: false
+  xy: 405, 7
+  size: 48, 189
+  orig: 48, 189
+  offset: 0, 0
+  index: -1
+skin_3/armor_L_02
+  rotate: false
+  xy: 455, 12
+  size: 59, 184
+  orig: 59, 184
+  offset: 0, 0
+  index: -1
+skin_3/armor_R
+  rotate: false
+  xy: 1552, 85
+  size: 160, 232
+  orig: 160, 232
+  offset: 0, 0
+  index: -1
+skin_3/belt_01
+  rotate: true
+  xy: 82, 5
+  size: 167, 321
+  orig: 167, 321
+  offset: 0, 0
+  index: -1
+skin_3/belt_02
+  rotate: false
+  xy: 156, 560
+  size: 167, 321
+  orig: 167, 321
+  offset: 0, 0
+  index: -1
+skin_3/body
+  rotate: true
+  xy: 1599, 1117
+  size: 167, 177
+  orig: 167, 177
+  offset: 0, 0
+  index: -1
+skin_3/bottom
+  rotate: true
+  xy: 2, 174
+  size: 341, 284
+  orig: 341, 284
+  offset: 0, 0
+  index: -1
+skin_3/cloth_01
+  rotate: false
+  xy: 2, 883
+  size: 214, 401
+  orig: 214, 401
+  offset: 0, 0
+  index: -1
+skin_3/cloth_02
+  rotate: false
+  xy: 2, 517
+  size: 152, 364
+  orig: 152, 364
+  offset: 0, 0
+  index: -1
+skin_3/eye
+  rotate: true
+  xy: 1570, 1193
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+skin_3/hand_L_01
+  rotate: true
+  xy: 1492, 902
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+skin_3/hand_L_02
+  rotate: false
+  xy: 1118, 899
+  size: 157, 82
+  orig: 157, 82
+  offset: 0, 0
+  index: -1
+skin_3/hand_L_03
+  rotate: false
+  xy: 543, 892
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+skin_3/hand_L_04
+  rotate: false
+  xy: 367, 521
+  size: 85, 61
+  orig: 85, 61
+  offset: 0, 0
+  index: -1
+skin_3/hand_R_01
+  rotate: false
+  xy: 1689, 9
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+skin_3/hand_R_02
+  rotate: true
+  xy: 2, 3
+  size: 169, 78
+  orig: 169, 78
+  offset: 0, 0
+  index: -1
+skin_3/hand_R_03
+  rotate: false
+  xy: 893, 894
+  size: 118, 87
+  orig: 118, 87
+  offset: 0, 0
+  index: -1
+skin_3/hand_R_04
+  rotate: false
+  xy: 513, 528
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+skin_3/head_2
+  rotate: true
+  xy: 1471, 319
+  size: 277, 300
+  orig: 277, 300
+  offset: 0, 0
+  index: -1
+skin_3/mask
+  rotate: true
+  xy: 670, 4
+  size: 279, 278
+  orig: 279, 278
+  offset: 0, 0
+  index: -1
+skin_3/mask_1
+  rotate: false
+  xy: 218, 887
+  size: 118, 94
+  orig: 118, 94
+  offset: 0, 0
+  index: -1
+skin_3/nft_part1_1
+  rotate: false
+  xy: 269, 521
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+skin_3/nft_part1_2
+  rotate: false
+  xy: 156, 520
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+skin_3/nft_part2_1
+  rotate: false
+  xy: 1403, 42
+  size: 147, 249
+  orig: 147, 249
+  offset: 0, 0
+  index: -1
+skin_3/nft_part3_1
+  rotate: false
+  xy: 1570, 1228
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+skin_3/nft_part4_1
+  rotate: false
+  xy: 288, 198
+  size: 167, 321
+  orig: 167, 321
+  offset: 0, 0
+  index: -1
+skin_3/r_01
+  rotate: true
+  xy: 1714, 263
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+skin_3/r_02
+  rotate: false
+  xy: 950, 2
+  size: 208, 283
+  orig: 208, 283
+  offset: 0, 0
+  index: -1
+skin_3/r_03
+  rotate: true
+  xy: 516, 5
+  size: 212, 152
+  orig: 212, 152
+  offset: 0, 0
+  index: -1
+skin_3/r_04
+  rotate: false
+  xy: 366, 182
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+skin_3/r_05
+  rotate: false
+  xy: 1277, 901
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+skin_3/shoulder_L
+  rotate: true
+  xy: 632, 893
+  size: 88, 259
+  orig: 88, 259
+  offset: 0, 0
+  index: -1
+skin_3/shoulder_R
+  rotate: false
+  xy: 1160, 4
+  size: 241, 282
+  orig: 241, 282
+  offset: 0, 0
+  index: -1
+slash (195)
+  rotate: false
+  xy: 1508, 613
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

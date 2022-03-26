@@ -1,0 +1,398 @@
+
+DeadsServant.png
+size: 1985,1613
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death_servant_FX/Dead's Servant_export0000
+  rotate: true
+  xy: 2, 355
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0001
+  rotate: false
+  xy: 1101, 1371
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0002
+  rotate: true
+  xy: 2, 17
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0003
+  rotate: false
+  xy: 1439, 1371
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0004
+  rotate: true
+  xy: 258, 870
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0005
+  rotate: false
+  xy: 500, 1058
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0006
+  rotate: false
+  xy: 500, 816
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0007
+  rotate: true
+  xy: 838, 962
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0008
+  rotate: true
+  xy: 258, 532
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0009
+  rotate: false
+  xy: 500, 574
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0010
+  rotate: true
+  xy: 838, 624
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0011
+  rotate: true
+  xy: 244, 194
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0012
+  rotate: false
+  xy: 1080, 1046
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0013
+  rotate: false
+  xy: 1080, 804
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0014
+  rotate: false
+  xy: 1080, 562
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0015
+  rotate: true
+  xy: 1501, 1033
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0016
+  rotate: true
+  xy: 1743, 1011
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0017
+  rotate: false
+  xy: 500, 332
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0018
+  rotate: true
+  xy: 838, 286
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0019
+  rotate: false
+  xy: 1080, 320
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0020
+  rotate: false
+  xy: 840, 44
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0021
+  rotate: false
+  xy: 1178, 78
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0022
+  rotate: false
+  xy: 1418, 341
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+Death_servant_FX/Dead's Servant_export0023
+  rotate: false
+  xy: 1516, 99
+  size: 336, 240
+  orig: 336, 240
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1538, 594
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/armor
+  rotate: true
+  xy: 1746, 673
+  size: 180, 105
+  orig: 180, 105
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: true
+  xy: 244, 2
+  size: 190, 261
+  orig: 190, 261
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: false
+  xy: 1615, 665
+  size: 129, 173
+  orig: 129, 173
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_01
+  rotate: false
+  xy: 1756, 513
+  size: 117, 158
+  orig: 117, 158
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_02
+  rotate: false
+  xy: 1615, 589
+  size: 111, 74
+  orig: 111, 74
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_03
+  rotate: true
+  xy: 1882, 358
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_01
+  rotate: true
+  xy: 1756, 366
+  size: 145, 124
+  orig: 145, 124
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_02
+  rotate: false
+  xy: 1875, 550
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_03
+  rotate: true
+  xy: 1882, 450
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+skin_2/khan_L
+  rotate: true
+  xy: 1178, 8
+  size: 68, 338
+  orig: 68, 338
+  offset: 0, 0
+  index: -1
+skin_2/khan_R
+  rotate: true
+  xy: 1101, 1288
+  size: 81, 358
+  orig: 81, 358
+  offset: 0, 0
+  index: -1
+skin_2/knife_L
+  rotate: true
+  xy: 486, 223
+  size: 107, 315
+  orig: 107, 315
+  offset: 0, 0
+  index: -1
+skin_2/knife_R
+  rotate: false
+  xy: 1418, 583
+  size: 118, 343
+  orig: 118, 343
+  offset: 0, 0
+  index: -1
+skin_2/mu_01
+  rotate: false
+  xy: 445, 1300
+  size: 326, 311
+  orig: 326, 311
+  offset: 0, 0
+  index: -1
+skin_2/mu_02
+  rotate: false
+  xy: 1538, 840
+  size: 203, 191
+  orig: 203, 191
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: false
+  xy: 1858, 85
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: false
+  xy: 1858, 5
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 1743, 855
+  size: 175, 64
+  orig: 175, 64
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_2
+  rotate: false
+  xy: 1913, 686
+  size: 41, 167
+  orig: 41, 167
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: false
+  xy: 773, 1300
+  size: 326, 311
+  orig: 326, 311
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 1518, 29
+  size: 68, 338
+  orig: 68, 338
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: false
+  xy: 1418, 928
+  size: 81, 358
+  orig: 81, 358
+  offset: 0, 0
+  index: -1
+skin_2/rau
+  rotate: false
+  xy: 445, 1221
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+skin_2/sip
+  rotate: true
+  xy: 1743, 921
+  size: 88, 216
+  orig: 88, 216
+  offset: 0, 0
+  index: -1
+skin_2/sung_L
+  rotate: true
+  xy: 1777, 1349
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+skin_2/sung_M
+  rotate: false
+  xy: 2, 1208
+  size: 441, 403
+  orig: 441, 403
+  offset: 0, 0
+  index: -1
+skin_2/sung_R
+  rotate: false
+  xy: 507, 6
+  size: 331, 215
+  orig: 331, 215
+  offset: 0, 0
+  index: -1
+skin_2/tai
+  rotate: false
+  xy: 1854, 162
+  size: 104, 59
+  orig: 104, 59
+  offset: 0, 0
+  index: -1
+skin_2/vay
+  rotate: true
+  xy: 2, 693
+  size: 513, 254
+  orig: 513, 254
+  offset: 0, 0
+  index: -1
+skin_2/vong_co
+  rotate: true
+  xy: 1854, 223
+  size: 133, 125
+  orig: 133, 125
+  offset: 0, 0
+  index: -1
+skin_2/xich
+  rotate: false
+  xy: 1853, 675
+  size: 58, 178
+  orig: 58, 178
+  offset: 0, 0
+  index: -1

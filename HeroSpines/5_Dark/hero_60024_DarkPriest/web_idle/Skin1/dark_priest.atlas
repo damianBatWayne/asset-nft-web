@@ -1,0 +1,286 @@
+
+dark_priest.png
+size: 1255,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_glow_1
+  rotate: false
+  xy: 871, 144
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_glow_circle_1b
+  rotate: false
+  xy: 1001, 144
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1083, 321
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Layer 2
+  rotate: false
+  xy: 692, 73
+  size: 170, 65
+  orig: 170, 65
+  offset: 0, 0
+  index: -1
+skin_1/ban_tay_sau
+  rotate: false
+  xy: 1160, 314
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+skin_1/ban_tay_truoc_1
+  rotate: false
+  xy: 867, 9
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+skin_1/ban_tay_truoc_2
+  rotate: false
+  xy: 1058, 85
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+skin_1/bap_tay_sau
+  rotate: true
+  xy: 671, 15
+  size: 56, 114
+  orig: 56, 114
+  offset: 0, 0
+  index: -1
+skin_1/bap_tay_truoc
+  rotate: true
+  xy: 552, 128
+  size: 99, 138
+  orig: 99, 138
+  offset: 0, 0
+  index: -1
+skin_1/canh_tay_sau
+  rotate: false
+  xy: 967, 54
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+skin_1/canh_tay_truoc
+  rotate: false
+  xy: 1131, 206
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+skin_1/co
+  rotate: true
+  xy: 787, 7
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+skin_1/dau
+  rotate: true
+  xy: 203, 2
+  size: 148, 200
+  orig: 148, 200
+  offset: 0, 0
+  index: -1
+skin_1/giap_vai_sau_1
+  rotate: true
+  xy: 1131, 131
+  size: 73, 109
+  orig: 73, 109
+  offset: 0, 0
+  index: -1
+skin_1/giap_vai_sau_2
+  rotate: true
+  xy: 978, 13
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+skin_1/giap_vai_truoc
+  rotate: false
+  xy: 693, 140
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+skin_1/long_may
+  rotate: true
+  xy: 1160, 404
+  size: 161, 79
+  orig: 161, 79
+  offset: 0, 0
+  index: -1
+skin_1/mat_sau
+  rotate: false
+  xy: 671, 109
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+skin_1/mat_truoc
+  rotate: false
+  xy: 1058, 51
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 1195, 71
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: true
+  xy: 1131, 68
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 155, 24
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_2
+  rotate: false
+  xy: 509, 132
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_3
+  rotate: true
+  xy: 935, 2
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 203, 261
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_4
+  rotate: false
+  xy: 1045, 17
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_5
+  rotate: false
+  xy: 671, 90
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 228, 567
+  size: 336, 463
+  orig: 336, 463
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: false
+  xy: 566, 567
+  size: 336, 463
+  orig: 336, 463
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_3
+  rotate: false
+  xy: 904, 567
+  size: 336, 463
+  orig: 336, 463
+  offset: 0, 0
+  index: -1
+skin_1/tai_sau
+  rotate: true
+  xy: 871, 84
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+skin_1/tai_truoc
+  rotate: true
+  xy: 405, 2
+  size: 148, 102
+  orig: 148, 102
+  offset: 0, 0
+  index: -1
+skin_1/than
+  rotate: true
+  xy: 228, 229
+  size: 336, 463
+  orig: 336, 463
+  offset: 0, 0
+  index: -1
+skin_1/toc_0
+  rotate: true
+  xy: 2, 56
+  size: 236, 199
+  orig: 236, 199
+  offset: 0, 0
+  index: -1
+skin_1/toc_1
+  rotate: true
+  xy: 693, 274
+  size: 291, 388
+  orig: 291, 388
+  offset: 0, 0
+  index: -1
+skin_1/toc_2
+  rotate: true
+  xy: 2, 8
+  size: 46, 151
+  orig: 46, 151
+  offset: 0, 0
+  index: -1
+skin_1/toc_3
+  rotate: false
+  xy: 645, 11
+  size: 24, 115
+  orig: 24, 115
+  offset: 0, 0
+  index: -1
+skin_1/toc_4
+  rotate: false
+  xy: 509, 13
+  size: 134, 113
+  orig: 134, 113
+  offset: 0, 0
+  index: -1
+skin_1/vat_ao_1
+  rotate: true
+  xy: 203, 152
+  size: 75, 347
+  orig: 75, 347
+  offset: 0, 0
+  index: -1
+skin_1/weapon
+  rotate: false
+  xy: 2, 294
+  size: 224, 736
+  orig: 224, 736
+  offset: 0, 0
+  index: -1

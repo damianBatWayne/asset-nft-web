@@ -1,0 +1,391 @@
+
+Reji.png
+size: 1729,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dark_FX/Shadowblade_Dark_FX_Over2_00000
+  rotate: false
+  xy: 1325, 841
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00002
+  rotate: false
+  xy: 1527, 841
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00004
+  rotate: false
+  xy: 494, 460
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00006
+  rotate: false
+  xy: 494, 258
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00008
+  rotate: false
+  xy: 108, 182
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00010
+  rotate: false
+  xy: 696, 460
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00012
+  rotate: false
+  xy: 696, 258
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00014
+  rotate: false
+  xy: 898, 564
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00016
+  rotate: false
+  xy: 898, 362
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00018
+  rotate: false
+  xy: 1100, 650
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00020
+  rotate: false
+  xy: 1100, 448
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00022
+  rotate: false
+  xy: 1302, 639
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00024
+  rotate: false
+  xy: 1504, 639
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00026
+  rotate: false
+  xy: 1302, 437
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00028
+  rotate: false
+  xy: 1504, 437
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00030
+  rotate: false
+  xy: 898, 160
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00032
+  rotate: false
+  xy: 1100, 246
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00034
+  rotate: false
+  xy: 1302, 235
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00036
+  rotate: false
+  xy: 1504, 235
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00038
+  rotate: false
+  xy: 1100, 44
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00040
+  rotate: false
+  xy: 1302, 33
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dark_FX/Shadowblade_Dark_FX_Over2_00042
+  rotate: false
+  xy: 1504, 33
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+r_hand_throw_lv2
+  rotate: false
+  xy: 507, 662
+  size: 217, 134
+  orig: 217, 134
+  offset: 0, 0
+  index: -1
+r_thumb_throw_lv2
+  rotate: false
+  xy: 482, 167
+  size: 107, 89
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 801, 766
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_03
+  rotate: true
+  xy: 873, 2
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+skin_2/VK
+  rotate: false
+  xy: 2, 384
+  size: 146, 657
+  orig: 146, 657
+  offset: 0, 0
+  index: -1
+skin_2/armor_L
+  rotate: false
+  xy: 310, 242
+  size: 135, 162
+  orig: 135, 162
+  offset: 0, 0
+  index: -1
+skin_2/armor_R_01
+  rotate: false
+  xy: 507, 798
+  size: 292, 243
+  orig: 292, 243
+  offset: 0, 0
+  index: -1
+skin_2/armor_R_02
+  rotate: false
+  xy: 145, 10
+  size: 116, 170
+  orig: 116, 170
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: false
+  xy: 150, 685
+  size: 355, 356
+  orig: 355, 356
+  offset: 0, 0
+  index: -1
+skin_2/dai
+  rotate: true
+  xy: 2, 126
+  size: 256, 104
+  orig: 256, 104
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: false
+  xy: 150, 406
+  size: 342, 277
+  orig: 342, 277
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_01
+  rotate: true
+  xy: 801, 843
+  size: 198, 288
+  orig: 198, 288
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_02
+  rotate: false
+  xy: 756, 142
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_04
+  rotate: true
+  xy: 726, 710
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_05
+  rotate: false
+  xy: 817, 41
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_06
+  rotate: false
+  xy: 873, 55
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_01
+  rotate: false
+  xy: 1091, 852
+  size: 232, 189
+  orig: 232, 189
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_02
+  rotate: true
+  xy: 363, 21
+  size: 143, 124
+  orig: 143, 124
+  offset: 0, 0
+  index: -1
+skin_2/hand_R_03
+  rotate: true
+  xy: 489, 26
+  size: 139, 124
+  orig: 139, 124
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_01
+  rotate: false
+  xy: 2, 2
+  size: 141, 122
+  orig: 141, 122
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_02
+  rotate: false
+  xy: 615, 26
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+skin_2/leg_L_03
+  rotate: true
+  xy: 447, 338
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_01
+  rotate: false
+  xy: 615, 135
+  size: 139, 121
+  orig: 139, 121
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_02
+  rotate: false
+  xy: 717, 29
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+skin_2/leg_R_03
+  rotate: false
+  xy: 996, 110
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: true
+  xy: 310, 166
+  size: 74, 98
+  orig: 74, 98
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: false
+  xy: 801, 685
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: true
+  xy: 726, 662
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_2
+  rotate: false
+  xy: 1047, 778
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: true
+  xy: 410, 166
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: false
+  xy: 928, 84
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: false
+  xy: 447, 297
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+skin_2/sip
+  rotate: false
+  xy: 263, 2
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1

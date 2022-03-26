@@ -1,0 +1,223 @@
+
+Reji.png
+size: 1268,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+r_hand_throw_lv1
+  rotate: false
+  xy: 657, 204
+  size: 217, 134
+  orig: 217, 134
+  offset: 0, 0
+  index: -1
+r_thumb_throw_lv2
+  rotate: false
+  xy: 438, 8
+  size: 107, 89
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 8
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/VK
+  rotate: true
+  xy: 2, 443
+  size: 94, 683
+  orig: 94, 683
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 2, 85
+  size: 354, 356
+  orig: 354, 356
+  offset: 0, 0
+  index: -1
+skin_1/dai
+  rotate: false
+  xy: 358, 99
+  size: 256, 87
+  orig: 256, 87
+  offset: 0, 0
+  index: -1
+skin_1/face
+  rotate: false
+  xy: 358, 188
+  size: 297, 253
+  orig: 297, 253
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_01
+  rotate: true
+  xy: 687, 340
+  size: 197, 283
+  orig: 197, 283
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_02
+  rotate: true
+  xy: 1041, 26
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_04
+  rotate: true
+  xy: 547, 11
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_05
+  rotate: false
+  xy: 1206, 438
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+skin_1/hand_L_06
+  rotate: false
+  xy: 1206, 351
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_01
+  rotate: false
+  xy: 972, 348
+  size: 232, 189
+  orig: 232, 189
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_02
+  rotate: true
+  xy: 1157, 127
+  size: 128, 109
+  orig: 128, 109
+  offset: 0, 0
+  index: -1
+skin_1/hand_R_03
+  rotate: true
+  xy: 876, 199
+  size: 139, 124
+  orig: 139, 124
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_01
+  rotate: false
+  xy: 657, 80
+  size: 141, 122
+  orig: 141, 122
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_02
+  rotate: true
+  xy: 1157, 26
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_03
+  rotate: true
+  xy: 616, 120
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_01
+  rotate: false
+  xy: 800, 76
+  size: 139, 121
+  orig: 139, 121
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_02
+  rotate: false
+  xy: 941, 2
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_03
+  rotate: false
+  xy: 796, 26
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: true
+  xy: 248, 4
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: false
+  xy: 358, 2
+  size: 78, 95
+  orig: 78, 95
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 1002, 257
+  size: 89, 186
+  orig: 89, 186
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_2
+  rotate: false
+  xy: 741, 17
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: true
+  xy: 941, 108
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: false
+  xy: 861, 37
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 675, 4
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: false
+  xy: 1002, 108
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+skin_1/sip
+  rotate: true
+  xy: 1002, 152
+  size: 103, 153
+  orig: 103, 153
+  offset: 0, 0
+  index: -1
+skin_2/hand_L_03
+  rotate: false
+  xy: 622, 2
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1

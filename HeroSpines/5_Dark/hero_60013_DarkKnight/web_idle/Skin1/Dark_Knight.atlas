@@ -1,0 +1,202 @@
+
+Dark_Knight.png
+size: 1583,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 929, 150
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Layer 183
+  rotate: false
+  xy: 185, 8
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_01
+  rotate: false
+  xy: 1060, 8
+  size: 87, 146
+  orig: 87, 146
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_02
+  rotate: true
+  xy: 2, 4
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_03
+  rotate: false
+  xy: 1391, 183
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+skin_1/arm_L_04
+  rotate: true
+  xy: 1443, 30
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+skin_1/arm_R_01
+  rotate: true
+  xy: 618, 2
+  size: 127, 125
+  orig: 127, 125
+  offset: 0, 0
+  index: -1
+skin_1/arm_R_02
+  rotate: false
+  xy: 926, 13
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+skin_1/arm_R_03
+  rotate: false
+  xy: 1443, 268
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+skin_1/armor_L
+  rotate: true
+  xy: 745, 8
+  size: 124, 179
+  orig: 124, 179
+  offset: 0, 0
+  index: -1
+skin_1/armor_R
+  rotate: false
+  xy: 1172, 176
+  size: 217, 218
+  orig: 217, 218
+  offset: 0, 0
+  index: -1
+skin_1/axe
+  rotate: false
+  xy: 2, 109
+  size: 581, 285
+  orig: 581, 285
+  offset: 0, 0
+  index: -1
+skin_1/body
+  rotate: false
+  xy: 724, 134
+  size: 203, 260
+  orig: 203, 260
+  offset: 0, 0
+  index: -1
+skin_1/eye_L
+  rotate: false
+  xy: 539, 6
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+skin_1/eye_R
+  rotate: false
+  xy: 1391, 277
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+skin_1/head
+  rotate: false
+  xy: 1006, 156
+  size: 164, 238
+  orig: 164, 238
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_01
+  rotate: true
+  xy: 539, 15
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_02
+  rotate: true
+  xy: 1472, 186
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+skin_1/leg_L_03
+  rotate: true
+  xy: 1391, 314
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_01
+  rotate: false
+  xy: 441, 8
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_02
+  rotate: true
+  xy: 90, 7
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+skin_1/leg_R_03
+  rotate: false
+  xy: 1443, 350
+  size: 92, 44
+  orig: 92, 44
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 1472, 112
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: false
+  xy: 1537, 328
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 585, 131
+  size: 263, 137
+  orig: 263, 137
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 313, 8
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 1305, 20
+  size: 136, 154
+  orig: 136, 154
+  offset: 0, 0
+  index: -1
+skin_1/sip
+  rotate: true
+  xy: 1149, 17
+  size: 137, 154
+  orig: 137, 154
+  offset: 0, 0
+  index: -1

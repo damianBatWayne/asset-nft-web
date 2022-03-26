@@ -1,0 +1,559 @@
+
+Vera.png
+size: 2017,665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/weapon01
+  rotate: true
+  xy: 276, 2
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon03
+  rotate: true
+  xy: 431, 2
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon05
+  rotate: true
+  xy: 1334, 513
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon07
+  rotate: true
+  xy: 1489, 513
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon09
+  rotate: true
+  xy: 1644, 513
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon11
+  rotate: true
+  xy: 1799, 513
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon13
+  rotate: true
+  xy: 967, 284
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon15
+  rotate: false
+  xy: 586, 97
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon17
+  rotate: true
+  xy: 1123, 375
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon19
+  rotate: true
+  xy: 1122, 223
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon21
+  rotate: true
+  xy: 1278, 361
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon23
+  rotate: true
+  xy: 1433, 361
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon25
+  rotate: true
+  xy: 1588, 361
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon27
+  rotate: true
+  xy: 1743, 361
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon29
+  rotate: true
+  xy: 1277, 209
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon31
+  rotate: true
+  xy: 1432, 209
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon33
+  rotate: true
+  xy: 1587, 209
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon35
+  rotate: true
+  xy: 1742, 209
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon37
+  rotate: true
+  xy: 811, 177
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon39
+  rotate: true
+  xy: 966, 132
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon41
+  rotate: true
+  xy: 1121, 71
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+Fx/weapon43
+  rotate: true
+  xy: 1276, 57
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 276, 154
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/mom2
+  rotate: false
+  xy: 1634, 47
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+skin_2/Group 5
+  rotate: false
+  xy: 1899, 154
+  size: 114, 87
+  orig: 114, 87
+  offset: 0, 0
+  index: -1
+skin_2/Layer 101 copy
+  rotate: false
+  xy: 586, 23
+  size: 139, 72
+  orig: 139, 72
+  offset: 0, 0
+  index: -1
+skin_2/Layer 102 copy
+  rotate: false
+  xy: 1897, 243
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+skin_2/Layer 104 copy
+  rotate: true
+  xy: 135, 13
+  size: 56, 91
+  orig: 56, 91
+  offset: 0, 0
+  index: -1
+skin_2/Layer 105 copy
+  rotate: false
+  xy: 738, 66
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+skin_2/Layer 106 copy
+  rotate: true
+  xy: 763, 275
+  size: 95, 46
+  orig: 95, 46
+  offset: 0, 0
+  index: -1
+skin_2/Layer 107 copy
+  rotate: false
+  xy: 1634, 2
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+skin_2/Layer 115
+  rotate: true
+  xy: 1241, 8
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+skin_2/Layer 122
+  rotate: true
+  xy: 1566, 2
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+skin_2/Layer 128
+  rotate: true
+  xy: 967, 436
+  size: 114, 154
+  orig: 114, 154
+  offset: 0, 0
+  index: -1
+skin_2/Layer 129
+  rotate: false
+  xy: 1674, 115
+  size: 112, 92
+  orig: 112, 92
+  offset: 0, 0
+  index: -1
+skin_2/Layer 131
+  rotate: false
+  xy: 1431, 81
+  size: 133, 126
+  orig: 133, 126
+  offset: 0, 0
+  index: -1
+skin_2/Layer 132
+  rotate: false
+  xy: 1566, 85
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: -1
+skin_2/Layer 134
+  rotate: false
+  xy: 1174, 527
+  size: 158, 136
+  orig: 158, 136
+  offset: 0, 0
+  index: -1
+skin_2/Layer 134 copy 2
+  rotate: false
+  xy: 1898, 337
+  size: 117, 81
+  orig: 117, 81
+  offset: 0, 0
+  index: -1
+skin_2/Layer 151 copy
+  rotate: false
+  xy: 738, 174
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+skin_2/Layer 157
+  rotate: false
+  xy: 1898, 420
+  size: 117, 91
+  orig: 117, 91
+  offset: 0, 0
+  index: -1
+skin_2/Layer 158
+  rotate: false
+  xy: 1431, 2
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+skin_2/Layer 160 copy
+  rotate: false
+  xy: 2, 9
+  size: 131, 60
+  orig: 131, 60
+  offset: 0, 0
+  index: -1
+skin_2/Layer 163 copy
+  rotate: true
+  xy: 1114, 19
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+skin_2/Layer 164 copy
+  rotate: true
+  xy: 946, 22
+  size: 40, 75
+  orig: 40, 75
+  offset: 0, 0
+  index: -1
+skin_2/Layer 165 copy
+  rotate: true
+  xy: 1913, 6
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+skin_2/Layer 166 copy
+  rotate: false
+  xy: 1701, 2
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+skin_2/Layer 167 copy
+  rotate: true
+  xy: 1534, 42
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+skin_2/Layer 171
+  rotate: false
+  xy: 522, 154
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+skin_2/Layer 172
+  rotate: false
+  xy: 1979, 8
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+skin_2/Layer 173
+  rotate: false
+  xy: 846, 6
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+skin_2/Layer 174
+  rotate: true
+  xy: 1023, 25
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+skin_2/Layer 175
+  rotate: false
+  xy: 1954, 513
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+skin_2/Layer 187
+  rotate: false
+  xy: 529, 197
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+skin_2/Layer 188
+  rotate: true
+  xy: 1180, 24
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+skin_2/Layer 189
+  rotate: true
+  xy: 228, 22
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+skin_2/Layer 190
+  rotate: false
+  xy: 1292, 12
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+skin_2/Layer 204 copy
+  rotate: false
+  xy: 529, 372
+  size: 280, 291
+  orig: 280, 291
+  offset: 0, 0
+  index: -1
+skin_2/Layer 252
+  rotate: true
+  xy: 918, 2
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+skin_2/Layer 254
+  rotate: true
+  xy: 832, 56
+  size: 38, 90
+  orig: 38, 90
+  offset: 0, 0
+  index: -1
+skin_2/Layer 280
+  rotate: true
+  xy: 805, 2
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+skin_2/Layer 298a
+  rotate: false
+  xy: 967, 552
+  size: 205, 111
+  orig: 205, 111
+  offset: 0, 0
+  index: -1
+skin_2/Layer 298b
+  rotate: true
+  xy: 2, 71
+  size: 158, 272
+  orig: 158, 272
+  offset: 0, 0
+  index: -1
+skin_2/Layer 302 copy
+  rotate: false
+  xy: 811, 445
+  size: 154, 218
+  orig: 154, 218
+  offset: 0, 0
+  index: -1
+skin_2/Layer 313 copy 3
+  rotate: false
+  xy: 727, 2
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+skin_2/Layer 314
+  rotate: true
+  xy: 1788, 113
+  size: 94, 109
+  orig: 94, 109
+  offset: 0, 0
+  index: -1
+skin_2/Layer 321
+  rotate: false
+  xy: 1954, 552
+  size: 52, 111
+  orig: 52, 111
+  offset: 0, 0
+  index: -1
+skin_2/Layer 323
+  rotate: false
+  xy: 1036, 64
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+skin_2/Layer 364
+  rotate: true
+  xy: 1872, 79
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+skin_2/Layer 365
+  rotate: false
+  xy: 1123, 539
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+skin_2/Layer279
+  rotate: false
+  xy: 2, 231
+  size: 525, 432
+  orig: 525, 432
+  offset: 0, 0
+  index: -1
+skin_2/mom1
+  rotate: true
+  xy: 1872, 2
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: true
+  xy: 1782, 25
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: true
+  xy: 1674, 43
+  size: 70, 106
+  orig: 70, 106
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 832, 96
+  size: 121, 79
+  orig: 121, 79
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: false
+  xy: 529, 252
+  size: 232, 118
+  orig: 232, 118
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_2
+  rotate: true
+  xy: 955, 64
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 811, 329
+  size: 114, 154
+  orig: 114, 154
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: true
+  xy: 1899, 67
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1

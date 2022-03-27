@@ -1,0 +1,321 @@
+
+Tillion.png
+size: 763,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 215, 328
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Folder 2 Copy
+  rotate: false
+  xy: 2, 357
+  size: 211, 670
+  orig: 211, 670
+  offset: 0, 0
+  index: -1
+skin_1/Layer 51 Copy
+  rotate: true
+  xy: 215, 573
+  size: 91, 376
+  orig: 91, 376
+  offset: 0, 0
+  index: -1
+skin_1/Layer 96
+  rotate: true
+  xy: 744, 720
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+skin_1/Layer 97
+  rotate: false
+  xy: 402, 225
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 12
+  rotate: true
+  xy: 2, 124
+  size: 231, 164
+  orig: 231, 164
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 16a
+  rotate: false
+  xy: 215, 405
+  size: 196, 166
+  orig: 196, 166
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 21
+  rotate: false
+  xy: 503, 105
+  size: 96, 109
+  orig: 96, 109
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 23
+  rotate: true
+  xy: 620, 757
+  size: 73, 141
+  orig: 73, 141
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 29
+  rotate: true
+  xy: 503, 16
+  size: 87, 106
+  orig: 87, 106
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 2a
+  rotate: true
+  xy: 593, 577
+  size: 76, 126
+  orig: 76, 126
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 3
+  rotate: false
+  xy: 461, 292
+  size: 162, 111
+  orig: 162, 111
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 30
+  rotate: false
+  xy: 361, 241
+  size: 98, 85
+  orig: 98, 85
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 34a
+  rotate: true
+  xy: 620, 655
+  size: 100, 122
+  orig: 100, 122
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 35a
+  rotate: true
+  xy: 616, 220
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 37
+  rotate: true
+  xy: 461, 216
+  size: 74, 153
+  orig: 74, 153
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 38
+  rotate: true
+  xy: 168, 126
+  size: 92, 136
+  orig: 92, 136
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 39
+  rotate: false
+  xy: 419, 68
+  size: 82, 146
+  orig: 82, 146
+  offset: 0, 0
+  index: -1
+skin_1/Layer 98 Copy 8
+  rotate: false
+  xy: 2, 2
+  size: 167, 120
+  orig: 167, 120
+  offset: 0, 0
+  index: -1
+skin_1/fxweapon
+  rotate: false
+  xy: 625, 304
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 702, 495
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: false
+  xy: 693, 339
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_3
+  rotate: false
+  xy: 694, 153
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 306, 6
+  size: 48, 122
+  orig: 48, 122
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: true
+  xy: 306, 56
+  size: 162, 111
+  orig: 162, 111
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 413, 405
+  size: 196, 166
+  orig: 196, 166
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: true
+  xy: 611, 24
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+skin_2/Layer 103
+  rotate: false
+  xy: 215, 666
+  size: 403, 361
+  orig: 403, 361
+  offset: 0, 0
+  index: -1
+skin_2/Layer 74
+  rotate: true
+  xy: 693, 292
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+skin_2/Layer 74 Copy
+  rotate: false
+  xy: 697, 39
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 10
+  rotate: true
+  xy: 361, 220
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 11
+  rotate: false
+  xy: 611, 468
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 24
+  rotate: false
+  xy: 702, 535
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 25
+  rotate: false
+  xy: 697, 69
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 26
+  rotate: false
+  xy: 735, 62
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 27
+  rotate: false
+  xy: 721, 577
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 28
+  rotate: true
+  xy: 430, 16
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 31
+  rotate: false
+  xy: 611, 406
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 32
+  rotate: false
+  xy: 671, 409
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 33
+  rotate: true
+  xy: 716, 247
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 4
+  rotate: false
+  xy: 168, 220
+  size: 191, 106
+  orig: 191, 106
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 6
+  rotate: true
+  xy: 694, 121
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 7
+  rotate: true
+  xy: 171, 9
+  size: 115, 133
+  orig: 115, 133
+  offset: 0, 0
+  index: -1
+skin_2/Layer 98 Copy 9
+  rotate: false
+  xy: 620, 832
+  size: 134, 195
+  orig: 134, 195
+  offset: 0, 0
+  index: -1
+skin_2/hand
+  rotate: false
+  xy: 601, 115
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1

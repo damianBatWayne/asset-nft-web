@@ -1,0 +1,237 @@
+
+Morna.png
+size: 1953,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 733, 138
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Body
+  rotate: false
+  xy: 810, 151
+  size: 205, 231
+  orig: 205, 231
+  offset: 0, 0
+  index: -1
+skin_1/Eye_L
+  rotate: false
+  xy: 173, 15
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+skin_1/Eye_R
+  rotate: true
+  xy: 461, 2
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+skin_1/Hair
+  rotate: false
+  xy: 2, 39
+  size: 316, 343
+  orig: 316, 343
+  offset: 0, 0
+  index: -1
+skin_1/Hair_1
+  rotate: true
+  xy: 1228, 169
+  size: 213, 91
+  orig: 213, 91
+  offset: 0, 0
+  index: -1
+skin_1/Hair_2
+  rotate: false
+  xy: 1017, 166
+  size: 209, 216
+  orig: 209, 216
+  offset: 0, 0
+  index: -1
+skin_1/Head
+  rotate: false
+  xy: 1321, 183
+  size: 171, 199
+  orig: 171, 199
+  offset: 0, 0
+  index: -1
+skin_1/L_Finger
+  rotate: false
+  xy: 135, 6
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+skin_1/L_Hand
+  rotate: true
+  xy: 1864, 203
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+skin_1/L_Knee
+  rotate: true
+  xy: 1744, 124
+  size: 64, 113
+  orig: 64, 113
+  offset: 0, 0
+  index: -1
+skin_1/L_Leg
+  rotate: false
+  xy: 1669, 5
+  size: 93, 98
+  orig: 93, 98
+  offset: 0, 0
+  index: -1
+skin_1/L_M_Arm
+  rotate: false
+  xy: 1867, 284
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+skin_1/L_Shoulder_Armor
+  rotate: false
+  xy: 911, 8
+  size: 68, 141
+  orig: 68, 141
+  offset: 0, 0
+  index: -1
+skin_1/L_U_Arm
+  rotate: false
+  xy: 1744, 190
+  size: 118, 103
+  orig: 118, 103
+  offset: 0, 0
+  index: -1
+skin_1/Lion
+  rotate: true
+  xy: 733, 2
+  size: 134, 176
+  orig: 134, 176
+  offset: 0, 0
+  index: -1
+skin_1/R_Hand
+  rotate: true
+  xy: 1864, 124
+  size: 77, 85
+  orig: 77, 85
+  offset: 0, 0
+  index: -1
+skin_1/R_Knee
+  rotate: false
+  xy: 1764, 18
+  size: 61, 104
+  orig: 61, 104
+  offset: 0, 0
+  index: -1
+skin_1/R_Leg
+  rotate: true
+  xy: 1744, 295
+  size: 87, 121
+  orig: 87, 121
+  offset: 0, 0
+  index: -1
+skin_1/R_M_Arm
+  rotate: false
+  xy: 1827, 29
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+skin_1/R_Shoulder_Armor
+  rotate: true
+  xy: 1494, 204
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+skin_1/R_U_Arm
+  rotate: false
+  xy: 1659, 255
+  size: 83, 127
+  orig: 83, 127
+  offset: 0, 0
+  index: -1
+skin_1/Weapon
+  rotate: true
+  xy: 320, 49
+  size: 333, 148
+  orig: 333, 148
+  offset: 0, 0
+  index: -1
+skin_1/Weapon_2
+  rotate: false
+  xy: 981, 9
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+skin_1/Weapon_Handle
+  rotate: false
+  xy: 1123, 3
+  size: 408, 161
+  orig: 408, 161
+  offset: 0, 0
+  index: -1
+skin_1/arrow
+  rotate: true
+  xy: 470, 51
+  size: 331, 261
+  orig: 331, 261
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 1669, 105
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: false
+  xy: 1669, 185
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 2, 2
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_2
+  rotate: true
+  xy: 92, 4
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 500, 3
+  size: 165, 46
+  orig: 165, 46
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: false
+  xy: 1533, 26
+  size: 134, 176
+  orig: 134, 176
+  offset: 0, 0
+  index: -1
+ten
+  rotate: false
+  xy: 188, 16
+  size: 271, 21
+  orig: 271, 21
+  offset: 0, 0
+  index: -1
